@@ -77,8 +77,8 @@ img {
   
 <p style="text-align:center;"><strong>Pi Day Recitation Challenge during pre Covid-19 years</strong></p> 
 
-<img style="width:100%" src="0000">
-<p style="text-align:center;"><strong>0000</strong></p>
+<img style="width:100%" src="![](/images/cjc%20stem%20picture%2012.png)">
+<p style="text-align:center;"><strong>Students taking part in Escape Room on board Labs on Wheels digital literacy programme by IMDA on Cybersecurity and Artificial Intelligence</strong></p>
 
 <img style="width:100%" src="0000">
 <p style="text-align:center;"><strong>0000</strong></p>
