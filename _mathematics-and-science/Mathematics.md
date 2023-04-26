@@ -213,11 +213,8 @@ Essentially, a graphing calculator (GC) is a learning tool that is designed to h
 **STRETCH PROGRAMMES**
 
   
-
-**“Success is no longer about reproducing content knowledge, but about extrapolating from what we know and applying that knowledge to novel situations.”**
-
-_Andreas Schleicher, head of OECD PISA_
-
+<p style="text-align:center;"><strong>“Success is no longer about reproducing content knowledge, but about extrapolating from what we know and applying that knowledge to novel situations.”</strong></p>
+<p style="text-align:right;"><em>Andreas Schleicher, head of OECD PISA</em></p>
   
 
 We believe in maximising the potential of every student and offer intellectually stimulating learning experiences for students who are ready to go deeper and further in the subject, thereby igniting a passion in them and preparing them for a digital future.
