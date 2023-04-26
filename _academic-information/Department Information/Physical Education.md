@@ -31,7 +31,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="![](/images/physical%20education_1.jpg)">  
+<img style="width:70%;" src="/images/physical%20education_1.jpg">  
   
  <br>
 
@@ -42,6 +42,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="![](/images/physical%20education_2.png)">  
-  
- 
+<img style="width:70%;" src="/images/physical%20education_2.png">
