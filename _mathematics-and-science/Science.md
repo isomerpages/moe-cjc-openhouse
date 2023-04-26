@@ -135,7 +135,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="LMAOOO" src="LMAOOO">  
+<img style="width:70%;" alt="Encouragement award at Greenwave Environmental Care Comp" src="![](/images/encouragement%20award%20at%20greenwave%20environmental%20care%20comp.jpg)">  
   
   
-<figcaption style="text-align:center;">LMAOOOO</figcaption>
+<p style="text-align:center;"><em>Encouragement award at Greenwave Environmental Care Comp</em></p>
