@@ -72,10 +72,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="LMAOOO" src="LMAOOO">  
+<img style="width:70%;" src="![](/images/ong%20min%20han%20at%20aerospace%20summer%20camp.jpg)">  
   
   
-<figcaption style="text-align:center;">LMAOOOO</figcaption> 
+<p style="text-align:center;"><strong>Ong Min Han at the Aerospace Summer Camp</strong></p> 
 
 <style>  
 img {  
