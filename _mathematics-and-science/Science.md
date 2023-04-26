@@ -102,6 +102,8 @@ img {
   
 <p style="text-align:center;"><strong>STEP Environment Camp</strong></p> 
 
+My journey through the STEP Environment Camp was an enriching and enjoyable one. I was exposed to the different natural biodiversity Singapore has, such as the marine and mangrove environment, and learnt about the devastating impacts of improper waste treatment on these fragile ecosystems. Additionally, the camp has given me the opportunity to meet new friends from 12 different countries and work with them for our end-of-camp presentation, for which my group was awarded 1st place. Although the camp was draining, it definitely helped me gain more knowledge about other countries and grow to appreciate our natural environment even more. (Reflections by Sherna Cahyadi, 1T32, 2019)
+
 <style>  
 img {  
   display: block;  
@@ -109,10 +111,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="LMAOOO" src="LMAOOO">  
+<img style="width:70%;" alt="Climate change, melting ice and warming oceans Talk by A/P Adam Switzer, Nanyang Technological University" src="![](/images/climate%20change%20talk.jpg)">  
   
   
-<figcaption style="text-align:center;">LMAOOOO</figcaption> 
+<p style="text-align:center;"><em>Climate change, melting ice and warming oceans Talk by A/P Adam Switzer, Nanyang Technological University</em></p> 
 
 <style>  
 img {  
