@@ -250,7 +250,15 @@ Participants of this competition are shortlisted based on their JC1 performance 
 
 **WOW Factor**: Real world problems require students to integrate knowledge from different topics of mathematics for their analysis and solution. And real problems take time and teamwork. The IM2C provides students with a deeper experience both of how mathematics can explain our world and what working with mathematics looks like. The participants have to be resourceful, do independent research as well as work closely as a team. One of the team members must have knowledge of Python programming. Students also have the opportunity to hone their Scientific Report Summary writing skills.
 
-<img style="width:100%" src="0000">
+<img style="width:100%" src="![](/images/international%20mathematical%20modelling%20challenge.JPG)">
+
+2.  **Data Science Competition**
+
+This is a team-based competition open to students in their second year. Organized by the Department of Statistics and Applied Probability of the NUS, the annual competition encourages students to explore creative data displays.
+
+  
+
+**WOW Factor**: Mentored by a tutor, participants are challenged to apply research skills and perform statistical analysis using concepts that they learnt from H2 Maths as well as H2 Further Maths to create a poster of an authentic social issue of their interest. Students also have the opportunity to hone their skills in data collection, statistical report writing, and design.
 
 <img style="width:100%" src="0000">
 
