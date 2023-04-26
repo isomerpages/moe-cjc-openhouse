@@ -66,3 +66,5 @@ Yellow symbolizes Truth. Truth encompasses the character of the person, standing
 The Flame symbolizes all that we hold dear in this College and all that we hope to offer in service to the world through the men and women who pass through the doors of our College.
 
 #### **The Mission of our Catholic Schools**
+
+<div align="center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/sVo1REmWdZ8" height="315" width="560"></iframe></div>
