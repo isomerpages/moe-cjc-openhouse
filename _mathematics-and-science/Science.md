@@ -60,10 +60,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="LMAOOO" src="LMAOOO">  
+<img style="width:70%;" src="![](/images/winner%20of%20ips%20poster%20award.jpg)">  
   
   
-<figcaption style="text-align:center;">LMAOOOO</figcaption> 
+<p style="text-align:center;"><strong>Ignatius Choong, Winner of IPS Poster Award with Distinction and Elementz Research Competition (Silver award)</strong></p> 
 
 <style>  
 img {  
