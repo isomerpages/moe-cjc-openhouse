@@ -158,14 +158,12 @@ H3 Mathematics offers students who have a strong aptitude for, and are passionat
 
   
 
-**Assessment**
-
+**Assessment** <br>
 One 3-hour paper, marked out of 100.
 
   
 
-**Topic Overview**
-
+**Topic Overview** <br>
 1.  Numbers, e.g. primes, co-primes, divisibility, modulo arithmetic, greatest common divisor, division algorithm;
 2.  Functions, e.g. graphs, symmetries, derivatives, integrals, differential equations, limiting behaviours, bounds;
 3.  Sequences and series, e.g. general terms, sum, limiting behaviours, bounds;
@@ -180,11 +178,9 @@ H3 Mathematics is to be studied together with H2 Mathematics.
 
 Students are selected for H3 Mathematics at the end of JC1, based on their performance throughout the year, including the end-of-year examination and possible selection tests.
 
-Frequently Asked Questions
---------------------------
+#### **Frequently Asked Questions**
 
-**1\. Should I do H1 or H2 Mathematics?**
-
+**1\. Should I do H1 or H2 Mathematics?** <br>
 You should consider H2 Mathematics if you  
 
 *   are interested in science, strong in Mathematics and offer mathematics because it supports your future in science (excluding biological sciences).
