@@ -41,7 +41,7 @@ img {
 <img style="width:70%;" src="/images/loh%20ming%20cheng%20and%20nicholas%20wee%20bronze%20medallists%20at%20the%2032nd%20chemistry%20olympiad.jpeg">  
   
   
-<figcaption style="text-align:center;"><strong>Loh Ming Cheng and Nicholas Wee, Bronze medallists at the 32nd Chemistry Olympiad</strong></figcaption> 
+<figcaption style="text-align:center;"><strong>Loh Ming Cheng and Nicholas Wee, Bronze medallists at the 32nd Chemistry Olympiad</strong></figcaption><br>
 
 <style>  
 img {  
@@ -50,7 +50,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="![](/images/cjc%20science.JPG)">  
+<img style="width:70%;" src="/images/cjc%20science.JPG">  
 <br>
 
 <style>  
@@ -60,7 +60,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="![](/images/winner%20of%20ips%20poster%20award.jpg)">  
+<img style="width:70%;" src="/images/winner%20of%20ips%20poster%20award.jpg">  
   
   
 <p style="text-align:center;"><strong>Ignatius Choong, Winner of IPS Poster Award with Distinction and Elementz Research Competition (Silver award)</strong></p> 
@@ -72,7 +72,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="![](/images/ong%20min%20han%20at%20aerospace%20summer%20camp.jpg)">  
+<img style="width:70%;" src="/images/ong%20min%20han%20at%20aerospace%20summer%20camp.jpg">  
   
   
 <p style="text-align:center;"><strong>Ong Min Han at the Aerospace Summer Camp</strong></p> 
@@ -84,7 +84,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Electric Vehicle Challenge" src="![](/images/electric%20vehicle%20challenge.jpg)">  
+<img style="width:70%;" alt="Electric Vehicle Challenge" src="/images/electric%20vehicle%20challenge.jpg">  
   
   
 <p style="text-align:center;"><strong>Electric Vehicle Challenge
@@ -97,7 +97,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="STEP Environment Camp" src="![](/images/step%20environment%20camp.jpg)">  
+<img style="width:70%;" alt="STEP Environment Camp" src="/images/step%20environment%20camp.jpg">  
   
   
 <p style="text-align:center;"><strong>STEP Environment Camp</strong></p> 
@@ -111,7 +111,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Climate change, melting ice and warming oceans Talk by A/P Adam Switzer, Nanyang Technological University" src="![](/images/climate%20change%20talk.jpg)">  
+<img style="width:70%;" alt="Climate change, melting ice and warming oceans Talk by A/P Adam Switzer, Nanyang Technological University" src="/images/climate%20change%20talk.jpg">  
   
   
 <p style="text-align:center;"><em>Climate change, melting ice and warming oceans Talk by A/P Adam Switzer, Nanyang Technological University</em></p> 
@@ -123,7 +123,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Talk on “Earthquakes, Tsunamis and what we can learn from them” by Dr James Moore, Nanyang Technological University, Singapore" src="![](/images/talk%20on%20earthquakes.jpg)">  
+<img style="width:70%;" alt="Talk on “Earthquakes, Tsunamis and what we can learn from them” by Dr James Moore, Nanyang Technological University, Singapore" src="/images/talk%20on%20earthquakes.jpg">  
   
   
 <p style="text-align:center;"><em>Talk on “Earthquakes, Tsunamis and what we can learn from them” by Dr James Moore, Nanyang Technological University, Singapore</em></p> 
@@ -135,7 +135,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Encouragement award at Greenwave Environmental Care Comp" src="![](/images/encouragement%20award%20at%20greenwave%20environmental%20care%20comp.jpg)">  
+<img style="width:70%;" alt="Encouragement award at Greenwave Environmental Care Comp" src="/images/encouragement%20award%20at%20greenwave%20environmental%20care%20comp.jpg">  
   
   
 <p style="text-align:center;"><em>Encouragement award at Greenwave Environmental Care Comp</em></p>
