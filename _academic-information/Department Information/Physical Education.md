@@ -31,7 +31,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="/images/physical%20education_1.jpg">  
+<img style="width:85%;" src="/images/physical%20education_1.jpg">  
   
  <br>
 
@@ -42,7 +42,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="/images/physical%20education_2.png">
+<img style="width:85%;" src="/images/physical%20education_2.png">
 
 Click to find out more about the CJC PE Programme: [PE Microsite Materials (1).pptx - Google Slides](https://docs.google.com/presentation/d/1cwcHgTNZw5YtbVwPKuaOyArbt7D18k1i/edit#slide=id.p1)
 
