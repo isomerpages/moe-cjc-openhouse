@@ -23,7 +23,7 @@ The Scholarship is open for application until&nbsp;**8th March 2021**&nbsp;for J
 
 More information and FAQs on application for the Archbishop's Scholarship is available here:
 
-[CJC Archbishops Scholarship Application\_Jan 2021.pdf](https://cjc.moe.edu.sg/qql/slot/u495/Admissions/Scholarships/CJC%20Archbishops%20Scholarship%20Application_Jan%202021.pdf)&nbsp;  
+[CJC Archbishops Scholarship Application\_Jan 2021.pdf](/files/cjc%20archbishops%20scholarship%20application_jan%202021.pdf)&nbsp;  
 
 Please click&nbsp;[here](https://form.gov.sg/#!/601a9a4c69582200118f7170)&nbsp;for the application form.  
 
