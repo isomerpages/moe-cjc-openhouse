@@ -18,24 +18,20 @@ Experimental work is also an important component. Students will need to be able 
 
 At CJC, great emphasis is placed on the understanding and application of scientific concepts and principles rather than exposure to factual knowledge. Students will need to develop relevant skills in an increasingly diverse technological society and the department will focus on moulding self-directed learners and providing opportunities to learn from multiple collaboration and assessment platforms.
 
-A-Level Syllabus
-----------------
+#### **A-Level Syllabus**
 
 Click the following links for an overview of the Chemistry syllabi as well as the assessment formats:
 
   
 
-H1 Chemistry:
-
+H1 Chemistry: <br>
 [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/8873\_y23\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/8873_y23_sy.pdf)  
   
 
-H2 Chemistry:
-
+H2 Chemistry: <br>
 [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9729\_y23\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9729_y23_sy.pdf)  
 
-Prerequisites/Suitability
--------------------------
+#### Prerequisites/Suitability
 
 Students most suited for A-level H2 Chemistry are those with a strong foundation in O-Level chemistry coupled with an inquisitive mind and desire to learn more.&nbsp;
 
