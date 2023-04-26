@@ -106,10 +106,8 @@ Broadly speaking, students will be assessed on three levels:
 
   
 
-*   **One 3-hour paper marked out of 100**
-    
-    \- Section A (Pure Mathematics – 40 marks)
-    
+*   **One 3-hour paper marked out of 100** <br>
+    \- Section A (Pure Mathematics – 40 marks) <br>
     \- Section B (Probability and Statistics – 60 marks).
     
 
@@ -119,20 +117,17 @@ Examination questions may integrate ideas from more than one topic, and topics m
 
   
 
-### H2 Mathematics (9758) Revised Syllabus for 2016 onward
+##### H2 Mathematics (9758) Revised Syllabus for 2016 onward
 
   
 
 *   Two 3-hour papers, each carrying 50% of the total mark, and each marked out of 100.
-*   **Paper 1 (3 hours):**
-    
+*   **Paper 1 (3 hours):** <br>
     Only the Pure Mathematics section of the syllabus (100 marks)
     
 
-*   **Paper 2 (3 hours):**
-    
-    \- Section A (Pure Mathematics – 40 marks)
-    
+*   **Paper 2 (3 hours):** <br> 
+    \- Section A (Pure Mathematics – 40 marks) <br>
     \- Section B (Probability and Statistics – 60 marks)
     
 
@@ -142,7 +137,7 @@ Examination questions may integrate ideas from more than one topic, and topics m
 
   
 
-### H3 Mathematics (9820) Revised Syllabus for 2016 onward
+##### H3 Mathematics (9820) Revised Syllabus for 2016 onward
 
   
 
