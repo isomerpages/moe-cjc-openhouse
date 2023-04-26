@@ -2,8 +2,8 @@ collections:
   mathematics-and-science:
     output: true
     order:
+      - Science/.keep
+      - Science/Science.md
       - Science/Biology.md
       - Science/Chemistry.md
       - Science/Physics.md
-      - Science/Science.md
-      - Science/.keep
