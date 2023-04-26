@@ -59,11 +59,11 @@ img {
 <p style="text-align:center;"><strong>Students solve puzzles in Escape Room during pre Covid-19 years</strong></p>
 
 <img style="width:100%" src="![](/images/python%20programming%20workshops%20in%20pre%20covid-19%20years.JPG)">
-<p style="text-align:center;"><strong>Python Programming Workshops in pre Covid-19 years
-</strong></p>
+<p style="text-align:center;"><strong>Python Programming Workshops in pre Covid-19 years</strong></p>
 
-<img style="width:100%" src="0000">
-<p style="text-align:center;"><strong>0000</strong></p>
+<img style="width:100%" src="![](/images/cjc%20stem%20picture%2010.png)">
+<p style="text-align:center;"><strong>
+External Trainers conducting STEM Workshops over Zoom on Space Technology and Biotechnology</strong></p>
 
 centre
 
