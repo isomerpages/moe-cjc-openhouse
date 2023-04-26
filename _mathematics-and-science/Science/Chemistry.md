@@ -93,8 +93,7 @@ H3 Chemistry is only offered to students who have done very well at the end of t
 
 #### **FAQs**
 
-**What is the difference between H1 and H2 Chemistry**
-
+**What is the difference between H1 and H2 Chemistry** <br>
 The content covered in H1 is significantly less compared to the content covered in H2. There is NO lab work for H1. Please refer to&nbsp;[www.seab.gov.sg](http://www.seab.gov.sg/)&nbsp;for more information.
 
   
@@ -108,8 +107,7 @@ Comparison of Subject Content in H1 and H2 Chemistry
 
   
 
-**I took Combined Science at ‘O’ Level. Will I be able to cope with H1/H2 Chemistry?**
-
+**I took Combined Science at ‘O’ Level. Will I be able to cope with H1/H2 Chemistry?** <br>
 A-Level Chemistry does build upon your knowledge of O-Level Chemistry. However, performance is largely dependent on your consistency and effort as you study the subject.
 
   
@@ -122,13 +120,12 @@ Many other topics are new and all students start on an equal footing.
 
   
 
-**What is the assessment format for H1 / H2 Chemistry?**
-
+**What is the assessment format for H1 / H2 Chemistry** <br>
 In addition to the lack of Practical Exams for H1 Chemistry, the assessment for H1 and H2 Chemistry also differs as shown below:
 
   
 
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); width: 670px;" class="iveo_table ives_tab_simple3" cellpadding="0" cellspacing="0" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 55.55pt;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Paper</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 213.35pt;"><strong style="margin: 0px; outline: 0px; padding: 0px;">H2 (%)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 214.85pt;"><strong style="margin: 0px; outline: 0px; padding: 0px;">H1 (%)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 55.55pt;">1<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 213.35pt;">30 MCQs (15%)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 214.85pt;">30 MCQs (33%)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 55.55pt;">2<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 213.35pt;">Structured Qns<br style="margin: 0px; outline: 0px; padding: 0px;">[including Data-Based] (30%)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 214.85pt;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Section A:</strong>&nbsp;Structured Qns<br style="margin: 0px; outline: 0px; padding: 0px;">[including Data Response Qn(s)]<br style="margin: 0px; outline: 0px; padding: 0px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Section B:</strong>&nbsp;Free Response Qns<br style="margin: 0px; outline: 0px; padding: 0px;">(67%)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 55.55pt;">3<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 213.35pt;">Free Response Qns (35%)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 214.85pt;">-<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 55.55pt;">4<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 213.35pt;">Practical Paper (20%)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 214.85pt;">-<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); width: 670px;" class="iveo_table ives_tab_simple3" cellpadding="0" cellspacing="0" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 55.55pt;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Paper</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 213.35pt;"><strong style="margin: 0px; outline: 0px; padding: 0px;">H2 (%)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 214.85pt;"><strong style="margin: 0px; outline: 0px; padding: 0px;">H1 (%)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 55.55pt;">1<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 213.35pt;">30 MCQs (15%)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 214.85pt;">30 MCQs (33%)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 55.55pt;">2<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 213.35pt;">Structured Qns<br style="margin: 0px; outline: 0px; padding: 0px;">[including Data-Based] (30%)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 214.85pt;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Section A:</strong>&nbsp;Structured Qns<br style="margin: 0px; outline: 0px; padding: 0px;">[including Data Response Qn(s)]<br style="margin: 0px; outline: 0px; padding: 0px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Section B:</strong>&nbsp;Free Response Qns<br style="margin: 0px; outline: 0px; padding: 0px;">(67%)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 55.55pt;">3<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 213.35pt;">Free Response Qns (35%)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 214.85pt;">-<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 55.55pt;">4<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 213.35pt;">Practical Paper (20%)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 214.85pt;">-<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table><br>
 
   
 
@@ -137,16 +134,14 @@ In addition to the lack of Practical Exams for H1 Chemistry, the assessment for 
   
   
 
-**What is the assessment format for H3 Chemistry?**
-
+**What is the assessment format for H3 Chemistry?** <br>
 Students will need to answer free response questions (at least 4) in 2 h 30 min, including 1 or 2 stimulus-based questions.
 
   
 
   
 
-**Which courses in university have A-Level Chemistry as admission criteria?**
-
+**Which courses in university have A-Level Chemistry as admission criteria?** <br>
 A good H2 pass in Chemistry is required for courses such as Medicine, Dentistry (these two courses also require another H2 Science), Pharmacy and Chemistry.
 
   
@@ -157,19 +152,17 @@ The list given is not exhaustive, and for most courses that require knowledge of
 
   
 
-**Should I pursue A-Level Chemistry?**
-
+**Should I pursue A-Level Chemistry?** <br>
 Individuals will have to decide and take ownership of their choices. Ultimately, the ideal scenario is that either you enjoy learning about Chemistry at a much greater depth compared to O-Level, or you require A-Level Chemistry as a prerequisite for certain university courses.
 
-Contact Details
----------------
+#### **Contact Details**
 
 Do you have a question that has not been addressed on this site? If so, feel free to write to us:
 
   
   
 
-Head of Department: [Mr Bernard Yeong](mailto:yeong_kok_cheong_bernard@moe.edu.sg)
-
-Level Head: [Ms Jennifer Goh  
-](mailto:goh_jia_lei_jennifer@moe.edu.sg)Level Head: [Mr Yang Jiexiang](mailto:yang_jiexiang@moe.edu.sg)
+**Head of Department:** [Mr Bernard Yeong](mailto:yeong_kok_cheong_bernard@moe.edu.sg) <br>
+**Level Head:** [Ms Jennifer Goh  
+](mailto:goh_jia_lei_jennifer@moe.edu.sg) <br>
+**Level Head:** [Mr Yang Jiexiang](mailto:yang_jiexiang@moe.edu.sg)
