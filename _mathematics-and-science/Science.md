@@ -84,10 +84,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="LMAOOO" src="LMAOOO">  
+<img style="width:70%;" alt="Electric Vehicle Challenge" src="![](/images/electric%20vehicle%20challenge.jpg)">  
   
   
-<figcaption style="text-align:center;">LMAOOOO</figcaption> 
+<p style="text-align:center;"><strong>Electric Vehicle Challenge
+</strong></p> 
 
 <style>  
 img {  
