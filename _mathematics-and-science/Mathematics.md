@@ -200,16 +200,13 @@ You should consider H1 Mathematics if you
 
   
 
-**2\. If I have no Additional Mathematics background, can I still take H2 Mathematics?**
-
+**2\. If I have no Additional Mathematics background, can I still take H2 Mathematics?** <br>
 If you are very clear of the purpose of taking H2 mathematics, you can still take H2 Mathematics provided you meet the college merit-based criteria (please refer to the subject combination section).&nbsp;You must be prepared to spend more time outside curriculum time to do the catching up. You must also consider the time needed for other subjects who are new to you, such as General Paper and Project Work.
 
-**3\. What is this Graphing Calculator?**
-
+**3\. What is this Graphing Calculator?** <br>
 Essentially, a graphing calculator (GC) is a learning tool that is designed to help students visualize and better understand concepts in mathematics and science, and the use of a GC is expected for H1, H2 &amp; H3 Mathematics. Examination papers will be set with the assumption that candidates will have access to a GC. The college uses the model by Texas Instruments.
 
-Academic Enrichment Section
----------------------------
+#### **Academic Enrichment Section**
 
 **CJC MATHEMATICS DEPARTMENT**
 
