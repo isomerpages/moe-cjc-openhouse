@@ -159,8 +159,6 @@ Individuals will have to decide and take ownership of their choices. Ultimately,
 
 Do you have a question that has not been addressed on this site? If so, feel free to write to us:
 
-  
-  
 
 **Head of Department:** [Mr Bernard Yeong](mailto:yeong_kok_cheong_bernard@moe.edu.sg) <br>
 **Level Head:** [Ms Jennifer Goh  
