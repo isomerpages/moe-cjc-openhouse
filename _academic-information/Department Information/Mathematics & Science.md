@@ -142,9 +142,15 @@ img {
 
 &nbsp;In this two-day online virtual research hackathon, students were introduced to&nbsp;&nbsp;&nbsp; &nbsp;the Monte Carlo Simulation to model the probability of different outcomes in a&nbsp;&nbsp;&nbsp; &nbsp;process that cannot easily be predicted due to the intervention of random variables. They had to utilize the simulation to model traffic and work in groups&nbsp;&nbsp;&nbsp; &nbsp;to propose and test different solutions to improve traffic conditions.
 
-&nbsp;Rayan Wong of 2T08 took part in this event in 2021 and his group, which consisted of students from other schools, emerged as the champion.
+Rayan Wong of 2T08 took part in this event in 2021 and his group, which consisted of students from other schools, emerged as the champion.
 
-<img style="width:100%" src="0000">
+<img style="width:100%" src="![](/images/cjc%20stem%20picture%2021.jpg)">
+
+**(iv)**&nbsp; &nbsp;**Singapore International Science Challenge**
+
+&nbsp;The Singapore International Science Challenge (SISC**)**&nbsp;is a biennial international&nbsp;&nbsp; &nbsp; &nbsp;event that brings together students of ages 15 to 18 from around the world to&nbsp;compete, collaborate and innovate in the Sciences. The multi-disciplinary foci and integrated nature of the challenges provide an authentic backdrop for&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;students to apply scientific and technical knowledge to solving problems and&nbsp;innovate impactful solutions. In previous SISC events, students across the globe&nbsp;came together for five days to stay onsite at NJC to communicate their research,&nbsp;collaborate in multi-national teams, and to innovate well-designed solutions to&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;science challenges.
+
+In 2021, SISC became an online event and brought together students from around the world to collaborate and learn both asynchronously and synchronously.&nbsp;The theme for SISC 2021 is Altruistic Thinkers, Global Citizens (ATGC).&nbsp;CJC sent a team of 3 JC2 students for the challenge and one of our students,&nbsp;PL Raamanathan,&nbsp;clinched the Thinker Award in the Field Challenge while another student,&nbsp;Lokav Srikanth,&nbsp;clinched the Creative Award in the Design and Build Challenge.
 
 <img style="width:100%" src="0000">
 <p style="text-align:center;"><strong>0000</strong></p>
