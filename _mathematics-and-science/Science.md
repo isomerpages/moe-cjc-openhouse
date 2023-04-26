@@ -123,10 +123,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="LMAOOO" src="LMAOOO">  
+<img style="width:70%;" alt="Talk on “Earthquakes, Tsunamis and what we can learn from them” by Dr James Moore, Nanyang Technological University, Singapore" src="![](/images/talk%20on%20earthquakes.jpg)">  
   
   
-<figcaption style="text-align:center;">LMAOOOO</figcaption> 
+<p style="text-align:center;"><em>Talk on “Earthquakes, Tsunamis and what we can learn from them” by Dr James Moore, Nanyang Technological University, Singapore</em></p> 
 
 <style>  
 img {  
