@@ -56,22 +56,27 @@ Schools should offer at least three physical activities for every student.
 
 Include learning outcomes which are aligned to the six goals of Physical Education (through formative assessment);
 
-  
-
-Goal 1: Acquire a range of motor skills to participate in a variety of physical activities.
-
-Goal 2: Understand and apply movement concepts, principles and strategies in a range of physical activities.
-
-Goal 3: Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment.
-
-Goal 4: Display positive personal and social behaviour across different experiences
-
-Goal 5: Acquire and maintain health-enhancing fitness through regular participation in physical activities.
-
-Goal 6: Enjoy and value the benefits of living a physically active and healthy life.
+**Goal 1:** Acquire a range of motor skills to participate in a variety of physical activities. <br>
+**Goal 2:** Understand and apply movement concepts, principles and strategies in a range of physical activities. <br>
+**Goal 3:** Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment. <br>
+**Goal 4:** Display positive personal and social behaviour across different experiences <br>
+**Goal 5:** Acquire and maintain health-enhancing fitness through regular participation in physical activities. <br>
+**Goal 6:** Enjoy and value the benefits of living a physically active and healthy life.
 
   
 
 Click the following link for an overview of the Physical Education syllabus as well as the assessment format:
 
 [https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/pe/physical\_education\_syllabus\_2014.ashx?la=en&amp;hash=99815A270E547EFA314D9D11119590576BBADE53](https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/pe/physical_education_syllabus_2014.ashx?la=en&amp;hash=99815A270E547EFA314D9D11119590576BBADE53)
+
+#### **Further Contact Details**
+
+Do you have a question that has not been addressed on this site? If so, feel free to write to one of us:
+
+  
+
+*   HOD (Covering) / Mr Sandanam: 
+[marimuthu\_sandanam@moe.edu.sg](mailto:marimuthu_sandanam@moe.edu.sg)
+
+*   SH PE/CCA / Mr Chen Yuliang: <br>
+[chen\_yuliang@moe.edu.sg](mailto:chen_yuliang@moe.edu.sg)
