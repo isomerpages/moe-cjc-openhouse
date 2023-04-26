@@ -2,6 +2,7 @@ collections:
   academic-information:
     output: true
     order:
+      - Department Information/Mother Tongue Languages (MTL).md
       - Department Information/Physical Education.md
       - Department Information/.keep
       - Scholarships.md
