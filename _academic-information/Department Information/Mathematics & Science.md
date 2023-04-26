@@ -153,10 +153,33 @@ The Singapore International Science Challenge (SISC) is a biennial international
 In 2021, SISC became an online event and brought together students from around the world to collaborate and learn both asynchronously and synchronously. The theme for SISC 2021 is Altruistic Thinkers, Global Citizens (ATGC). CJC sent a team of 3 JC2 students for the challenge and one of our students, PL Raamanathan, clinched the Thinker Award in the Field Challenge while another student, Lokav Srikanth, clinched the Creative Award in the Design and Build Challenge.
 
 <img style="width:100%" src="![](/images/cjc%20stem%20picture%2022.png)">
-<p style="text-align:center;"><strong>0000</strong></p>
 
-<img style="width:100%" src="0000">
-<p style="text-align:center;"><strong>0000</strong></p>
+**(v)**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Singapore Space Challenge**
+
+Organized by Singapore Space and Technology Ltd, the International Space Challenge (ISC) is open to youths around the world. Since 2020, we have CJC students with a keen interest in space technology representing the college in this competition. Our students receive mentoring from CJC alumni who are involved in the space industry. By taking part in this challenge, our students also receive global exposure by attending various seminars and workshops helmed by experts from around the world.
+
+The focus for 2021 is on SPACE WEATHER, a phenomenon that continues to baffle space scientists. Participants of the starter category (13 to 18 years old) are asked to design a space weather experiment to be conducted on board the International Space Station.
+
+**(vi)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**National Youth Advocacy Movement (NYUM)**
+
+NYUM is organized by Crescent Girls’ School, with the support of the Ministry of Education and S2 Cluster Schools. The movement is aligned with the national drive towards environmental education and focuses on preparing students to be responsible global citizens.&nbsp;
+
+NYUM aims to educate youths on the threats facing the natural environment and inspire youths to take action in promoting a culture of sustainability through upcycling and green consumerism.
+
+**<u>Advocacy Module</u>**&nbsp; <br>
+Two teams of three members represented CJC in NYUM Advocacy 2021.
+
+The theme for this year’s NYUM is ‘Food Packaging: Don’t Throw It, Upcycle It’. Through its ‘By Youths, For All’ approach, NYUM empowers each team to design and create upcycled household items using waste materials, with guidance from experts and consultants in the industry.
+
+From May to September this year, each team had to go through&nbsp;three&nbsp;phases, namely,&nbsp;‘Learn, Create and Advocate’,&nbsp;which culminated in a final written report to be submitted for judging by industry experts.&nbsp;
+
+Team Traffic Light was awarded the Silver Award. The team conducted a webinar to raise awareness of upcycling on 5 September. They created a video to demonstrate how they made use of existing food packaging to make a personalized notebook.
+
+Access the video here:
+
+[www.instagram.com/tv/CTjagVinlgF/?utm\_medium=copy\_link](https://drive.google.com/file/d/1AH3eMTeqc2xO-MUwoQCrRd51vI9S4k7u/view?usp=sharing)
+
+<img style="width:100%" src="![](/images/cjc%20stem%20picture%2023.png)">
 
 <img style="width:100%" src="0000">
 <p style="text-align:center;"><strong>0000</strong></p>
