@@ -44,11 +44,11 @@ The scholarship is renewable in JC2 if the student has sustained his/her contrib
 
 There will be 2 rounds of applications for the scholarship in 2021:
 
-*   Round 1:&nbsp;**10th&nbsp;–&nbsp;14th&nbsp;May**&nbsp;(Student Councillors, CCA Exco, CMC members). Interviews for selected students will be conducted between 20th&nbsp;– 28th&nbsp;May.
+*   Round 1:&nbsp;**10<sup>th</sup>&nbsp;–&nbsp;<u>14<sup>th</sup>&nbsp;May</u>**&nbsp;(Student Councillors, CCA Exco, CMC members). Interviews for selected students will be conducted between 20th&nbsp;– 28th&nbsp;May.
 
   
 
-*   Round 2:&nbsp;**24th&nbsp;–&nbsp;28th&nbsp;May**&nbsp;(House Exco, Sports Leaders). Interviews for selected students will be conducted between 2nd&nbsp;– 9th&nbsp;July
+*   Round 2:&nbsp;**24<sup>th</sup>&nbsp;–&nbsp;<u>28<sup>th</sup>&nbsp;May</u>**&nbsp;(House Exco, Sports Leaders). Interviews for selected students will be conducted between 2nd&nbsp;– 9th&nbsp;July
 
 The scholarship will be awarded to deserving students in&nbsp;**Term 3**.
 
