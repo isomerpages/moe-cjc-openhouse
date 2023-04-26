@@ -55,8 +55,8 @@ img {
   
 <p style="text-align:center;"><strong>Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years</strong></p> 
 
-<img style="width:100%" src="0000">
-<p style="text-align:center;"><strong>0000</strong></p>
+<img style="width:100%" src="![](/images/students%20solve%20puzzles%20in%20escape%20room%20during%20pre%20covid-19%20years.JPG)">
+<p style="text-align:center;"><strong>Students solve puzzles in Escape Room during pre Covid-19 years</strong></p>
 
 <img style="width:100%" src="0000">
 <p style="text-align:center;"><strong>0000</strong></p>
