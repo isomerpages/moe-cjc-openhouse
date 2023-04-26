@@ -97,10 +97,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="LMAOOO" src="LMAOOO">  
+<img style="width:70%;" alt="STEP Environment Camp" src="![](/images/step%20environment%20camp.jpg)">  
   
   
-<figcaption style="text-align:center;">LMAOOOO</figcaption> 
+<p style="text-align:center;"><strong>STEP Environment Camp</strong></p> 
 
 <style>  
 img {  
