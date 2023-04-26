@@ -99,8 +99,8 @@ The college organized the inaugural Local Leadership Programme known as CJC.STEM
 <img style="width:100%" src="![](/images/cjc%20stem%20picture%2016.png)">
 <p style="text-align:center;"><strong>Biological Sciences Lab experience by local start up firm Ants Innovate</strong></p>
 
-<img style="width:100%" src="0000">
-<p style="text-align:center;"><strong>0000</strong></p>
+<img style="width:100%" src="![](/images/cjc%20stem%20picture%2017.png)">
+<p style="text-align:center;"><strong>Physical Sciences experience by Spacecraft engineers</strong></p>
 
 <img style="width:100%" src="0000">
 <p style="text-align:center;"><strong>0000</strong></p>
