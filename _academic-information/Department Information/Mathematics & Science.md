@@ -4,7 +4,7 @@ permalink: /eopenhouse/academic-information/department-information/mathematics-n
 description: ""
 third_nav_title: Department Information
 ---
-![](/images/cjc%20stem%20picture%2021.jpg)
+![CJC STEM](/images/cjc%20stem%20picture%2021.jpg)
 
 <style>  
 img {  
@@ -39,10 +39,10 @@ img {
 
 From STEMazing Race and Escape Room to Pi Day commemoration and interest-based workshops conducted by various STEM partners, several activities are held to cater to students’ different interest in Mathematics and Science.&nbsp; House points are also awarded to inject an element of fun and competition.
 
-<img style="width:100%" src="![](/images/cjc%20stem%20picture%207.png)">
+<img style="width:100%" src="/images/cjc%20stem%20picture%207.png">
 <p style="text-align:center;"><strong>STEM Fest Publicity Boards 2018 and 2019 encouraging students' participation</strong></p>
 
-<img style="width:100%" src="![](/images/cjc%20stem%20picture%208.png)">
+<img style="width:100%" src="/images/cjc%20stem%20picture%208.png">
 <p style="text-align:center;"><strong>3D-printed student works on display at STEM Fest 2021 as post-workshop artefacts</strong></p><br>
 
 <style>  
@@ -52,18 +52,18 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years" src="![](/images/cjc%20stem%20picture%209.png)">  
+<img style="width:70%;" alt="Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years" src="/images/cjc%20stem%20picture%209.png">  
   
   
 <p style="text-align:center;"><strong>Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years</strong></p> 
 
-<img style="width:100%" src="![](/images/students%20solve%20puzzles%20in%20escape%20room%20during%20pre%20covid-19%20years.JPG)">
+<img style="width:100%" src="/images/students%20solve%20puzzles%20in%20escape%20room%20during%20pre%20covid-19%20years.JPG">
 <p style="text-align:center;"><strong>Students solve puzzles in Escape Room during pre Covid-19 years</strong></p>
 
-<img style="width:100%" src="![](/images/python%20programming%20workshops%20in%20pre%20covid-19%20years.JPG)">
+<img style="width:100%" src="/images/python%20programming%20workshops%20in%20pre%20covid-19%20years.JPG">
 <p style="text-align:center;"><strong>Python Programming Workshops in pre Covid-19 years</strong></p>
 
-<img style="width:100%" src="![](/images/cjc%20stem%20picture%2010.png)">
+<img style="width:100%" src="/images/cjc%20stem%20picture%2010.png">
 <p style="text-align:center;"><strong>
 External Trainers conducting STEM Workshops over Zoom on Space Technology and Biotechnology</strong></p>
 
@@ -74,41 +74,41 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Pi Day Recitation Challenge during pre Covid-19 years" src="![](/images/pi%20day%20recitation%20challenge.jpg)">  
+<img style="width:70%;" alt="Pi Day Recitation Challenge during pre Covid-19 years" src="/images/pi%20day%20recitation%20challenge.jpg">  
   
   
 <p style="text-align:center;"><strong>Pi Day Recitation Challenge during pre Covid-19 years</strong></p> 
 
-<img style="width:100%" src="![](/images/cjc%20stem%20picture%2012.png)">
+<img style="width:100%" src="/images/cjc%20stem%20picture%2012.png">
 <p style="text-align:center;"><strong>Students taking part in Escape Room on board Labs on Wheels digital literacy programme by IMDA on Cybersecurity and Artificial Intelligence</strong></p>
 
-<img style="width:100%" src="![Students engaging in problem solving during STEMazing Race](/images/cjc%20stem%20picture%2013.png)">
+<img style="width:100%" src="/images/cjc%20stem%20picture%2013.png">
 <p style="text-align:center;"><strong>Students engaging in problem solving during STEMazing Race</strong></p>
 
 #### **2\. CJC-Nara High School Global Exchange Programme**
 
 This month-long stretch programme is an annual exchange programme with Nara High School which is a Super Science School from Japan. Based on the theme of the UN Sustainable Development Goals, students representing the two schools collaborated on a joint research and identified how STEM helps the two countries achieve these sustainable development goals. In the process, students also get to interact and learn about each other’s culture as well as the respective countries’ journey to enhance sustainability. This programme culminated in a joint virtual presentation on the final day where students shared their findings.
 
-<img style="width:100%" src="![](/images/cjc%20stem%20picture%2014.png)">
+<img style="width:100%" src="/images/cjc%20stem%20picture%2014.png">
 
 #### **3\. STEM Local Leadership Stretch Programme**
 
 The college organized the inaugural Local Leadership Programme known as CJC.STEM.SG to replace overseas academic trips for selected JC1 students. The 5-day programme with a hybrid format is based on the theme “A More Secure and Sustainable Singapore through STEM”.&nbsp;Conceptualised based on the Practices of Science,&nbsp;the programme&nbsp;provided a rich and rigorous learning experience ranging from keynote lecture by STEM experts in the fields of sustainability to workshops on topics such as Cryptography, Mathematical Modelling, Vaccine Development, and Arduino Masterclass by Spacecraft engineers. There are also virtual tours of the NTU Satellite Research Centre and local High Tech Farm and laboratory experiences investigating the science of alternate meat by local start-up&nbsp;firm&nbsp;Ants Innovate as well as&nbsp;Genetic Engineering by Amgen Science Centre Singapore.
 
-<img style="width:100%" src="![](/images/cjc%20stem%20picture%2015.jpg)">
+<img style="width:100%" src="/images/cjc%20stem%20picture%2015.jpg">
 <p style="text-align:center;"><strong>Keynote lecture by Dr Shawn Lum, Senior Lecturer of NTU Asian School of the Environment and President of Nature Society Singapore</strong></p>
 
-<img style="width:100%" src="![](/images/cjc%20stem%20picture%2016.png)">
+<img style="width:100%" src="/images/cjc%20stem%20picture%2016.png">
 <p style="text-align:center;"><strong>Biological Sciences Lab experience by local start up firm Ants Innovate</strong></p>
 
-<img style="width:100%" src="![](/images/cjc%20stem%20picture%2017.png)">
+<img style="width:100%" src="/images/cjc%20stem%20picture%2017.png">
 <p style="text-align:center;"><strong>Physical Sciences experience by Spacecraft engineers</strong></p>
 
 Participants also had opportunities to do research, presented on five important challenges facing Singapore, and&nbsp;proposed&nbsp;innovative STEM-based solutions to a panel of judges which included an A\*star scientist.&nbsp;
 
 Participants were also challenged to assume various leadership roles, including designing their own ZOOM virtual background as part of the programme.
 
-<img style="width:100%" src="![](/images/cjc%20stem%20picture%2018.png)">
+<img style="width:100%" src="/images/cjc%20stem%20picture%2018.png">
 
 More information of the programme can be found via this link:&nbsp;[https://padlet.com/drwylim/CJC\_STEM\_SG](https://padlet.com/drwylim/CJC_STEM_SG)
 
@@ -120,7 +120,7 @@ Students are encouraged to participate in various competitions to display their 
 
 The award is given to JC2 students who have outstanding academic&nbsp;achievement, show an interest in computing and excellent co-curricular&nbsp;achievement or leadership. The 2021 award goes to Nicholas Wee Kiat Ming&nbsp;of 2T15.
 
-<img style="width:100%" src="![](/images/cjc%20stem%20picture%2019.png)">
+<img style="width:100%" src="/images/cjc%20stem%20picture%2019.png">
 
 **(ii)** **International Sci-Teens Challenge**
  
@@ -133,7 +133,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Participants pictured with their teacher mentor, Mr Chua Chee Siang from the Biology Department" src="![](/images/cjc%20stem%20picture%2020.jpg)">  
+<img style="width:70%;" alt="Participants pictured with their teacher mentor, Mr Chua Chee Siang from the Biology Department" src="/images/cjc%20stem%20picture%2020.jpg">  
   
   
 <figcaption style="text-align:center;"><strong>Participants pictured with their teacher mentor, Mr Chua Chee Siang from the Biology Department</strong></figcaption> 
@@ -144,7 +144,7 @@ img {
 
 Rayan Wong of 2T08 took part in this event in 2021 and his group, which consisted of students from other schools, emerged as the champion.
 
-<img style="width:100%" src="![](/images/cjc%20stem%20picture%2021.jpg)">
+<img style="width:100%" src="/images/cjc%20stem%20picture%2021.jpg">
 
 **(iv)** **Singapore International Science Challenge**
 
@@ -152,7 +152,7 @@ The Singapore International Science Challenge (SISC) is a biennial international
 
 In 2021, SISC became an online event and brought together students from around the world to collaborate and learn both asynchronously and synchronously. The theme for SISC 2021 is Altruistic Thinkers, Global Citizens (ATGC). CJC sent a team of 3 JC2 students for the challenge and one of our students, PL Raamanathan, clinched the Thinker Award in the Field Challenge while another student, Lokav Srikanth, clinched the Creative Award in the Design and Build Challenge.
 
-<img style="width:100%" src="![](/images/cjc%20stem%20picture%2022.png)">
+<img style="width:100%" src="/images/cjc%20stem%20picture%2022.png">
 
 **(v)**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Singapore Space Challenge**
 
@@ -179,7 +179,7 @@ Access the video here:
 
 [www.instagram.com/tv/CTjagVinlgF/?utm\_medium=copy\_link](https://drive.google.com/file/d/1AH3eMTeqc2xO-MUwoQCrRd51vI9S4k7u/view?usp=sharing)
 
-<img style="width:100%" src="![](/images/cjc%20stem%20picture%2023.png)">
+<img style="width:100%" src="/images/cjc%20stem%20picture%2023.png">
 
 **<u>Enrichment Module</u>**&nbsp;
 
@@ -187,7 +187,7 @@ Access the video here:
 
 Their reflections can be found at&nbsp;[https://padlet.com/drwylim/cjcess\_nyum](https://padlet.com/drwylim/cjcess_nyum).
 
-<img style="width:100%" src="![](/images/cjc%20stem%20picture%2024.jpg)">
+<img style="width:100%" src="/images/cjc%20stem%20picture%2024.jpg">
 	
 **(vii)**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**STEP Environment Camp**
 
@@ -195,4 +195,4 @@ Five JC1 students were selected to take part in the STEP Environment Camp 2021 w
 
 The programme helps to build a network of youth leaders across Asia through a series of immersive, experiential, and cooperative learning exercises.
 
-<img style="width:100%" src="![](/images/cjc%20stem%20picture%2025.png)">
+<img style="width:100%" src="/images/cjc%20stem%20picture%2025.png">
