@@ -29,8 +29,7 @@ description: ""
 
 <img style="width:100%" src="![](/images/achievement%209.jpeg)">
 
-#### Testimonials
-------------
+#### **Testimonials**
 
 We participated in the School of Computer Science and Engineering Challenge 2021. It was a month long competition where we were presented with a data science and artificial intelligence problem and were required to code a machine learning model to solve the problem.&nbsp;&nbsp;
 
@@ -40,13 +39,11 @@ We’d like to thank the school for giving us this amazing opportunity to take p
 
 &nbsp;**Adelaine, 2T15, Richard, Jonathan and Julian,all 2T30**
 
-Purpose of studying Mathematics at A-Level
-------------------------------------------
+#### **Purpose of studying Mathematics at A-Level**
 
 Learning Mathematics is optional at A-Level. However, it is offered by almost all students. The purpose of learning Mathematics at A-Level is two-fold. Firstly, it provides students, regardless of the intended course of study at the University, with a useful set of tools and analytical skills to support not just tertiary study but also to sharpen their problem solving skills. Secondly, learning mathematics exposes students to a way of thinking that complements other ways of thinking developed through the other disciplines.
 
-Skills
-------
+#### **Skills**
 
 The CJC Mathematics department aims to nurture effective problem solvers and critical thinkers based on the Singapore Mathematics Framework:
 
@@ -56,8 +53,7 @@ The CJC Mathematics department aims to nurture effective problem solvers and cri
 *   Reasoning and communicating mathematically through writing mathematical explanations, arguments and proofs, and inferences
 *   Solving unfamiliar problems; translate common realistic contexts into mathematics; interpret and evaluate mathematical results, and use the results to make predictions, or comment on the context
 
-Difference between Mathematics at A- and O-Levels
--------------------------------------------------
+#### **Difference between Mathematics at A- and O-Levels**
 
 In secondary schools, all students learn O-Level Mathematics while students with an aptitude and interest in mathematics also offer Additional Mathematics. The learning of Mathematics at the A-Level builds on students’ prior knowledge and skills in O-Level Mathematics and Additional Mathematics.
 
