@@ -37,7 +37,7 @@ img {
 
 From STEMazing Race and Escape Room to Pi Day commemoration and interest-based workshops conducted by various STEM partners, several activities are held to cater to students’ different interest in Mathematics and Science.&nbsp; House points are also awarded to inject an element of fun and competition.
 
-<img style="width:100%" src="0000">
+<img style="width:100%" src="![](/images/cjc%20stem%20picture%207.png)">
 <p style="text-align:center;"><strong>0000</strong></p>
 
 <img style="width:100%" src="0000">
@@ -73,4 +73,3 @@ centre
 
 <img style="width:100%" src="0000">
 <p style="text-align:center;"><strong>0000</strong></p>
-
