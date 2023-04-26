@@ -89,8 +89,12 @@ This month-long stretch programme is an annual exchange programme with Nara High
 
 <img style="width:100%" src="![](/images/cjc%20stem%20picture%2014.png)">
 
-<img style="width:100%" src="0000">
-<p style="text-align:center;"><strong>0000</strong></p>
+#### **3\. STEM Local Leadership Stretch Programme**
+
+The college organized the inaugural Local Leadership Programme known as CJC.STEM.SG to replace overseas academic trips for selected JC1 students. The 5-day programme with a hybrid format is based on the theme “A More Secure and Sustainable Singapore through STEM”.&nbsp;Conceptualised based on the Practices of Science,&nbsp;the programme&nbsp;provided a rich and rigorous learning experience ranging from keynote lecture by STEM experts in the fields of sustainability to workshops on topics such as Cryptography, Mathematical Modelling, Vaccine Development, and Arduino Masterclass by Spacecraft engineers. There are also virtual tours of the NTU Satellite Research Centre and local High Tech Farm and laboratory experiences investigating the science of alternate meat by local start-up&nbsp;firm&nbsp;Ants Innovate as well as&nbsp;Genetic Engineering by Amgen Science Centre Singapore.
+
+<img style="width:100%" src="![](/images/cjc%20stem%20picture%2015.jpg)">
+<p style="text-align:center;"><strong>Keynote lecture by Dr Shawn Lum, Senior Lecturer of NTU Asian School of the Environment and President of Nature Society Singapore</strong></p>
 
 <img style="width:100%" src="0000">
 <p style="text-align:center;"><strong>0000</strong></p>
