@@ -4,3 +4,4 @@ permalink: /eopenhouse/academic-information/department-information/knowledge-ski
 description: ""
 third_nav_title: Department Information
 ---
+<img style="width:100%" src="![](/images/knowledge.jpg)">
