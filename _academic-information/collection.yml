@@ -2,5 +2,6 @@ collections:
   academic-information:
     output: true
     order:
+      - Department Information/Physical Education.md
       - Department Information/.keep
       - Scholarships.md
