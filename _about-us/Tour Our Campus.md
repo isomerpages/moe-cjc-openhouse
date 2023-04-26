@@ -3,6 +3,9 @@ title: Tour Our Campus
 permalink: /eopenhouse/about-us/tour-our-campus/
 description: ""
 ---
+
+***video to be embedded here***
+
 <style>  
 img {  
   display: block;  
