@@ -71,8 +71,7 @@ To cater to the diverse needs, interests, and abilities of students, we offer th
 
 O-Level Mathematics provides the assumed knowledge for H1 Mathematics while H2 Mathematics assumes some of the content covered in Additional Mathematics. H3 Mathematics is an extension of H2 Mathematics in terms of higher-order problem solving skills.
 
-Assessment in the new Curriculum
---------------------------------
+#### **Assessment in the new Curriculum**
 
 Broadly speaking, students will be assessed on three levels:
 
@@ -82,8 +81,7 @@ Broadly speaking, students will be assessed on three levels:
 *   Formulating real-world problems mathematically, solve the mathematical problems, interpret and evaluate the mathematical solutions in the context of the problems; and
 *   Reasoning and communicating mathematically through making deductions and writing mathematical explanations, arguments of varying rigour, and proofs.
 
-Curriculum
-----------
+#### **Curriculum**
 
 ### H1 Mathematics (8865) Revised Syllabus for 2016 onward
 
