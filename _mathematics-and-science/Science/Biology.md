@@ -39,3 +39,9 @@ The Biology syllabus is developed as a seamless continuum from O-levels to A-lev
 #### **Enrichment Opportunities**
 
 The CJC Biology Department affords every student the opportunity to participate in external enrichment activities and competitions yearly. These competitions expose students to the wider, more practical applications of Biology and in some instances even give them a chance to interact with professionals in the research industry. CJC students that represent the school in these competitions are given ample resources and rigorous training in preparation. Competitions we participate in regularly include the Singapore Biology Olympiad, the International Biomedical Quiz, the Lee Kong Chian Anatomy Challenge, and the STEP NUS Brain &amp; Environment Camps. We also conduct a yearly learning journey to the Lee Kong Chian Natural History Museum with our JC2 cohort to learn how fossils aid us in the understanding of evolution.
+
+<img style="width:100%" src="![](/images/cjcs%20team%20at%20the%202019%20anatomy%20challenge%20by%20the%20lee%20kong%20chian%20school%20of%20medicine.jpg)">
+
+<img style="width:100%" src="![](/images/cjcs%20team%20at%20the%202019%20international%20biomedical%20quiz.jpg)">
+
+<img style="width:100%" src="![](/images/jc2s%20visit%20the%20lee%20kong%20chian%20natural%20history%20museum%20in%202019.jpg)">
