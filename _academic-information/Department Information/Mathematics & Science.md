@@ -102,8 +102,21 @@ The college organized the inaugural Local Leadership Programme known as CJC.STEM
 <img style="width:100%" src="![](/images/cjc%20stem%20picture%2017.png)">
 <p style="text-align:center;"><strong>Physical Sciences experience by Spacecraft engineers</strong></p>
 
-<img style="width:100%" src="0000">
-<p style="text-align:center;"><strong>0000</strong></p>
+Participants also had opportunities to do research, presented on five important challenges facing Singapore, and&nbsp;proposed&nbsp;innovative STEM-based solutions to a panel of judges which included an A\*star scientist.&nbsp;
+
+Participants were also challenged to assume various leadership roles, including designing their own ZOOM virtual background as part of the programme.
+
+<img style="width:100%" src="![](/images/cjc%20stem%20picture%2018.png)">
+
+More information of the programme can be found via this link:&nbsp;[https://padlet.com/drwylim/CJC\_STEM\_SG](https://padlet.com/drwylim/CJC_STEM_SG)
+
+#### **4\. STEM Competitions and Achievements**
+
+Students are encouraged to participate in various competitions to display their talents and skills in different STEM disciplines. This includes Cyberthon, Space Coding Boot Camp, Business Analytics Case competition and many more.
+
+**(i)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Computing@SMU Award**
+
+The award is given to JC2 students who have outstanding academic&nbsp;achievement, show an interest in computing and excellent co-curricular&nbsp;achievement or leadership. The 2021 award goes to Nicholas Wee Kiat Ming&nbsp;of 2T15.
 
 <img style="width:100%" src="0000">
 <p style="text-align:center;"><strong>0000</strong></p>
