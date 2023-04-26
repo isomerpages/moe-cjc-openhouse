@@ -181,8 +181,19 @@ Access the video here:
 
 <img style="width:100%" src="![](/images/cjc%20stem%20picture%2023.png)">
 
-<img style="width:100%" src="0000">
-<p style="text-align:center;"><strong>0000</strong></p>
+**<u>Enrichment Module</u>**&nbsp;
 
-<img style="width:100%" src="0000">
+21 members of the STEM\-based CCA Environmental Science Society also participated in the NYUM Enrichment module where they created an upcycled product using the Design Thinking Framework and reflected on the process.
+
+Their reflections can be found at&nbsp;[https://padlet.com/drwylim/cjcess\_nyum](https://padlet.com/drwylim/cjcess_nyum).
+
+<img style="width:100%" src="![](/images/cjc%20stem%20picture%2024.jpg)">
+	
+**(vii)**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**STEP Environment Camp**
+
+Five JC1 students were selected to take part in the STEP Environment Camp 2021 which is a five-day virtual programme for youths from Singapore and Asia. Built around the overarching theme of Climate Change and Sustainability, the programme nurtures young budding scientists in Asia, with an emphasis on environmental stewardship. This year, the theme for the camp is Biodiversity Conservation.
+
+The programme helps to build a network of youth leaders across Asia through a series of immersive, experiential, and cooperative learning exercises.
+
+<img style="width:100%" src="![](/images/cjc%20stem%20picture%2025.png)">
 <p style="text-align:center;"><strong>0000</strong></p>
