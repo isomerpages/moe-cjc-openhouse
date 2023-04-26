@@ -96,8 +96,8 @@ The college organized the inaugural Local Leadership Programme known as CJC.STEM
 <img style="width:100%" src="![](/images/cjc%20stem%20picture%2015.jpg)">
 <p style="text-align:center;"><strong>Keynote lecture by Dr Shawn Lum, Senior Lecturer of NTU Asian School of the Environment and President of Nature Society Singapore</strong></p>
 
-<img style="width:100%" src="0000">
-<p style="text-align:center;"><strong>0000</strong></p>
+<img style="width:100%" src="![](/images/cjc%20stem%20picture%2016.png)">
+<p style="text-align:center;"><strong>Biological Sciences Lab experience by local start up firm Ants Innovate</strong></p>
 
 <img style="width:100%" src="0000">
 <p style="text-align:center;"><strong>0000</strong></p>
