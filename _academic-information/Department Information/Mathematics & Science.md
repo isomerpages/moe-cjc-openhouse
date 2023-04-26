@@ -80,8 +80,8 @@ img {
 <img style="width:100%" src="![](/images/cjc%20stem%20picture%2012.png)">
 <p style="text-align:center;"><strong>Students taking part in Escape Room on board Labs on Wheels digital literacy programme by IMDA on Cybersecurity and Artificial Intelligence</strong></p>
 
-<img style="width:100%" src="0000">
-<p style="text-align:center;"><strong>0000</strong></p>
+<img style="width:100%" src="![Students engaging in problem solving during STEMazing Race](/images/cjc%20stem%20picture%2013.png)">
+<p style="text-align:center;"><strong>Students engaging in problem solving during STEMazing Race</strong></p>
 
 <img style="width:100%" src="0000">
 <p style="text-align:center;"><strong>0000</strong></p>
