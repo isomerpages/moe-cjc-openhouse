@@ -136,8 +136,13 @@ img {
   
 <figcaption style="text-align:center;"><strong>Participants pictured with their teacher mentor, Mr Chua Chee Siang from the Biology Department</strong></figcaption> 
 
+&nbsp;**(iii)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**SUTD Virtual Research Hackathon**
+
+&nbsp;In this two-day online virtual research hackathon, students were introduced to&nbsp;&nbsp;&nbsp; &nbsp;the Monte Carlo Simulation to model the probability of different outcomes in a&nbsp;&nbsp;&nbsp; &nbsp;process that cannot easily be predicted due to the intervention of random variables. They had to utilize the simulation to model traffic and work in groups&nbsp;&nbsp;&nbsp; &nbsp;to propose and test different solutions to improve traffic conditions.
+
+&nbsp;Rayan Wong of 2T08 took part in this event in 2021 and his group, which consisted of students from other schools, emerged as the champion.
+
 <img style="width:100%" src="0000">
-<p style="text-align:center;"><strong>0000</strong></p>
 
 <img style="width:100%" src="0000">
 <p style="text-align:center;"><strong>0000</strong></p>
