@@ -83,7 +83,7 @@ Broadly speaking, students will be assessed on three levels:
 
 #### **Curriculum**
 
-### H1 Mathematics (8865) Revised Syllabus for 2016 onward
+##### H1 Mathematics (8865) Revised Syllabus for 2016 onward
 
   
 
@@ -92,7 +92,7 @@ Broadly speaking, students will be assessed on three levels:
 
   
 
-### H2 Mathematics (9758) Revised Syllabus for 2016 onward
+##### H2 Mathematics (9758) Revised Syllabus for 2016 onward
 
   
 
@@ -100,10 +100,9 @@ Broadly speaking, students will be assessed on three levels:
 *   It develops mathematical thinking and reasoning skills that are essential for further learning of mathematics.
 *   Through the applications of mathematics, students also develop an appreciation of mathematics and its connections to other disciplines and to the real world.
 
-Assessment
-----------
+#### **Assessment**
 
-### H1 Mathematics (8865) Revised Syllabus for 2016 onward
+##### H1 Mathematics (8865) Revised Syllabus for 2016 onward
 
   
 
