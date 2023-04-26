@@ -260,6 +260,14 @@ This is a team-based competition open to students in their second year. Organize
 
 **WOW Factor**: Mentored by a tutor, participants are challenged to apply research skills and perform statistical analysis using concepts that they learnt from H2 Maths as well as H2 Further Maths to create a poster of an authentic social issue of their interest. Students also have the opportunity to hone their skills in data collection, statistical report writing, and design.
 
-<img style="width:100%" src="0000">
+<img style="width:100%" src="![](/images/data%20science%20competition.JPG)">
 
-<img style="width:100%" src="0000">
+3.  **Design using Graphing Calculator Competition**
+
+The competition is open to all students studying in a Junior College / Centralised Institute or a Secondary School in Singapore or the equivalent in Malaysia.
+
+  
+
+**WOW Factor**: Participants are challenged to do independent research and use the Texas Instruments Graphing Calculator to create artwork based on a theme. They get to appreciate how to apply knowledge of the different graphs of H2 Maths and Further Maths to design!
+
+<img style="width:100%" src="![](/images/design%20using%20graphing%20calculator%20competition.JPG)">
