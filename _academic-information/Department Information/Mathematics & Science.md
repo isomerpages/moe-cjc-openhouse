@@ -87,6 +87,8 @@ img {
 
 This month-long stretch programme is an annual exchange programme with Nara High School which is a Super Science School from Japan. Based on the theme of the UN Sustainable Development Goals, students representing the two schools collaborated on a joint research and identified how STEM helps the two countries achieve these sustainable development goals. In the process, students also get to interact and learn about each other’s culture as well as the respective countries’ journey to enhance sustainability. This programme culminated in a joint virtual presentation on the final day where students shared their findings.
 
+<img style="width:100%" src="![](/images/cjc%20stem%20picture%2014.png)">
+
 <img style="width:100%" src="0000">
 <p style="text-align:center;"><strong>0000</strong></p>
 
