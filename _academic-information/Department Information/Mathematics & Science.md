@@ -197,6 +197,5 @@ The programme helps to build a network of youth leaders across Asia through a se
 
 <img style="width:100%" src="/images/cjc%20stem%20picture%2025.png">
 
-#### [Mathematics](/eopenhouse/academic-information/department-information/mathematics-n-science/mathematics)
-
-#### [Science](/eopenhouse/academic-information/department-information/mathematics-n-science/science)
+*   **[Mathematics](/eopenhouse/academic-information/department-information/mathematics-n-science/mathematics)**
+*   **[Science](/eopenhouse/academic-information/department-information/mathematics-n-science/science)**
