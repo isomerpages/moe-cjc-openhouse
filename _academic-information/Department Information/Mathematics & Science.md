@@ -18,3 +18,5 @@ img {
 In line with MOE’s strategic thrusts and college focus in providing differentiated support for students’ diverse interest and learning opportunities beyond the classroom, the college STEM Steering committee was set up to drive the STEM education programmes. In 2022, Dr Timothy Hu Xiao Ming&nbsp;–&nbsp;a data scientist from A\*STAR&nbsp;–&nbsp;will support the college in STEM education initiatives.&nbsp;
 
 #### **1\. STEM Fest**
+
+<img style="width:100%" src="/images/cjc%20stem%20picture%203.png">
