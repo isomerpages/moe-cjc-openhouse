@@ -71,11 +71,11 @@ _"My Chemistry Tutor has overall been very helpful in the tutorial as well as pr
 
 #### **Enrichment**
 
-Singapore Chemistry Olympiad participation is offered to students who have performed exceedingly well in JC1 assessments, and who have shown themselves to be responsible and self-directed in their learning. They will be exposed to interesting and challenging content related to their syllabus in intensive training sessions and will have the opportunity to represent the college in the Singapore Chemistry Olympiad.
+**<u>Singapore Chemistry Olympiad</u>** participation is offered to students who have performed exceedingly well in JC1 assessments, and who have shown themselves to be responsible and self-directed in their learning. They will be exposed to interesting and challenging content related to their syllabus in intensive training sessions and will have the opportunity to represent the college in the Singapore Chemistry Olympiad.
 
   
 
-STEM Fest is an annual collaboration between the Mathematics and the Science Departments to help students recognize the importance of STEM (Science, Technology, Engineering &amp; Mathematics) and appreciate its use in addressing real-world problems. The week-long event serves as an important platform to provide learning experiences for students to acquire and apply their knowledge and skills from H2-related subjects in the areas related to STEM. It also allows Mathematics and Science student leaders to hone their organisation and leadership skills in the preparation of activities during the event.
+**<u>STEM Fest</u>** is an annual collaboration between the Mathematics and the Science Departments to help students recognize the importance of STEM (Science, Technology, Engineering &amp; Mathematics) and appreciate its use in addressing real-world problems. The week-long event serves as an important platform to provide learning experiences for students to acquire and apply their knowledge and skills from H2-related subjects in the areas related to STEM. It also allows Mathematics and Science student leaders to hone their organisation and leadership skills in the preparation of activities during the event.
 
   
 More information can be found at  
