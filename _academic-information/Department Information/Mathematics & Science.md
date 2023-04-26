@@ -4,6 +4,8 @@ permalink: /eopenhouse/academic-information/department-information/mathematics-n
 description: ""
 third_nav_title: Department Information
 ---
+![](/images/cjc%20stem%20picture%2021.jpg)
+
 <style>  
 img {  
   display: block;  
@@ -118,9 +120,9 @@ Students are encouraged to participate in various competitions to display their 
 
 The award is given to JC2 students who have outstanding academic&nbsp;achievement, show an interest in computing and excellent co-curricular&nbsp;achievement or leadership. The 2021 award goes to Nicholas Wee Kiat Ming&nbsp;of 2T15.
 
-<img style="width:100%" src="![](/images/cjc%20stem%20picture%2019.png)">''
+<img style="width:100%" src="![](/images/cjc%20stem%20picture%2019.png)">
 
-&nbsp;**(ii)**&nbsp; &nbsp; &nbsp;&nbsp;**International Sci-Teens Challenge**&nbsp;
+**(ii)** **International Sci-Teens Challenge**
  
  International Sci-Teens Challenge 2021 was organised by ACJC. To participate in this competition, students had to develop videos that explain a phenomenon in the disciplines of Biology, Chemistry, Physics, Mathematics or Computing. CJC sent two teams for the senior category of the competition and one team’s video on Enzymes clinched the&nbsp;Bronze Award.
 
@@ -136,7 +138,7 @@ img {
   
 <figcaption style="text-align:center;"><strong>Participants pictured with their teacher mentor, Mr Chua Chee Siang from the Biology Department</strong></figcaption> 
 
-&nbsp;**(iii)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**SUTD Virtual Research Hackathon**
+**(iii)** **SUTD Virtual Research Hackathon**
 
 &nbsp;In this two-day online virtual research hackathon, students were introduced to&nbsp;&nbsp;&nbsp; &nbsp;the Monte Carlo Simulation to model the probability of different outcomes in a&nbsp;&nbsp;&nbsp; &nbsp;process that cannot easily be predicted due to the intervention of random variables. They had to utilize the simulation to model traffic and work in groups&nbsp;&nbsp;&nbsp; &nbsp;to propose and test different solutions to improve traffic conditions.
 
