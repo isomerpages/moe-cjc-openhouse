@@ -38,12 +38,22 @@ img {
 From STEMazing Race and Escape Room to Pi Day commemoration and interest-based workshops conducted by various STEM partners, several activities are held to cater to students’ different interest in Mathematics and Science.&nbsp; House points are also awarded to inject an element of fun and competition.
 
 <img style="width:100%" src="![](/images/cjc%20stem%20picture%207.png)">
-<p style="text-align:center;"><strong>0000</strong></p>
+<p style="text-align:center;"><strong>STEM Fest Publicity Boards 2018 and 2019 encouraging students' participation</strong></p>
 
-<img style="width:100%" src="0000">
-<p style="text-align:center;"><strong>0000</strong></p>
+<img style="width:100%" src="![](/images/cjc%20stem%20picture%208.png)">
+<p style="text-align:center;"><strong>3D-printed student works on display at STEM Fest 2021 as post-workshop artefacts</strong></p><br>
 
-centre
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" alt="Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years" src="![](/images/cjc%20stem%20picture%209.png)">  
+  
+  
+<p style="text-align:center;"><strong>Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years</strong></p> 
 
 <img style="width:100%" src="0000">
 <p style="text-align:center;"><strong>0000</strong></p>
