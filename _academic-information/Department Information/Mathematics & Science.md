@@ -65,7 +65,17 @@ img {
 <p style="text-align:center;"><strong>
 External Trainers conducting STEM Workshops over Zoom on Space Technology and Biotechnology</strong></p>
 
-centre
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" alt="Pi Day Recitation Challenge during pre Covid-19 years" src="![](/images/pi%20day%20recitation%20challenge.jpg)">  
+  
+  
+<p style="text-align:center;"><strong>Pi Day Recitation Challenge during pre Covid-19 years</strong></p> 
 
 <img style="width:100%" src="0000">
 <p style="text-align:center;"><strong>0000</strong></p>
