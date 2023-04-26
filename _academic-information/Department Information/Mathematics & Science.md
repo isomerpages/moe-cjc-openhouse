@@ -124,8 +124,17 @@ The award is given to JC2 students who have outstanding academic&nbsp;achievemen
  
  International Sci-Teens Challenge 2021 was organised by ACJC. To participate in this competition, students had to develop videos that explain a phenomenon in the disciplines of Biology, Chemistry, Physics, Mathematics or Computing. CJC sent two teams for the senior category of the competition and one team’s video on Enzymes clinched the&nbsp;Bronze Award.
 
-<img style="width:100%" src="0000">
-<p style="text-align:center;"><strong>0000</strong></p>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" alt="Participants pictured with their teacher mentor, Mr Chua Chee Siang from the Biology Department" src="![](/images/cjc%20stem%20picture%2020.jpg)">  
+  
+  
+<figcaption style="text-align:center;"><strong>Participants pictured with their teacher mentor, Mr Chua Chee Siang from the Biology Department</strong></figcaption> 
 
 <img style="width:100%" src="0000">
 <p style="text-align:center;"><strong>0000</strong></p>
