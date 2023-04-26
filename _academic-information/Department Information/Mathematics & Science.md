@@ -148,11 +148,11 @@ Rayan Wong of 2T08 took part in this event in 2021 and his group, which consiste
 
 **(iv)** **Singapore International Science Challenge**
 
-The Singapore International Science Challenge (SISC) is a biennial international&nbsp;&nbsp; &nbsp; &nbsp;event that brings together students of ages 15 to 18 from around the world to compete, collaborate and innovate in the Sciences. The multi-disciplinary foci and integrated nature of the challenges provide an authentic backdrop for&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;students to apply scientific and technical knowledge to solving problems and&nbsp;innovate impactful solutions. In previous SISC events, students across the globe came together for five days to stay onsite at NJC to communicate their research,&nbsp;collaborate in multi-national teams, and to innovate well-designed solutions to&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;science challenges.
+The Singapore International Science Challenge (SISC) is a biennial international event that brings together students of ages 15 to 18 from around the world to compete, collaborate and innovate in the Sciences. The multi-disciplinary foci and integrated nature of the challenges provide an authentic backdrop for students to apply scientific and technical knowledge to solving problems and&nbsp;innovate impactful solutions. In previous SISC events, students across the globe came together for five days to stay onsite at NJC to communicate their research, collaborate in multi-national teams, and to innovate well-designed solutions to science challenges.
 
-In 2021, SISC became an online event and brought together students from around the world to collaborate and learn both asynchronously and synchronously. The theme for SISC 2021 is Altruistic Thinkers, Global Citizens (ATGC). CJC sent a team of 3 JC2 students for the challenge and one of our students,&nbsp;PL Raamanathan, clinched the Thinker Award in the Field Challenge while another student,&nbsp;Lokav Srikanth, clinched the Creative Award in the Design and Build Challenge.
+In 2021, SISC became an online event and brought together students from around the world to collaborate and learn both asynchronously and synchronously. The theme for SISC 2021 is Altruistic Thinkers, Global Citizens (ATGC). CJC sent a team of 3 JC2 students for the challenge and one of our students, PL Raamanathan, clinched the Thinker Award in the Field Challenge while another student, Lokav Srikanth, clinched the Creative Award in the Design and Build Challenge.
 
-<img style="width:100%" src="0000">
+<img style="width:100%" src="![](/images/cjc%20stem%20picture%2022.png)">
 <p style="text-align:center;"><strong>0000</strong></p>
 
 <img style="width:100%" src="0000">
