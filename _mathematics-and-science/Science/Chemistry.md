@@ -47,31 +47,29 @@ Students must also be disciplined and self-directed to manage the workload well 
 
 _"I think that my (Chemistry) tutor is good in teaching the class, as his explanation is clear and easy to understand… … I think that he has done a great job in understanding our class situation."_  
 
-<figcaption style="text-align:right;"><strong>LMAOOOO</strong></figcaption>
-**\- student from 1T11, 2022**
+<figcaption style="text-align:right;"><strong>- student from 1T11, 2022</strong></figcaption>
 
   
 _"Mrs Tie is a really nice and enthusiastic chem tutor. She makes me really excited for chem lessons :)"_  
 
-**\- student from 1T17, 2022**
+<figcaption style="text-align:right;"><strong>- student from 1T17, 2022</strong></figcaption>
 
   
 _"Dr Chin displays her passion for Chemistry and makes us love the subject as well. Across most subject teachers I've met so far throughout JC, Dr Chin proved to be the most patient and encouraging teacher. I have developed more interest in Chemistry, many thanks to her engaging lessons and support."_
 
-&nbsp;**\- student from 2T10, 2020**
+<figcaption style="text-align:right;"><strong>- student from 2T10, 2020</strong></figcaption>
 
   
 _"Ms Tan has been a really good chemistry tutor!! I always seem to understand any topic better after a tutorial. She makes sure we get our work done without pressuring us and encourages us when we do our work."_  
 
-**\- student from 1T26, 2022**
+<figcaption style="text-align:right;"><strong>- student from 1T26, 2022</strong></figcaption>
 
   
 _"My Chemistry Tutor has overall been very helpful in the tutorial as well as practical lessons. She keeps us on task and is always well prepared. In addition, she informs us well in advance of the items we have to prepare for tutorial and practical, enabling us to be well prepared for every lesson."_
 
-&nbsp;**\- student from 2T22, 2021**
+<figcaption style="text-align:right;"><strong>- student from 2T22, 2021</strong></figcaption>
 
-Enrichment
-----------
+#### **Enrichment**
 
 Singapore Chemistry Olympiad participation is offered to students who have performed exceedingly well in JC1 assessments, and who have shown themselves to be responsible and self-directed in their learning. They will be exposed to interesting and challenging content related to their syllabus in intensive training sessions and will have the opportunity to represent the college in the Singapore Chemistry Olympiad.
 
@@ -83,8 +81,7 @@ STEM Fest is an annual collaboration between the Mathematics and the Science Dep
 More information can be found at  
 [https://cjc.moe.edu.sg/eopenhouse/academic-information/department-information/mathematics-n-science](https://cjc.moe.edu.sg/eopenhouse/academic-information/department-information/mathematics-n-science)
 
-H3 Chemistry
-------------
+#### **H3 Chemistry**
 
 The syllabus and assessment criteria for H3 Chemistry can be found here:
 
@@ -94,10 +91,9 @@ The syllabus and assessment criteria for H3 Chemistry can be found here:
 
 H3 Chemistry is only offered to students who have done very well at the end of the first year of academic studies. It allows students to explore the Chemistry subject in greater depth, with more focus on specific applications related to interesting Chemistry concepts.
 
-FAQs
-----
+#### **FAQs**
 
-**What is the difference between H1 and H2 Chemistry?**
+**What is the difference between H1 and H2 Chemistry**
 
 The content covered in H1 is significantly less compared to the content covered in H2. There is NO lab work for H1. Please refer to&nbsp;[www.seab.gov.sg](http://www.seab.gov.sg/)&nbsp;for more information.
 
