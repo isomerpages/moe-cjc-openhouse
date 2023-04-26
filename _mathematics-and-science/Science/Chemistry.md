@@ -47,6 +47,7 @@ Students must also be disciplined and self-directed to manage the workload well 
 
 _"I think that my (Chemistry) tutor is good in teaching the class, as his explanation is clear and easy to understand… … I think that he has done a great job in understanding our class situation."_  
 
+<figcaption style="text-align:right;"><strong>LMAOOOO</strong></figcaption>
 **\- student from 1T11, 2022**
 
   
