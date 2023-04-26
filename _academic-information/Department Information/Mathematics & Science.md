@@ -20,3 +20,17 @@ In line with MOE’s strategic thrusts and college focus in providing differenti
 #### **1\. STEM Fest**
 
 <img style="width:100%" src="/images/cjc%20stem%20picture%203.png">
+
+STEM Fest is an annual collaboration between the Mathematics and the Science Departments to help all students recognize the importance of STEM (Science, Technology, Engineering &amp; Mathematics) and appreciate its use in addressing real-world problems. The week-long event serves as an important platform to provide learning experiences for science students to acquire and apply their knowledge and skills from H2 subjects on STEM. It also allows Mathematics and Science student leaders to hone their organisation and leadership skills.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" alt="LMAOOO" src="LMAOOO">  
+  
+  
+<p style="text-align:center;"><strong> Our Principal, Mrs Lim, launching STEM Fest during pre Covid-19 years</strong></p> 
