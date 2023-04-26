@@ -1,0 +1,4 @@
+collections:
+  academic-information:
+    output: true
+    order: []
