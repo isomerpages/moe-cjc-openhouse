@@ -30,10 +30,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Our Principal, Mrs Lim, launching STEM Fest during pre Covid-19 years" src="![](/images/principal%20mrs%20lim%20launching%20stem%20fest%202019.jpg)">  
+<img style="width:90%;" alt="Our Principal, Mrs Lim, launching STEM Fest during pre Covid-19 years" src="/images/principal%20mrs%20lim%20launching%20stem%20fest%202019.jpg">  
   
   
 <p style="text-align:center;"><strong>Our Principal, Mrs Lim, launching STEM Fest during pre Covid-19 years</strong></p> 
 
 From STEMazing Race and Escape Room to Pi Day commemoration and interest-based workshops conducted by various STEM partners, several activities are held to cater to students’ different interest in Mathematics and Science.&nbsp; House points are also awarded to inject an element of fun and competition.
-
