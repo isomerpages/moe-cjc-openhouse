@@ -38,10 +38,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="LMAOOO" src="LMAOOO">  
+<img style="width:70%;" src="/images/loh%20ming%20cheng%20and%20nicholas%20wee%20bronze%20medallists%20at%20the%2032nd%20chemistry%20olympiad.jpeg">  
   
   
-<figcaption style="text-align:center;">LMAOOOO</figcaption> 
+<figcaption style="text-align:center;"><strong>Loh Ming Cheng and Nicholas Wee, Bronze medallists at the 32nd Chemistry Olympiad</strong></figcaption> 
 
 <style>  
 img {  
@@ -50,10 +50,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="LMAOOO" src="LMAOOO">  
-  
-  
-<figcaption style="text-align:center;">LMAOOOO</figcaption> 
+<img style="width:70%;" src="![](/images/cjc%20science.JPG)">  
+<br>
 
 <style>  
 img {  
