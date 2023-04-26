@@ -31,7 +31,7 @@ H1 Chemistry: <br>
 H2 Chemistry: <br>
 [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9729\_y23\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9729_y23_sy.pdf)  
 
-#### Prerequisites/Suitability
+#### **Prerequisites/Suitability**
 
 Students most suited for A-level H2 Chemistry are those with a strong foundation in O-Level chemistry coupled with an inquisitive mind and desire to learn more.&nbsp;
 
@@ -39,13 +39,11 @@ Students most suited for A-level H2 Chemistry are those with a strong foundation
 
 Students must also be disciplined and self-directed to manage the workload well with asynchronous SLS lessons for content acquisition.
 
-Microlesson
------------
+#### **Microlesson**
 
-![](https://cjc.moe.edu.sg/pix/spacer.gif)
+***video to be embedded here***
 
-Student Testimonials
---------------------
+#### **Student Testimonials**
 
 _"I think that my (Chemistry) tutor is good in teaching the class, as his explanation is clear and easy to understand… … I think that he has done a great job in understanding our class situation."_  
 
