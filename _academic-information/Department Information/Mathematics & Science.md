@@ -195,7 +195,7 @@ Five JC1 students were selected to take part in the STEP Environment Camp 2021 w
 
 The programme helps to build a network of youth leaders across Asia through a series of immersive, experiential, and cooperative learning exercises.
 
-<img style="width:100%" src="/images/cjc%20stem%20picture%2025.png">
+<img style="width:100%" src="/images/cjc%20stem%20picture%2025.png"><br><br>
 
 *   **[Mathematics](/eopenhouse/academic-information/department-information/mathematics-n-science/mathematics)**
 *   **[Science](/eopenhouse/academic-information/department-information/mathematics-n-science/science)**
