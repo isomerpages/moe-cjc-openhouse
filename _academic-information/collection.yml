@@ -2,4 +2,5 @@ collections:
   academic-information:
     output: true
     order:
+      - Department Information/.keep
       - Scholarships.md
