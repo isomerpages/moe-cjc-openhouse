@@ -118,8 +118,7 @@ Students are encouraged to participate in various competitions to display their 
 
 The award is given to JC2 students who have outstanding academic&nbsp;achievement, show an interest in computing and excellent co-curricular&nbsp;achievement or leadership. The 2021 award goes to Nicholas Wee Kiat Ming&nbsp;of 2T15.
 
-<img style="width:100%" src="0000">
-<p style="text-align:center;"><strong>0000</strong></p>
+<img style="width:100%" src="![](/images/cjc%20stem%20picture%2019.png)">
 
 <img style="width:100%" src="0000">
 <p style="text-align:center;"><strong>0000</strong></p>
