@@ -35,13 +35,11 @@ We count actors, doctors, lawyers, business owners, priests, singers, writers, s
 
 ![Quote-DrEe](/images/quote%20by%20dree.png)
 
-Discover More
--------------
+#### **Discover More**
 
 Read our student prospectus online to find out more about our college's programmes and student life.
 
+[CJC Prospectus 2021](https://cjc.moe.edu.sg/qql/slot/u495/EOH%202021/Admission/Prospectus%202021%20Final%20High%20Res.pdf)
+
 ![Cover for Prospectus 2020.jpg](https://cjc.moe.edu.sg/qql/slot/u495/EOH%202021/Admission/Cover%20for%20Prospectus%202020.jpg)
 
-  
-
-[CJC Prospectus 2021](https://cjc.moe.edu.sg/qql/slot/u495/EOH%202021/Admission/Prospectus%202021%20Final%20High%20Res.pdf)
