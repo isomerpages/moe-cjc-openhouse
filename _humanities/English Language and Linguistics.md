@@ -24,3 +24,23 @@ The study of ELL would involve thinking about these core questions:
 ![English Language and Linguistics](/images/ellposter1.png)
 
 ![English Language and Linguistics](/images/ellposter2.png)
+
+#### **A-Level Syllabus**
+
+Click the following link for an overview of the English Language and Linguistics syllabus as well as the assessment format:
+
+  
+
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9508\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9508_y21_sy.pdf)
+
+#### **Prerequisite/Suitability**
+
+Applicants will be selected based on their performance in a written selection test upon successful admission to CJC.
+
+  
+
+Before applying, students should consider their interest in the English language and performance in the relevant subjects, especially O-Level English Language. Precision and flair in expression will stand applicants in good stead for a position on the programme.
+
+#### **Microlesson**
+
+***video to be embedded here***
