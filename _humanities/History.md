@@ -58,7 +58,7 @@ Microlesson 2: [Delving Deeper into the Historical Concept of Causation](https:/
 
 #### **Student Testimonial**
 
-![](https://cjc.moe.edu.sg/qql/slot/u495/EOH%202021/Academic%20Information/Department%20Information/Humanities/History/2023%20History%20Info%20Microsite%20-%20Testimonial.jpg)
+![2023 History Info Microsite - Testimonial.jpg](/images/2023%20history%20info%20microsite%20-%20testimonial.jpg)
 
 Enrichment
 ----------
