@@ -100,10 +100,26 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Figure 3: Student Leadership Development Timeline" src="![](/images/student%20leadership%20development%20timeline.png)">  
+<img style="width:70%;" alt="Figure 3: Student Leadership Development Timeline" src="/images/student%20leadership%20development%20timeline.png">  
   
   
 <p style="text-align:center;"><u>Figure 3: Student Leadership Development Timeline</u></p>
+
+The different platforms seek to maximize available SLD opportunities in developing students in various capacities, as well as improve the quality and coherence of the various SLD programs under different stakeholders.
+
+  
+
+Students will be exposed to various opportunities during their CJ journey as they develop their leadership competencies and dispositions in authentic settings, leveraging on their talents, based on their level of development to stretch their potential.
+
+  
+
+With the 70-20-10 Model for Learning and Development<sup>6</sup>&nbsp;as a reference, the SLD Team is cognizant of the role and effectiveness of different experiences in developing student leaders, where milestone events (LTC &amp; LC) constitute 10% as formal training in courses, mentoring relationships (20%) through specific job assignments (70%). The intentional connections across the different experiences will be vital in achieving the intended outcomes of SLD.
+
+  
+
+* * *
+
+<sup>6</sup>&nbsp;<small>Adopted from Lombardo, Michael M; Eichinger, Robert W (1996)</small>
 
 <style>  
 img {  
