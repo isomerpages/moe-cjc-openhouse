@@ -2,5 +2,6 @@ collections:
   ccas:
     output: true
     order:
+      - Physical Sports/Ultimate Frisbee.md
       - Physical Sports/Volleyball.md
       - Physical Sports/.keep
