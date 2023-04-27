@@ -42,3 +42,5 @@ Above all, consistent effort and practice ensures success at the A-Levels.
 ***video to be embedded here***
 
 ![General Paper Testimonials](/images/testimonials%20re%20cjc%20gp%20programme%201.png)
+
+![More General Paper Testimonials](/images/more%20testimonials.png)
