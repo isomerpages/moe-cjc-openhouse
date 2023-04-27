@@ -18,45 +18,45 @@ Consultations will take place from&nbsp;**10am to 11am**&nbsp;on&nbsp;**13th Jan
 .tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-171d{background-color:#EAEAEA;color:#1B42AA;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid white" class="tg">
 <thead>
   <tr>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Department</span></th>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Zoom Link</span></th>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Zoom Meeting ID</span></th>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Password </span></th>
+    <th style="border: 1px solid white" class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Department</span></th>
+    <th style="border: 1px solid white" class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Zoom Link</span></th>
+    <th style="border: 1px solid white" class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Zoom Meeting ID</span></th>
+    <th style="border: 1px solid white" class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Password </span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ii8k">General Enquiries</td>
+    <td style="border: 1px solid white" class="tg-ii8k">General Enquiries</td>
     <td class="tg-171d"><a href="https://moe-singapore.zoom.us/j/82226328715"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/82226328715</span></a></td>
-    <td class="tg-ii8k">822 2632 8715</td>
-    <td class="tg-ii8k">2023.OHgen </td>
+    <td style="border: 1px solid white" class="tg-ii8k">822 2632 8715</td>
+    <td style="border: 1px solid white" class="tg-ii8k">2023.OHgen </td>
   </tr>
   <tr>
-    <td class="tg-ii8k">English (General Paper &amp; Literature)</td>
-    <td class="tg-171d"><a href="https://moe-singapore.zoom.us/j/84533215641"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/84533215641</span></a></td>
-    <td class="tg-ii8k">845 3321 5641</td>
-    <td class="tg-ii8k">889150 </td>
+    <td style="border: 1px solid white" class="tg-ii8k">English (General Paper &amp; Literature)</td>
+    <td style="border: 1px solid white" class="tg-171d"><a href="https://moe-singapore.zoom.us/j/84533215641"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/84533215641</span></a></td>
+    <td style="border: 1px solid white" class="tg-ii8k">845 3321 5641</td>
+    <td style="border: 1px solid white" class="tg-ii8k">889150 </td>
   </tr>
   <tr>
-    <td class="tg-ii8k"> Mathematics</td>
-    <td class="tg-171d"><a href="https://moe-singapore.zoom.us/j/81672255727"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/81672255727</span></a> </td>
-    <td class="tg-ii8k"> 816 7225 5727</td>
-    <td class="tg-ii8k"> 2023.OHMth</td>
+    <td style="border: 1px solid white" class="tg-ii8k"> Mathematics</td>
+    <td style="border: 1px solid white" class="tg-171d"><a href="https://moe-singapore.zoom.us/j/81672255727"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/81672255727</span></a> </td>
+    <td style="border: 1px solid white" class="tg-ii8k"> 816 7225 5727</td>
+    <td style="border: 1px solid white" class="tg-ii8k"> 2023.OHMth</td>
   </tr>
   <tr>
-    <td class="tg-ii8k"> Economics</td>
-    <td class="tg-171d"><a href="https://moe-singapore.zoom.us/j/8460474277"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/8460474277</span></a></td>
-    <td class="tg-ii8k">846 047 4277 </td>
-    <td class="tg-ii8k"> 2023.OHEco</td>
+    <td style="border: 1px solid white" class="tg-ii8k"> Economics</td>
+    <td style="border: 1px solid white" class="tg-171d"><a href="https://moe-singapore.zoom.us/j/8460474277"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/8460474277</span></a></td>
+    <td style="border: 1px solid white" class="tg-ii8k">846 047 4277 </td>
+    <td style="border: 1px solid white" class="tg-ii8k"> 2023.OHEco</td>
   </tr>
   <tr>
-    <td class="tg-ii8k"> Chemistry</td>
-    <td class="tg-ii8k"> <a href="https://moe-singapore.zoom.us/j/3414716171"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/3414716171</span></a></td>
-    <td class="tg-ii8k">3414716171 </td>
-    <td class="tg-ii8k"> 2023OHChem</td>
+    <td style="border: 1px solid white" class="tg-ii8k"> Chemistry</td>
+    <td style="border: 1px solid white" class="tg-ii8k"> <a href="https://moe-singapore.zoom.us/j/3414716171"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/3414716171</span></a></td>
+    <td style="border: 1px solid white" class="tg-ii8k">3414716171 </td>
+    <td style="border: 1px solid white" class="tg-ii8k"> 2023OHChem</td>
   </tr>
   <tr>
     <td class="tg-ii8k"> Project Work</td>
