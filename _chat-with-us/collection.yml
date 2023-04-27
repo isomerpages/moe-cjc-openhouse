@@ -1,0 +1,4 @@
+collections:
+  chat-with-us:
+    output: true
+    order: []
