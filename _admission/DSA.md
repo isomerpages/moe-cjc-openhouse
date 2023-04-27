@@ -5,7 +5,7 @@ description: ""
 ---
 #### **2022 Direct School Admission - Junior Colleges (DSA-JC) For Admission To JC1 In 2023**
 
-<p style="text-align:center;"><em>video to be embedded here</em><br><br>DSA 2022 Introduction Video by Principal Mrs Phyllis Lim<br>Alternative link&nbsp;<a href="https://www.youtube.com/watch?v=kTJnl17dxUU">here</a>.</p>
+<p style="text-align:center;"><em><strong>video to be embedded here</strong></em><br><br>DSA 2022 Introduction Video by Principal Mrs Phyllis Lim<br>Alternative link&nbsp;<a href="https://www.youtube.com/watch?v=kTJnl17dxUU">here</a>.</p>
 
 CJC invites applications for direct admission to JC1 in 2023 from students who are outstanding in at least one&nbsp;area of talents / skills&nbsp;listed in the table below.&nbsp;&nbsp;**Eligible applicants must sit for the GCE O-Level in 2022**. Successful applicants may be considered for one of the 10&nbsp;[FLAME scholarships](https://cjc.moe.edu.sg/admission/scholarships)&nbsp;available to JC1 students with exceptional strengths and/or abilities in leadership and CCA.
 
@@ -132,4 +132,3 @@ Our CJ Story - Guzheng President
 ***video to be embedded here***
 
 Our CJ Story - Tennis Captain
-
