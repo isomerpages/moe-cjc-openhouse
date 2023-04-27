@@ -43,12 +43,12 @@ Click the following link for an overview of the Project Work syllabus as well as
 
 #### **Student Testimonials**
 
-<img style="width:100%" src="000">
+<img style="width:100%" src="![](/images/3%20testimonial%201.png)">
 
-<img style="width:100%" src="000">
+<img style="width:100%" src="![](/images/3%20testimonial%202.png)">
 
 #### **Enrichment**
 
-<img style="width:100%" src="000">
+<img style="width:100%" src="![](/images/2%20programme%201.jpeg)">
 
-<img style="width:100%" src="000">
+<img style="width:100%" src="![](/images/2%20programme%202.jpeg)">
