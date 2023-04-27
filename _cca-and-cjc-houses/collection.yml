@@ -2,6 +2,6 @@ collections:
   cca-and-cjc-houses:
     output: true
     order:
-      - CJC Houses/CJC Houses.md
-      - CJC Houses/.keep
       - CCAs.md
+      - CJC Houses/.keep
+      - CJC Houses/CJC Houses.md
