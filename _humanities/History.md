@@ -77,8 +77,7 @@ Though the Covid-19 pandemic placed a halt to the overseas trips, it did not pro
 ![Whole Group Photo - Zoom Exchange Programme 2021.jpeg](/images/whole%20group%20photo%20-%20zoom%20exchange%20programme%202021.jpeg)
 We hope that in 2023, we will be able to reciprocate the visit with a fieldtrip to Vietnam! Keeping our fingers (and toes) crossed!&nbsp;
 
-H3 History
-----------
+#### **H3 History**
 
 The H3 History syllabus is developed on the assumption that candidates have knowledge and understanding of History at H2 level. As such, you can only apply for H3 History after the JC1 Promotional Examinations and taking H3 History does not replace any of your existing subjects.
 
@@ -86,14 +85,11 @@ The H3 History syllabus is developed on the assumption that candidates have know
 
 H3 History is pitched at a level higher than that of the H2 History syllabus. It builds on the competencies acquired in H2 History and requires candidates to demonstrate historical knowledge in greater depth and breadth.
 
-Other Contact Details
----------------------
+#### **Other Contact Details**
 
 Do you have a question that has not been addressed on this site? If so, feel free to write to me:
 
   
 
-*   SH / Nur Adhana Binte Mohamed Anwar
-    
-
-[nur\_adhana\_mohamed\_anwar@moe.edu.sg](mailto:nur_adhana_mohamed_anwar@moe.edu.sg)
+*   SH / Nur Adhana Binte Mohamed Anwar <br>
+    [nur\_adhana\_mohamed\_anwar@moe.edu.sg](mailto:nur_adhana_mohamed_anwar@moe.edu.sg)
