@@ -25,11 +25,7 @@ Beyond the classroom, students are given regular opportunities to encounter inte
 
 In another demonstration of interdisciplinary learning: the 2021 Ignite LSLP and Ignite Symposium explored the question of what it means to age well in Singapore’s Context. In collaboration with Greenology, Ignite students explored how to bring Green Intelligence and Horticultural Therapy to bear upon Dementia caregiving. Building on that experience, they explored user-centric design principles for the elderly, in the Ignite Symposium, in partnership with NUS’s School of Continuing and Lifelong Learning (SCALE). Guided by Dr Kuan Yee Han, they critically assessed assistive technology for the aged, considering physiological, social, and emotional aspects of ageing. 
 
-  
-
-![Ignite - Symposium.JPG](https://cjc.moe.edu.sg/qql/slot/u495/Education/Ignite/Ignite%20-%20Symposium.JPG)  
-
-  
+![Ignite - Symposium](/images/ignite%20-%20symposium.jpeg)
 
 Suitability
 
