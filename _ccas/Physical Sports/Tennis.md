@@ -21,6 +21,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:100%;" alt="LMAOOO" src="/images/cjc%20tennis.JPG">  
-  
- 
+<img style="width:100%;" alt="CJC tennis" src="/images/cjc%20tennis.JPG">
