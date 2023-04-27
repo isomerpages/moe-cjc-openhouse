@@ -123,4 +123,4 @@ Successful DSA-JC candidates will&nbsp;**NOT**&nbsp;be allowed to participate in
   
 For more information, please visit the&nbsp;[Ministry of Education DSA-JC](https://www.moe.gov.sg/post-secondary/admissions/dsa)&nbsp;website.  
   
-For further enquiries on the CJC DSA-JC exercise, please email us at catholic\_jc@moe.edu.sg
+For further enquiries on the CJC DSA-JC exercise, please email us at [catholic_jc@moe.edu.sg](mailto:catholic_jc@moe.edu.sg)
