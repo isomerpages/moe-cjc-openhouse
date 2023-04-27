@@ -7,10 +7,16 @@ description: ""
 
 Every CJCian who graduates from the halls of the college is a Thinker with a Mission, Leader with a Heart. At CJC, we believe in the pursuit of both academic and personal excellence. You are unique and special, with different interests, talents and passions. Our student development programmes give you opportunities to discover your strengths and passions.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:80%;" alt="Overseas Learning Project" src="/images/overseas%20learning%20project.jpg">  
   
-
-  
-![Overseas Learning Project.jpg](https://cjc.moe.edu.sg/qql/slot/u495/Overseas%20Learning%20Project.jpg)
+ 
 
 Every CJCian a Leader
 ---------------------
