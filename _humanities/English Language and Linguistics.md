@@ -81,3 +81,49 @@ Good English Week is an MOE initiative to promote the appropriate and effective 
 
 In 2022, we explored “English Around the World”, considering regional variation in the use of English (i.e. different accents, dialects and so on). In one of the activities, the school community was engaged in an English dialect guessing game, where the correct answer was revealed on @goodenglish.cjc at the end of each day. Our ELL students were excited to share their knowledge of dialects such as Uganda English (or “Uglish”) and African American Vernacular English (AAVE), through attractive infographics they designed. It was scintillating to see just how differently English can be used across the world!
 
+![speak good english](/images/photo1669171835.jpeg)
+
+#### **Scholarships**
+
+Catholic Junior College is one of three English Language Elective Programme (ELEP) centres in Singapore. This means that students admitted to the programme may apply for the English Language Elective Scholarship (ELES) awarded by the Ministry of Education. More information about the ELES may be found [here](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u).
+
+#### **Frequently Asked Questions**
+
+**1\. What is the difference between O-Level English Language and H2 English Language and Linguistics (ELL)?**
+
+  
+
+O-Level English has a focus on effective communication and accurate processing of meaning. The study of ELL instead invites students to consider why (purpose) and how (linguistic features/ways) different text producers use language to construct meaning.
+
+  
+
+In ELL Paper 2, we also look at issues and debates that are about the English Language and language in general. For example, we might look at the different attitudes that people in Singapore have towards the use of Singlish.
+
+  
+
+Do refer to the SEAB syllabus document for more information.
+
+**2\. Can I take ELL as my contrasting H1 subject?**
+
+  
+
+No, ELL is only offered as an H2 subject.&nbsp;Science students who would like to offer ELL will have to take up a subject combination with 4 H2s.&nbsp;
+
+  
+
+**3\. How will I know how/when to sign up for the selection test?**
+
+  
+
+There will be a briefing on ELL during Orientation/Matriculation Week before the selection test.
+
+#### **Other Contact Details**
+
+Do you have a question that has not been addressed on this site? If so, feel free to write to one of us:
+
+  
+
+*   HOD / Ms Pauline Chua: <br>[chua\_sook\_lan\_pauline@moe.edu.sg](mailto:chua_sook_lan_pauline@moe.edu.sg)
+
+*   Coordinator / Ms Alexandra Hofbauer: <br>
+    [hofbauer\_alexandra\_leanne@moe.edu.sg](mailto:hofbauer\_alexandra\_leanne@moe.edu.sg)
