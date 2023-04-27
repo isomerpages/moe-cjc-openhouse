@@ -21,5 +21,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Concert Band" src="/images/symphonic%20band.png">  
-  
+<img style="width:70%;" alt="Concert Band" src="/images/symphonic%20band.png">
+
+#### **eOpen House Performance**
+
+***video to be embedded here***
