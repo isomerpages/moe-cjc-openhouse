@@ -8,7 +8,7 @@ third_nav_title: Signature Programmes
 
 The CJC Ignite Programme seeks to develop critical and creative thinkers with social consciousness. Primarily, this is achieved through integral learning, inviting students to make connections across disparate fields and topics of learning. This interdisciplinary approach lends itself naturally to inquiry-led, concept-based, and problem-solving learning approaches, challenging students to be active and inquisitive learners. 
 
-***video to be embedded here *** 
+***video to be embedded here*** 
 
 The programme is anchored in pedagogically-driven lessons aimed at achieving these outcomes, and augmented by milestone programmes (the Ignite LSLP, Symposium, and Conference), which provide experiential and authentic learning opportunities and allow Ignite students to apply and showcase their growth in the Programme. The Ignite Programme is offered to students selected for their academic potential and dispositional fit to the Programme’s objectives. Watch this video for more information!
 
