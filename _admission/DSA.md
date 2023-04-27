@@ -22,17 +22,17 @@ We are looking for students who are outstanding in the following areas:
 .tg .tg-1mbx{background-color:#FDEADA;color:#2A2A2A;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-zrz9{background-color:#FFF;color:#2A2A2A;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-1mbx"><span style="color:black">Performing Arts</span></th>
-    <th class="tg-1mbx">Selection Criteria</th>
+    <th style="border: 1px solid black" class="tg-1mbx"><span style="color:black">Performing Arts</span></th>
+    <th style="border: 1px solid black" class="tg-1mbx">Selection Criteria</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zrz9"><span style="background-color:initial">●</span>  <span style="background-color:initial">Choir</span><br><br><span style="background-color:initial">●</span>  <span style="background-color:initial">Concert Band</span><br><br><span style="background-color:initial">●</span>  <span style="background-color:initial">English Drama</span><br><br><span style="background-color:initial">●  Guitar Ensemble</span><br><br><span style="background-color:initial">●  Guzheng Ensemble</span><br><br><span style="background-color:initial">●  Modern Dance</span><br><br></td>
-    <td class="tg-zrz9"><br><br><br><span style="background-color:initial">●  Achievement in SYF presentations</span><br><br><span style="background-color:initial">●  Representation in international/ national competitions</span><br><br><span style="background-color:initial">●  Achievement in music/ dance examinations</span><span style="color:black;background-color:initial"> </span></td>
+    <td style="border: 1px solid black" class="tg-zrz9"><span style="background-color:initial">●</span>  <span style="background-color:initial">Choir</span><br><br><span style="background-color:initial">●</span>  <span style="background-color:initial">Concert Band</span><br><br><span style="background-color:initial">●</span>  <span style="background-color:initial">English Drama</span><br><br><span style="background-color:initial">●  Guitar Ensemble</span><br><br><span style="background-color:initial">●  Guzheng Ensemble</span><br><br><span style="background-color:initial">●  Modern Dance</span><br><br></td>
+    <td style="border: 1px solid black" class="tg-zrz9"><br><br><br><span style="background-color:initial">●  Achievement in SYF presentations</span><br><br><span style="background-color:initial">●  Representation in international/ national competitions</span><br><br><span style="background-color:initial">●  Achievement in music/ dance examinations</span><span style="color:black;background-color:initial"> </span></td>
   </tr>
 </tbody>
 </table><br>
