@@ -12,3 +12,13 @@ Sprints, Jumps, Hurdles, Throws, Distance, it is your choice! Improve multiple s
 *   SA Relays Championships
 *   National School Games Track and Field Championships
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:50%;" alt="CJC track and field" src="/images/track%20and%20field.jpg">  
+  
+ 
