@@ -71,3 +71,17 @@ img {
   
   
 <figcaption style="text-align:center;"><em>Litera: a variant spelling of Littĕra in Latin, denoting a written sign. In the plural, Literae/Littĕrae denotes Literature, as a collection of signs.</em></figcaption>
+
+_Litera_&nbsp;is the department’s literary festival, featuring creative works by our students based on their A-Level texts.
+
+Just as letters make up Literature, these student pieces come together as discrete works adding to a larger corpus of creativity. Among the pieces we have seen: some are performances, or scripts for performances; others are poetry or prose in meditation of the source texts; still others are visual, as if in reverse ekphrasis of their texts.
+
+The programme is open to all H1 and H2 Literature students. Selected pieces will be featured on the&nbsp;_Litera_&nbsp;website, and student artists will be invited to host dialogue sessions with their peers, sharing about their creative vision, process, and learning. Student visitors, in turn, have a chance to dialogue with the creators of these pieces, in an open and intelligent exchange.
+
+_Some former student artists:_
+
+![litera - deepa joy maddie](/images/litera%20-%20deepa%20joy%20maddie.jpeg)
+
+![litera - alfonso](/images/litera%20-%20alfonso.jpeg)
+
+![litera - adiba](/images/litera%20-%20adiba.jpeg)
