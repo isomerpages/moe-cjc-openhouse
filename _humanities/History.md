@@ -66,17 +66,7 @@ Students who have displayed a good learning attitude and aptitude by the end of 
 
 ![Posing in front of one of the many US Air Force Helicopters active during the War.jpeg](/images/posing%20in%20front%20of%20one%20of%20the%20many%20us%20air%20force%20helicopters%20active%20during%20the%20war.jpeg)
 
-![One of the many traps that were created by the Viet Cong during the Vietnam War.jpeg](https://cjc.moe.edu.sg/qql/slot/u495/EOH%202021/Academic%20Information/Department%20Information/Humanities/History/One%20of%20the%20many%20traps%20that%20were%20created%20by%20the%20Viet%20Cong%20during%20the%20Vietnam%20War.jpeg)  
-
-  
-
-  
-
-  
-
-  
-
-  
+![One of the many traps that were created by the Viet Cong during the Vietnam War.jpeg](/images/one%20of%20the%20many%20traps%20that%20were%20created%20by%20the%20viet%20cong%20during%20the%20vietnam%20war.jpeg)
 
 One of these key opportunities would be our Internationalisation Programme&nbsp;–&nbsp;an overseas exchange programme with Tran Phu High School&nbsp;–&nbsp;enabled by a partnership that has existed since 2018.
 
