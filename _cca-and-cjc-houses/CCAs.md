@@ -43,4 +43,10 @@ Every CJCian is expected to have one CCA in CJC as CCAs are an important platfor
 
 **Q5) Is there a minimum attendance rate for CCA?**
 
-CJCians are strongly encouraged to maintain regular attendance in their CCAs. Regular attendance will enable the student to benefit from the CCA's skills training, character and leadership development programme. A minimum attendance rate of 75% in the year is expected. If students are not able to attend CCA practices, a valid reason such as a medical certificate must be produced to the CCA teacher-in-charge.
+CJCians are strongly encouraged to maintain regular attendance in their CCAs. Regular attendance will enable the student to benefit from the CCA's skills training, character and leadership development programme. A minimum attendance rate of 75% in the year is expected. If students are not able to attend CCA practices, a valid reason such as a medical certificate must be produced to the CCA teacher-in-charge. 
+
+<br>
+
+*   [**Virtual &amp; Performing Arts**](/eopenhouse/cca-n-cjc-houses/ccas/visual-n-performing-arts/choir)
+*   [**Clubs &amp; Societies**](/eopenhouse/cca-n-cjc-houses/ccas/clubs-n-societies/editorial-club)
+*   [**Physical Sports**](/eopenhouse/cca-n-cjc-houses/ccas/physical-sports/badminton)
