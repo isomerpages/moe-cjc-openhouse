@@ -38,8 +38,7 @@ Students who satisfy the eligibility criteria for the MOE FAS Scheme may submit 
 
 Students eligible for the Financial Assistance Scheme may apply for the CJC Needy Student Fund for subsidies on textbooks, curriculum material, school attire and other fees which are not covered by MOE FAS.
 
-Income Family Micro-Insurance and Savings Scheme (IFMISS)
----------------------------------------------------------
+#### **Income Family Micro-Insurance and Savings Scheme (IFMISS)**
 
 For pupils attending a local Government or Government-aided primary school and is an MOE Financial Assistance Scheme (MOE-FAS) recipient:  
 
