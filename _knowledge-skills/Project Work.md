@@ -5,8 +5,7 @@ description: ""
 ---
 ***video to be embedded here***
 
-#### About the Programme
--------------------
+#### **About the Programme**
 
 H1 Project Work (PW) is a subject that embodies MOE’s Framework for 21st Century Competencies and Student Outcomes. Competencies such as Critical and Inventive Thinking as well as Communication, Collaboration and Information Skills are taught through PW. The subject aims to provide students with the opportunity to synthesize knowledge from various disciplines and areas of learning, and critically and creatively apply it to authentic situations.
 
@@ -36,16 +35,10 @@ Project Work has the same curriculum hours as any other H1 subject. However, as 
 
 It is the College’s mission for Every CJCian to be a ‘Thinker With A Mission and Leader With A Heart’. A core belief of the PW department at CJC is that students can improve under the right environment and approaches. Department teachers value students' insights and feedback and seek to guide and prepare them for life's challenges via the learning outcomes of Project Work. Students acquire skills in order to prepare them for lifelong learning and the complexities of future work life.
 
-  
-
-A-Level Syllabus
-----------------
+#### **A-Level Syllabus**
 
 Click the following link for an overview of the Project Work syllabus as well as the assessment format:
 
-  
-
 [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8808\_y22\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8808_y22_sy.pdf)
 
-Student Testimonials
---------------------
+#### **Student Testimonials**
