@@ -20,7 +20,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Figure 1: 4M Leadership for SOAR Framework" src="![](/images/4m%20leadership%20for%20soar%20framework.png)">  
+<img style="width:70%;" alt="Figure 1: 4M Leadership for SOAR Framework" src="/images/4m%20leadership%20for%20soar%20framework.png">  
   
   
 <p style="text-align:center;"><u>Figure 1: 4M Leadership for SOAR Framework</u></p>
@@ -78,7 +78,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Figure 2: Tiered Approach in Student Leadership Development" src="![](/images/tiered%20approach%20in%20student%20leadership%20development.png)">  
+<img style="width:70%;" alt="Figure 2: Tiered Approach in Student Leadership Development" src="/images/tiered%20approach%20in%20student%20leadership%20development.png">  
   
   
 <p style="text-align:center;"><u>Figure 2: Tiered Approach in Student Leadership Development</u></p>
@@ -128,7 +128,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Figure 4: 70-20-10 Model for Learning and Development" src="![](/images/70-20-10%20model%20for%20learning%20and%20development.png)">  
+<img style="width:70%;" alt="Figure 4: 70-20-10 Model for Learning and Development" src="/images/70-20-10%20model%20for%20learning%20and%20development.png">  
   
   
 <p style="text-align:center;"><u>Figure 4: 70-20-10 Model for Learning and Development</u></p>
