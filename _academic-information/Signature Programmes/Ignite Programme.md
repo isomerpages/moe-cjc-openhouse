@@ -27,7 +27,7 @@ In another demonstration of interdisciplinary learning: the 2021 Ignite LSLP and
 
 ![Ignite - Symposium](/images/ignite%20-%20symposium.jpeg)
 
-Suitability
+#### **Suitability**
 
 Apply for the programme if you wish to
 
@@ -42,7 +42,7 @@ Apply for the programme if you wish to
 *   Foster an open-minded disposition comfortable with productive ambiguity
     
 
-Admission
+#### **Admission**
 
 A briefing will be held in the week of Orientation and interested students will be invited to sit for a selection test. Following the test, some may be asked to participate in a group interview. We are especially keen to have candidates who demonstrate intellectual curiosity and a willingness to collaborate with others to learn and grow. 
 
