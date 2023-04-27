@@ -21,12 +21,9 @@ At Catholic Junior College, our students take a two-year course leading to the S
 
 Here you will find information on how to enrol via the&nbsp;**Joint Admissions Exercise**&nbsp;/&nbsp;**Appeals**&nbsp;(JAE),&nbsp;**Direct Admissions Exercise**&nbsp;(DSA) and application criteria. For prospective and current students, details on&nbsp;**subject combinations**,&nbsp;**scholarships**,&nbsp;**financial assistance**, higher education and career&nbsp;**prospects**&nbsp;can be accessed here at our admissions site.
 
-Who We Are
-----------
+#### **Who We Are**
 
-![WhoWeAre2.jpg](https://cjc.moe.edu.sg/qql/slot/u495/EOH%202021/Admission/WhoWeAre2.jpg)
-
-  
+![WhoWeAre2](/images/whoweare2.jpg)
 
 **The CJC student is at once bold, creative, inquisitive and not afraid to challenge his or her limits.**&nbsp;We believe in the all-rounder who wants to excel in and beyond academic performance. We are an eclectic family of scholars, sportsmen and trailblazers committed to doing good in the world.  
 
@@ -34,8 +31,7 @@ Who We Are
 
 We count actors, doctors, lawyers, business owners, priests, singers, writers, scientists and soldiers amongst our proud alumni. Whatever your calling, our mission is to guide you to make your dream a reality.&nbsp;**We believe you have the potential to make the world a better place.**
 
-![WhoWeAre3.jpg](https://cjc.moe.edu.sg/qql/slot/u495/EOH%202021/Admission/WhoWeAre3.jpg)
-
+![WhoWeAre3](/images/whoweare3.jpg)
   
 
 ![Quote-DrEe.png](https://cjc.moe.edu.sg/qql/slot/u495/EOH%202021/Admission/Quote-DrEe.png)
