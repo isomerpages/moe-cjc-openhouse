@@ -51,6 +51,4 @@ NTUC Income (Income) understands the difficulties that a child may go through wh
 
 For more information about Income, please visit their [website](https://www.income.com.sg/).
 
-  
-
-[Income IFMISS Brochure 2020.pdf](https://cjc.moe.edu.sg/qql/slot/u495/EOH%202021/Admission/Financial%20Aid/Income%20IFMISS%20Brochure%202020.pdf)
+[Income IFMISS Brochure 2020.pdf](/files/income%20ifmiss%20brochure%202020.pdf)
