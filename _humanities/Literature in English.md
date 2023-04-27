@@ -15,8 +15,7 @@ Watch this video for a fuller introduction to the programme:
 
 ***video to be embedded here***
 
-#### A-Level Syllabus
-----------------
+#### **A-Level Syllabus**
 
 Click the following link for an overview of the Literature in English syllabi as well as the assessment format:
 
@@ -60,5 +59,16 @@ With comprehensive and interesting lectures and tutorials that are often filled 
 “CJ Literature definitely lived up to the expectations I had. With laughter filled lessons that still thoroughly cover the selected texts, Lit is the one subject my entire class looks forward to! Every teacher in the Lit department is ever ready to offer their help. Be it daily consultation sessions or random questions that pop up at 2 in the morning, the teachers always address all doubts and concerns, while reserving all judgement. Lit is a challenging subject, but with the help of my tutors, I have grown to truly love and enjoy it.” --&nbsp;**Maddie Chau, 2T07  
 **
 
-Enrichment
-----------
+#### **Enrichment**
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" alt="LMAOOO" src="![](/images/litera%20-%20cover.jpeg)">  
+  
+  
+<figcaption style="text-align:center;">LMAOOOO</figcaption> 
