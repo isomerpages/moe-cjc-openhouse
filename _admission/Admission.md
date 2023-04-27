@@ -31,8 +31,7 @@ Here you will find information on how to enrol via the&nbsp;**Joint Admissions E
 
 We count actors, doctors, lawyers, business owners, priests, singers, writers, scientists and soldiers amongst our proud alumni. Whatever your calling, our mission is to guide you to make your dream a reality.&nbsp;**We believe you have the potential to make the world a better place.**
 
-![WhoWeAre3](/images/whoweare3.jpg)
-  
+![WhoWeAre3](/images/whoweare%203.jpg)
 
 ![Quote-DrEe.png](https://cjc.moe.edu.sg/qql/slot/u495/EOH%202021/Admission/Quote-DrEe.png)
 
