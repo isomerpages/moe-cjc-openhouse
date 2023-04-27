@@ -18,3 +18,7 @@ img {
 }  
 </style>  
 <img style="width:90%;" alt="Choir" src="/images/cjc%20choir.JPG">
+
+#### **eOpen House Performance**
+
+***video to be embedded here***
