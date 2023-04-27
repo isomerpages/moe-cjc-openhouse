@@ -76,9 +76,8 @@ Economics Today (Under the section Finance &amp; Economics)
 
 While the coverage of H2 Economics is wider than H1 (see topics covered above), the rigour expected, in terms of writing and thinking skills, is similar.
 
-[](mailto:derek_ng@moe.edu.sg)
-
-Other Contact Details
----------------------
+#### **Other Contact Details**
 
 Do you have a question that has not been addressed on this site? If so, feel free to write to:
+
+*   HOD Ms Indra Venkatram: [indra\_venkatram@moe.edu.sg](mailto:indra_venkatram@moe.edu.sg)
