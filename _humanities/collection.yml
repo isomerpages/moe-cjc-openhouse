@@ -2,5 +2,6 @@ collections:
   humanities:
     output: true
     order:
+      - History.md
       - Literature in English.md
       - English Language and Linguistics.md
