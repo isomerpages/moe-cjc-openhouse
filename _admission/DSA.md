@@ -73,15 +73,15 @@ To allow enough time for processing, it is strongly recommended that all applica
 
 <u>For DSA-JC (Phase 1),</u>
 
-●&nbsp;&nbsp;**Short-listed applicants**&nbsp;will be invited for in-person&nbsp;**auditions/trials**&nbsp;**from 23 May 2022**&nbsp;onwards.
+●&nbsp;&nbsp;**Short-listed applicants**&nbsp;will be invited for in-person&nbsp;**auditions/trials**&nbsp;**<u>from 23 May 2022</u>**&nbsp;onwards.
 
 ●&nbsp;&nbsp;Students are reminded to be punctual for trials/auditions. Students are required to be in their Secondary School sports attire or school uniform.&nbsp;
 
 ●&nbsp;&nbsp;Having granted a trial/audition does not mean that the DSA-JC application has been successful.
 
-For DSA-JC (Phase 2),
+<u>For DSA-JC (Phase 2),</u>
 
-●&nbsp;&nbsp;**Short-listed applicants**&nbsp;will be invited for in-person&nbsp;**auditions/trials**&nbsp;**from 18 July 2022**&nbsp;onwards.
+●&nbsp;&nbsp;**Short-listed applicants**&nbsp;will be invited for in-person&nbsp;**auditions/trials**&nbsp;**<u>from 18 July 2022</u>**&nbsp;onwards.
 
 ●&nbsp;&nbsp;Students are reminded to be punctual for trials/auditions. Students are required to be in their Secondary School sports attire or school uniform.&nbsp;
 
