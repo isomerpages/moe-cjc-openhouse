@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Character and Citizenship Education.md
       - Student Leadership.md
       - Potential Development.md
       - Religious Education Programme (REP).md
