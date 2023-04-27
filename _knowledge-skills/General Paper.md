@@ -44,3 +44,54 @@ Above all, consistent effort and practice ensures success at the A-Levels.
 ![General Paper Testimonials](/images/testimonials%20re%20cjc%20gp%20programme%201.png)
 
 ![More General Paper Testimonials](/images/more%20testimonials.png)
+
+#### **Enrichment**
+
+**1\. Creative Arts Programme**  
+
+Co-organised by MOE Gifted Education Branch and Yale-NUS College, the annual programme provides participants with the opportunity to develop their writing and interest in art forms through a week-long online seminar in June. The seminar comprises a series of writing and performance workshops conducted by illustrious writers and performance artistes. Selected students may also be part of the mentorship programme, during which they are personally mentored by an established writer over the course of 9 months.  
+
+Each year, an average of four-five CJC students are accepted into the programme.
+
+  
+
+**2\. World Philosophy Day Essay Writing Competition**  
+
+An annual philosophy essay writing competition organised in celebration of World Philosophy Day (18 November).  
+
+The contemporary philosopher, Anthony Grayling, believes that philosophy should play a useful role in society and public policy (not just in academia). This essay writing competition challenges students to use critical thinking, logical reasoning and rational argumentation – characteristic methods of philosophical inquiry and analysis.&nbsp;  
+
+  
+
+3\. Opportunities to Engage Industry Practitioners&nbsp;
+
+*   GP External Agencies Outreach Programme
+    
+*   Economics-General Paper Stretch Programme
+    
+
+Every year, CJC will partner CPDD and external agencies to invite representatives for dialogue sessions with our students. This programme aims to equip students with a breadth of views and a deeper insight into Singapore issues from the perspective of public service agencies. It also aims to develop in students an appreciation of the interrelationship of ideas across disciplines.
+
+Frequently Asked Questions
+--------------------------
+
+**Q:**&nbsp;What is the difference between O-Level English Language and A-Level General Paper?
+
+  
+
+**A:**&nbsp;Refer to ‘Pre-requisites/Suitability’ above.
+
+  
+
+Contact Information
+-------------------
+
+Do you have a question that has not been addressed on this site? If so, feel free to write to one of us:
+
+  
+
+**HOD / Ms Pauline Chua**:&nbsp;[chua\_sook\_lan\_pauline@moe.edu.sg](mailto:chua_sook_lan_pauline@moe.edu.sg)
+
+**LH (JC1 2023)/ Ms Serene Thong**:&nbsp;[thong\_wan\_ling\_serene@moe.edu.sg](mailto:thong_wan_ling_serene@moe.edu.sg)  
+
+**LH (JC2 2023)/ Ms Cara Chew-Lommen**:&nbsp;[chew\_heng\_suan\_cara@moe.edu.sg](mailto:chew_heng_suan_cara@moe.edu.sg)
