@@ -21,5 +21,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="CJC fencing" src="![](/images/cjc%20fencing.JPG)">  
-  
+<img style="width:90%;" alt="CJC fencing" src="/images/cjc%20fencing.JPG">
