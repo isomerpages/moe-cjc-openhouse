@@ -2,8 +2,8 @@ collections:
   admission:
     output: true
     order:
+      - Admission.md
       - Prospectus.md
       - DSA.md
       - International and Returning Singaporean Students.md
       - Financial Aid.md
-      - Admission.md
