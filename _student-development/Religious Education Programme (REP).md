@@ -29,8 +29,17 @@ As the Chaplain of CJC, Fr Justin will preside over prayer services at our offic
 
 Throughout the year, important days in the Catholic Calendar are observed and the special masses are commemorated in the college as well. Weekday masses are celebrated by our college chaplain, Father Justin Yip, Tuesday (8 a.m.) and Friday (1.15 p.m.) in our House of Prayer
 
-  
-
 Our House of Prayer is open to all looking for a place of solace and prayer.
 
 #### **Religious Education Programme**
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" src="![](/images/labyrinth%202.jpg)">  
+  
+  
