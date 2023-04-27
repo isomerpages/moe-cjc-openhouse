@@ -29,7 +29,7 @@ The framework seeks to design purposeful experiences to empower our student lead
 
   
 
-**Mastery of Self (Strengths &amp; Skills):**&nbsp;Great leaders model the way and lead by example – the first challenge all effective leaders face is to lead from within. Undergirded by the 5 Practices of the Student Leadership Challenge1, student leaders will deepen their understanding of self which helps to identify and nurture effective leadership behaviors. Together with this, progressive training on how to better understand and harness their talents will be conducted during StrengthsFinder2&nbsp;training sessions. The intention is simple – a leader should strive to master his/her own talents before inspiring others to do the same.
+**Mastery of Self (Strengths &amp; Skills):**&nbsp;Great leaders model the way and lead by example – the first challenge all effective leaders face is to lead from within. Undergirded by the 5 Practices of the Student Leadership Challenge<sup>1</sup>, student leaders will deepen their understanding of self which helps to identify and nurture effective leadership behaviors. Together with this, progressive training on how to better understand and harness their talents will be conducted during StrengthsFinder<sup>2</sup>&nbsp;training sessions. The intention is simple – a leader should strive to master his/her own talents before inspiring others to do the same.
 
   
 
@@ -37,11 +37,11 @@ The framework seeks to design purposeful experiences to empower our student lead
 
   
 
-**Mind-set (Attitude):**&nbsp;A student leader’s journey begins by adopting the right mind-set – leadership is everyone’s business3&nbsp;in which regardless of status, everyone can serve and make a difference. Additionally, a growth mind-set4&nbsp;is fundamental in providing the motivation for student leaders to continue learning and improving so as to serve and enact positive change in our community.
+**Mind-set (Attitude):**&nbsp;A student leader’s journey begins by adopting the right mind-set – leadership is everyone’s business<sup>3</sup>&nbsp;in which regardless of status, everyone can serve and make a difference. Additionally, a growth mind-set<sup>4</sup>&nbsp;is fundamental in providing the motivation for student leaders to continue learning and improving so as to serve and enact positive change in our community.
 
   
 
-**Mentoring (Relationships):**&nbsp;At the heart of servant leadership lies the care for people and relationships. The first law of leadership5&nbsp;states that “If you don’t believe in the messenger, you won’t believe the message.” Student leaders must be able and willing to invest in quality relationships - build their teams and allow others to build them up as well. The strong caring culture of our college will always be our legacy, one that we are always proud of. The quality of relationships can never be taken for granted and as leaders, we will safeguard this and improve our identity as one “_CJ Family_”.
+**Mentoring (Relationships):**&nbsp;At the heart of servant leadership lies the care for people and relationships. The first law of leadership<sup>5</sup>&nbsp;states that “If you don’t believe in the messenger, you won’t believe the message.” Student leaders must be able and willing to invest in quality relationships - build their teams and allow others to build them up as well. The strong caring culture of our college will always be our legacy, one that we are always proud of. The quality of relationships can never be taken for granted and as leaders, we will safeguard this and improve our identity as one “_CJ Family_”.
 
   
 
