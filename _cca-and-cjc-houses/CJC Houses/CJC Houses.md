@@ -34,6 +34,12 @@ These six houses would be a symbol of the college's treasured legacy, giving stu
 *   Academic achievements
 *   Behaviour and discipline
 
-<img style="width:100%" src="![](/images/ablaze%20opening%203.jpeg)">
+<img style="width:100%" src="/images/ablaze%20opening%203.jpeg">
 
-<img style="width:100%" src="![](/images/open%20house%202022%20web%2015.jpg)">
+#### **Four Houses, One CJC**
+
+<img style="width:100%" src="/images/open%20house%202022%20web%2015.jpg">
+
+Reintroduced in 2012, the House system would maintain four existing names, taking on the colours of the college:&nbsp;**Albert (Yellow), Michael (Orange), Patrick (Red) and Joseph (Green)**. These names were chosen because they reflect our treasured legacy, taking on the names of our founders and principals. Each CJC House is headed by a PE teacher as House Master / Mistress and led by a committee of JC2 students: a House Captain, a Vice-House Captain, a House Secretary, a House Games Representative, House JC1 Level Representatives and various Sports Leaders.
+
+#### **Our CJC House Patrons**
