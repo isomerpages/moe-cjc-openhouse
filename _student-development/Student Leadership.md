@@ -83,6 +83,16 @@ img {
   
 <p style="text-align:center;"><u>Figure 2: Tiered Approach in Student Leadership Development</u></p>
 
+The tiered approach is aligned to the guiding principle of inclusivity and the Leadership for All framework, where intentional development of our student leaders will be carried out to achieve the desired student outcome – building a generation in Truth and Love: Developing every CJCian to be a Thinker with a Mission, Leader with a Heart.
+
+  
+
+A tracking and monitoring system will be employed (refer to Section E) to map out how various segments of the cohort have been developed in their leadership competencies and dispositions. This ensures all students have received leadership development opportunities in the college, at various levels and extent.
+
+#### **Student Leadership Development Timeline**
+
+The intentional development of leadership competencies and dispositions across different platforms (House, CCA, Class, and Student Council) is represented in the timeline below.
+
 <style>  
 img {  
   display: block;  
@@ -90,10 +100,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="LMAOOO" src="LMAOOO">  
+<img style="width:70%;" alt="Figure 3: Student Leadership Development Timeline" src="![](/images/student%20leadership%20development%20timeline.png)">  
   
   
-<p style="text-align:center;"><u>LMAOOOO</u></p>
+<p style="text-align:center;"><u>Figure 3: Student Leadership Development Timeline</u></p>
 
 <style>  
 img {  
