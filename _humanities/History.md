@@ -74,16 +74,7 @@ One of these key opportunities would be our Internationalisation Programme&nbsp;
 
 Though the Covid-19 pandemic placed a halt to the overseas trips, it did not prove a sufficient obstacle to the continuing partnership between the two schools. In 2020 and 2021, our school exchange programme was held via Zoom amidst travel restrictions. For 2023, with the loosening of travel restrictions, we were privileged to host 31 students and staff from TPHS. The 3-day exchange programme was packed with engaging and meaningful activities, ranging from Amazing Race Adventure Trails, Sustainability Workshops and a campus tour of our world-renowned local university, the National University of Singapore.&nbsp;&nbsp;
 
-  
-
-![Whole Group Photo - Zoom Exchange Programme 2021.jpeg](https://cjc.moe.edu.sg/qql/slot/u495/EOH%202021/Academic%20Information/Department%20Information/Humanities/History/Whole%20Group%20Photo%20-%20Zoom%20Exchange%20Programme%202021.jpeg)  
-
-  
-
-  
-
-  
-
+![Whole Group Photo - Zoom Exchange Programme 2021.jpeg](/images/whole%20group%20photo%20-%20zoom%20exchange%20programme%202021.jpeg)
 We hope that in 2023, we will be able to reciprocate the visit with a fieldtrip to Vietnam! Keeping our fingers (and toes) crossed!&nbsp;
 
 H3 History
