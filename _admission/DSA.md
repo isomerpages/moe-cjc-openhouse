@@ -91,7 +91,7 @@ To allow enough time for processing, it is strongly recommended that all applica
 
 **Selection Process**
 
-For DSA-JC (Phase 1),
+<u>For DSA-JC (Phase 1),</u>
 
 ●&nbsp;&nbsp;Only short-listed candidates will be invited for&nbsp;an interview between&nbsp;**8 July**&nbsp;and&nbsp;**11 August 2022**.
 
@@ -103,7 +103,7 @@ Successful candidates will receive a Letter of Offer by&nbsp;**12 August 2022**.
 
 Short-listed applicants who are not offered a place in the DSA-JC (Phase 1) will be notified via email.
 
-For DSA-JC (Phase 2),
+<u>For DSA-JC (Phase 2),</u>
 
 ●&nbsp;&nbsp;Only short-listed candidates will be invited for&nbsp;an interview between&nbsp;**17 August**&nbsp;and&nbsp;**6 September 2022.**
 
@@ -115,8 +115,7 @@ Successful candidates will receive a Letter of Offer by&nbsp;**7 September 2022*
 
 Short-listed applicants who are not offered a place in the DSA-JC (Phase 2) will be notified via email.
 
-**  
-Important Note**  
+**Important Note**  
   
 Successful DSA-JC candidates will&nbsp;**NOT**&nbsp;be allowed to participate in the Joint Admissions Exercise. They will also&nbsp;**NOT**&nbsp;be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfill their DSA commitment without valid reason may be required to transfer out to another school.  
   
