@@ -17,3 +17,28 @@ img {
 }  
 </style>  
 <img style="width:85%;" src="/images/aboutprog.png">
+
+#### **A Level Syllabus**
+
+Click the following link for an overview of the General Paper syllabus as well as the assessment format:
+
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8807\_y22\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8807_y22_sy.pdf)
+
+  
+#### **Prerequisites/Suitability**
+
+It is compulsory for all JC students to offer General Paper at the A-Levels.&nbsp;  
+
+While students should find the essay writing and comprehension components familiar, having experienced a similar examination format at the O-Levels, General Paper demands depth of argumentation and critical thinking skills that are much more advanced than at the O-Level. CJC provides students with a foundation in thinking skills and content to allow them to craft well-reasoned arguments.  
+
+Above all, consistent effort and practice ensures success at the A-Levels.
+
+#### **Microlesson**
+
+***video to be embedded here***
+
+#### **Student Testimonials**
+
+***video to be embedded here***
+
+![General Paper Testimonials](/images/testimonials%20re%20cjc%20gp%20programme%201.png)
