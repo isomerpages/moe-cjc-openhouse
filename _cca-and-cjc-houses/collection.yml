@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - CCAs.md
-      - CJC Houses/CJC House Captains.md
       - CJC Houses/.keep
       - CJC Houses/CJC Houses.md
+      - CJC Houses/CJC House Captains.md
