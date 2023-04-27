@@ -56,8 +56,7 @@ Several books, tutorials, essays and lectures later, I have emerged a student wh
   
 With comprehensive and interesting lectures and tutorials that are often filled with laughter and deep introspection, my teachers never failed to make time to answer my queries and often went the extra mile to gather additional materials to link Literature themes to our daily lives, in order to help deepen our understanding of the books we&nbsp;analysed. All in all, having chosen to step out of my comfort zone to study H2 Literature in CJC is one of the best decisions I made.” --&nbsp;**Celine Silva, 2T05**&nbsp;&nbsp;  
   
-“CJ Literature definitely lived up to the expectations I had. With laughter filled lessons that still thoroughly cover the selected texts, Lit is the one subject my entire class looks forward to! Every teacher in the Lit department is ever ready to offer their help. Be it daily consultation sessions or random questions that pop up at 2 in the morning, the teachers always address all doubts and concerns, while reserving all judgement. Lit is a challenging subject, but with the help of my tutors, I have grown to truly love and enjoy it.” --&nbsp;**Maddie Chau, 2T07  
-**
+“CJ Literature definitely lived up to the expectations I had. With laughter filled lessons that still thoroughly cover the selected texts, Lit is the one subject my entire class looks forward to! Every teacher in the Lit department is ever ready to offer their help. Be it daily consultation sessions or random questions that pop up at 2 in the morning, the teachers always address all doubts and concerns, while reserving all judgement. Lit is a challenging subject, but with the help of my tutors, I have grown to truly love and enjoy it.” --&nbsp;**Maddie Chau, 2T07**
 
 #### **Enrichment**
 
@@ -68,7 +67,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="LMAOOO" src="![](/images/litera%20-%20cover.jpeg)">  
+<img style="width:85%;" src="/images/litera%20-%20cover.jpeg">  
   
   
-<figcaption style="text-align:center;">LMAOOOO</figcaption> 
+<figcaption style="text-align:center;"><em>Litera: a variant spelling of Littĕra in Latin, denoting a written sign. In the plural, Literae/Littĕrae denotes Literature, as a collection of signs.</em></figcaption>
