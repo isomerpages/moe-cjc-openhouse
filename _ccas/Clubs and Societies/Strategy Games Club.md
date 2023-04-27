@@ -4,3 +4,6 @@ permalink: /eopenhouse/cca-n-cjc-houses/ccas/clubs-n-societies/strategy-games-cl
 description: ""
 third_nav_title: Clubs and Societies
 ---
+Interested in games of strategy? <br>
+We welcome all! No prior background necessary. <br>
+The more experienced players will share their knowledge.
