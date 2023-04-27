@@ -40,6 +40,30 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="![](/images/labyrinth%202.jpg)">  
+<img style="width:70%;" src="/images/labyrinth%202.jpg">
+
+CJC’s Religious Education Programme (REP) adopts an inclusive approach which takes CJCians on a road of discovery of the self, community and the world – challenging them to not just be of this world, but to believe that they are an integral part of shaping it. The REP contains lessons and retreats containing guided reflection that encourage students to discern their mission in community.  
+
+  
+
+Our REP begins in JC1 with the Orientation Retreat where freshmen get to explore their new college environment begin an important step of discovering themselves and to build bonds with new friends. Legacy is an important part of CJC and alumni and teachers are an integral part of the retreat to orientate the JC1s into our CJC family.
+
+  
+
+Our REP challenges students to grow as individuals in service of others. We explore themes like friendship, family and the needy and world issues like poverty and human rights. By fostering both mind and spirit, we aim to help every CJCian discover their mission and the change they wish to be for the world.
+
+#### **Retreats**
+
+The REP culminates with the JC2 Retreat at the end of JC2. This retreat is a significant milestone in the lives of students in the REP as it marks the end of their time here at CJC, and provides a space for them to reflect and recollect memories and times spent in the college. Looking forward, it challenges them to live the college’s values of Truth and Love when they move out into the real world.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" src="![](/images/labyrinth%201.jpg)"> <br>
+	<img style="width:70%;" src="LMAOOO">
   
   
