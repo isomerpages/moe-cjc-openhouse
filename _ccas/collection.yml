@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Physical Sports/Basketball (Boys).md
       - Physical Sports/Bowling.md
       - Physical Sports/Canoeing.md
       - Physical Sports/Cross Country.md
