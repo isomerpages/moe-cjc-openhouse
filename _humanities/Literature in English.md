@@ -110,8 +110,6 @@ In Paper 1, H1 students study the same two texts as H2 students, attend the same
 
 Do you have a question that has not been addressed on this site? If so, feel free to write to one of us:
 
-  
-
 *   HOD / Ms Pauline Chua: <br>[chua\_sook\_lan\_pauline@moe.edu.sg](mailto:chua_sook_lan_pauline@moe.edu.sg)
 
 *   Coordinator / Ms Mackenzie Rae Schoon: <br>
