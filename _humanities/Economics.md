@@ -5,37 +5,30 @@ description: ""
 ---
 ***video to be embedded here***
 
-#### About the Programme
--------------------
+#### **About the Programme**
 
 Through the learning and application of economic concepts, theories and principles, students develop the capacity to assess the role of economic agents, consumers, producers and the government, in the allocation of scarce resources, and deepen their awareness and understanding of real-world economic issues at the individual, national and international levels. This will help them to adopt multiple perspectives in understanding real-world economic issues. Students will learn to recognize how rational decisions are made, considering the trade-offs and consequences that arise from decision-making to arrive at well-reasoned decisions. Students will hence develop a set of knowledge, skills and values that encourages them to take an active interest in the domestic and global economy.
+**
+#### A-Level Syllabus**
 
-A-Level Syllabus
-----------------
-
-Click the following link for an overview of the H1 Economics syllabus as well as the assessment format:
-
+Click the following link for an overview of the H1 Economics syllabus as well as the assessment format: <br>
 [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/8843\_y23\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/8843_y23_sy.pdf)&nbsp;
 
   
   
 
-Click the following link for an overview of the H2 Economics syllabus as well as the assessment format:
-
+Click the following link for an overview of the H2 Economics syllabus as well as the assessment format: <br>
 [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9570\_y23\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9570_y23_sy.pdf)&nbsp;
 
-Microlesson
------------
+#### **Microlesson**
 
-![](https://cjc.moe.edu.sg/pix/spacer.gif)
+***video to be embedded here***
 
-H3 Economics
-------------
+#### **H3 Economics**
 
 We will specifically look at your JC1 examination results for H2 Economics and H1 General Paper for MOE UCLES H3. You must also do well in other non-related subjects. There will be a probation period for MOE UCLES H3. Comments and recommendations by respective tutors will also be taken into consideration. All these are to ensure that you are able to cope with the rigour and intensity of the H3 syllabus while managing the other H1 and H2 subjects that you will be offering.
 
-FAQs
-----
+#### **FAQs**
 
 **1\. Is Economics a business subject?**
 
