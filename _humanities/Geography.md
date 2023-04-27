@@ -9,8 +9,6 @@ description: ""
 
 Geography seeks to understand Earth’s landscapes, people, places and environments by asking the right questions.&nbsp;
 
-  
-
 It is a unique subject which bridges the social sciences with the natural sciences. Through Geography, you will gain a more all-rounded view of the world, and understand&nbsp;**why places are different**&nbsp;and&nbsp;**why inequalities exist among places and groups of people**. You will also understand&nbsp;**social and physical processes**&nbsp;within the&nbsp;**context of places and regions**, as well as&nbsp;**man's interactions with the environment.**
 
 #### **A-Level Syllabus**
@@ -32,9 +30,9 @@ H2 Geography: <br>
 
 #### **Student Testimonials**
 
-![Geography 1.png](https://cjc.moe.edu.sg/qql/slot/u495/Geography%201.png)
+![Geography Student Testimonials](/images/geography%201.png)
 
-![Geography 2.png](https://cjc.moe.edu.sg/qql/slot/u495/Geography%202.png)
+![Geography Student Testimonials](/images/geography%202.png)
 
 #### **Enrichment**
 
