@@ -33,3 +33,7 @@ These six houses would be a symbol of the college's treasured legacy, giving stu
 *   Talent competitions (e.g. Sing-off, Dance-off)
 *   Academic achievements
 *   Behaviour and discipline
+
+<img style="width:100%" src="![](/images/ablaze%20opening%203.jpeg)">
+
+<img style="width:100%" src="![](/images/open%20house%202022%20web%2015.jpg)">
