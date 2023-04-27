@@ -2,6 +2,7 @@ collections:
   academic-information:
     output: true
     order:
+      - Signature Programmes/English Language and Linguistics.md
       - Signature Programmes/.keep
       - Department Information/Humanities.md
       - Department Information/Knowledge Skills.md
