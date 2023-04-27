@@ -40,7 +40,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="/images/labyrinth%202.jpg">
+<img style="width:80%;" src="/images/labyrinth%202.jpg">
 
 CJC’s Religious Education Programme (REP) adopts an inclusive approach which takes CJCians on a road of discovery of the self, community and the world – challenging them to not just be of this world, but to believe that they are an integral part of shaping it. The REP contains lessons and retreats containing guided reflection that encourage students to discern their mission in community.  
 
@@ -63,5 +63,5 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="/images/labyrinth%201.jpg"> <br>
-	<img style="width:70%;" src="/images/quote%20bropaul.png">
+<img style="width:80%;" src="/images/labyrinth%201.jpg"> <br>
+	<img style="width:80%;" src="/images/quote%20bropaul.png">
