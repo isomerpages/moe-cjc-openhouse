@@ -52,3 +52,17 @@ Click the following link for an overview of the Project Work syllabus as well as
 <img style="width:100%" src="/images/2%20programme%201.jpeg">
 
 <img style="width:100%" src="/images/2%20programme%202.jpeg">
+
+#### **Other Contact Details**
+
+Do you have a question that has not been addressed on this site? If so, feel free to write to one of us:
+
+  
+
+*   HOD / Mr Mervyn Sek&nbsp;<br>
+[mervyn\_sek@moe.edu.sg](mailto:mervyn_sek@moe.edu.sg)
+
+  
+
+*   Subject Head / Ms Jillian Cheng: <br>
+[cheng\_shangrong\_jillian@moe.edu.sg](mailto:cheng\_shangrong\_jillian@moe.edu.sg)
