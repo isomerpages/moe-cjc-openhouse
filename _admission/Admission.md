@@ -33,7 +33,7 @@ We count actors, doctors, lawyers, business owners, priests, singers, writers, s
 
 ![WhoWeAre3](/images/whoweare%203.jpg)
 
-![Quote-DrEe.png](https://cjc.moe.edu.sg/qql/slot/u495/EOH%202021/Admission/Quote-DrEe.png)
+![Quote-DrEe](/images/quote%20by%20dree.png)
 
 Discover More
 -------------
