@@ -31,6 +31,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="CJC shooting" src="![](/images/cjc%20shooting.JPG)">  
-  
- 
+<img style="width:80%;" alt="CJC shooting" src="/images/cjc%20shooting.JPG">
