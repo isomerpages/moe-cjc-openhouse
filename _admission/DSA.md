@@ -60,18 +60,18 @@ We are looking for students who are outstanding in the following areas:
 
 &nbsp;3.&nbsp; Application periods for the two phases are as follows:
 
-&nbsp;For DSA-JC (Phase 1)
+<u>For DSA-JC (Phase 1)</u>
 
 To allow sufficient time for processing, it is strongly recommended that all applications are submitted online by&nbsp;**1pm, Friday,**&nbsp;**1 July**&nbsp;**2022**.&nbsp;  
   
 Applications submitted&nbsp;**after**&nbsp;**1 July**&nbsp;**2022**&nbsp;will be processed in Phase 2.&nbsp;  
   
-For DSA-JC (Phase 2)  
+<u>For DSA-JC (Phase 2)</u>  
 To allow enough time for processing, it is strongly recommended that all applications are submitted online by&nbsp;**1pm,&nbsp;Friday,**&nbsp;**19**&nbsp;**August 2022**.&nbsp;
 
 **Trial/Audition Process**
 
-&nbsp;For DSA-JC (Phase 1),
+<u>For DSA-JC (Phase 1),</u>
 
 ●&nbsp;&nbsp;**Short-listed applicants**&nbsp;will be invited for in-person&nbsp;**auditions/trials**&nbsp;**from 23 May 2022**&nbsp;onwards.
 
