@@ -25,6 +25,52 @@ img {
   
 <p style="text-align:center;"><u>Figure 1: 4M Leadership for SOAR Framework</u></p>
 
+The framework seeks to design purposeful experiences to empower our student leaders to serve and lead others better (**Leadership Rule No. 1:&nbsp;_It is not about you_**_)_&nbsp;and gain greater self-awareness in the process (**Leadership Rule No. 2:&nbsp;_It is only about you_**_),_&nbsp;well beyond their 2-year journey in the college.
+
+  
+
+**Mastery of Self (Strengths &amp; Skills):**&nbsp;Great leaders model the way and lead by example – the first challenge all effective leaders face is to lead from within. Undergirded by the 5 Practices of the Student Leadership Challenge1, student leaders will deepen their understanding of self which helps to identify and nurture effective leadership behaviors. Together with this, progressive training on how to better understand and harness their talents will be conducted during StrengthsFinder2&nbsp;training sessions. The intention is simple – a leader should strive to master his/her own talents before inspiring others to do the same.
+
+  
+
+**Moments of Leadership (Opportunities):**&nbsp;Chances to show and grow leadership potential are abound, but it is what student leaders make of these opportunities that makes them special moments for themselves, their teams and the college. In the journey ahead, student leaders are encouraged to be mindful of the moments that will challenge them as leaders and the decisions they make will define them as who they are and what they stand for. For it is in these precise moments where student leaders will grow both individually and collectively as a community.
+
+  
+
+**Mind-set (Attitude):**&nbsp;A student leader’s journey begins by adopting the right mind-set – leadership is everyone’s business3&nbsp;in which regardless of status, everyone can serve and make a difference. Additionally, a growth mind-set4&nbsp;is fundamental in providing the motivation for student leaders to continue learning and improving so as to serve and enact positive change in our community.
+
+  
+
+**Mentoring (Relationships):**&nbsp;At the heart of servant leadership lies the care for people and relationships. The first law of leadership5&nbsp;states that “If you don’t believe in the messenger, you won’t believe the message.” Student leaders must be able and willing to invest in quality relationships - build their teams and allow others to build them up as well. The strong caring culture of our college will always be our legacy, one that we are always proud of. The quality of relationships can never be taken for granted and as leaders, we will safeguard this and improve our identity as one “_CJ Family_”.
+
+  
+
+* * *
+
+  
+
+1&nbsp;The 5 Practices are Model the Way (MTW), Inspire a Shared Vision (ISV), Challenge the Process (CTP), Enable Others to Act (EOA) and Encourage the Heart (ETH) (Kouzes and Posner, 1987).
+
+2&nbsp;Adopted from StrengthsFinder, (Clifton and Buckingham, 2001).
+
+3&nbsp;Adopted from Student Leadership Challenge, (Kouzes and Posner, 1987).
+
+4&nbsp;Adopted from Mindset, (Dweck, 2016)
+
+5&nbsp;Adopted from Student Leadership Challenge, (Kouzes and Posner, 1987).
+
+#### **Tiered Approach in Student Leadership Development**
+
+With a diverse set of student profiles, the tiered design of the approach caters to the implementation of various SLD activities for different groups: specific segments of the student population or entire cohort of students.  
+
+  
+
+This differentiated approach ensures all students receive a baseline level of development while targeted training will stretch positional student leaders with role-specific skills.
+
+  
+
+For instance, Model the Way and Encourage the Heart will be delivered to all students to reinforce self-leadership, while organizational leaders will apply the principles of Challenge the Process and Inspire a Shared Vision in their scope of influence, be it in designing the work-plans for their groups or motivating their peers during an intense A-Division match.
+
 <style>  
 img {  
   display: block;  
