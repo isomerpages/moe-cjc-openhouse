@@ -49,15 +49,15 @@ The framework seeks to design purposeful experiences to empower our student lead
 
   
 
-1&nbsp;The 5 Practices are Model the Way (MTW), Inspire a Shared Vision (ISV), Challenge the Process (CTP), Enable Others to Act (EOA) and Encourage the Heart (ETH) (Kouzes and Posner, 1987).
+<sup>1</sup>&nbsp;The 5 Practices are Model the Way (MTW), Inspire a Shared Vision (ISV), Challenge the Process (CTP), Enable Others to Act (EOA) and Encourage the Heart (ETH) (Kouzes and Posner, 1987).
 
-2&nbsp;Adopted from StrengthsFinder, (Clifton and Buckingham, 2001).
+<sup>2</sup>&nbsp;Adopted from StrengthsFinder, (Clifton and Buckingham, 2001).
 
-3&nbsp;Adopted from Student Leadership Challenge, (Kouzes and Posner, 1987).
+<sup>3</sup>&nbsp;Adopted from Student Leadership Challenge, (Kouzes and Posner, 1987).
 
-4&nbsp;Adopted from Mindset, (Dweck, 2016)
+<sup>4</sup>&nbsp;Adopted from Mindset, (Dweck, 2016)
 
-5&nbsp;Adopted from Student Leadership Challenge, (Kouzes and Posner, 1987).
+<sup>5</sup>&nbsp;Adopted from Student Leadership Challenge, (Kouzes and Posner, 1987).
 
 #### **Tiered Approach in Student Leadership Development**
 
