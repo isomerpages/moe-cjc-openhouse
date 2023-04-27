@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Student Leadership.md
       - Potential Development.md
       - Religious Education Programme (REP).md
       - Service Learning.md
