@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Clubs and Societies/.keep
       - Physical Sports/Badminton.md
       - Physical Sports/Basketball (Boys).md
       - Physical Sports/Bowling.md
