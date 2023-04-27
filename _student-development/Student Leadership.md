@@ -133,3 +133,25 @@ img {
   
 <p style="text-align:center;"><u>Figure 4: 70-20-10 Model for Learning and Development</u></p>
 
+#### **Milestone Events**
+
+**<u>CMC Training Sessions</u>** <br>
+The CMC Training Sessions provide opportunities for the CMC leaders to discover their leadership style and learn the importance of having a vision in their leadership journey. The sessions are structured into core and elective modules where the CMC leaders are trained in leadership and role-specific skills. Through these sessions, we believe that our student leaders have gained more confidence to serve their peers and community with a greater sense of purpose and mission.
+
+  
+
+**<u>JC1 Leadership Training Camp (LTC)</u>** <br>
+With the theme “Leading through Connections”, the camp seeks to inspire the incoming batch of student leaders to:
+
+*   Connect with Self - Reflections: To inculcate a reflective habit to be deliberate in&nbsp;growing as a leader.
+*   Connect with Others - Relations: To understand that forging positive relationships is the heart of servant leadership.
+*   Connect with Purpose - Realization: To discover what drives their leadership.
+
+  
+
+The camp is guided by teacher and alumni facilitators in an experiential learning approach where participants engage in team-based challenges before processing the experience through a series of reflections. More importantly, the LTC helps to develop stronger networks amongst the student leaders and fosters a greater college spirit amongst their peers and the rest of the college community, both past and present – for a better future.
+
+  
+
+**<u>JC2 Leadership Conference (LC)</u>** <br>
+The LC provides the JC2 student leaders with a space for reflection at the end of their leadership journey at CJC. As we celebrate their successes and encourage them to learn from their failures, the student leaders also reflect on how they can take these life lessons along with them as they go out into the world and continue to contribute positively to the communities. We hope that the LC will put them in good stead to embrace leadership roles in the future, serving their respective communities as Thinkers with a Mission, Leaders with a Heart.
