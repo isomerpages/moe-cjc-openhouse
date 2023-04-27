@@ -85,3 +85,34 @@ _Some former student artists:_
 ![litera - alfonso](/images/litera%20-%20alfonso.jpeg)
 
 ![litera - adiba](/images/litera%20-%20adiba.jpeg)
+
+#### **H3 Literature in English**
+
+●&nbsp; &nbsp; &nbsp; &nbsp;This will be offered to students who display exceptional ability and interest in the further study of Literature.
+
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students will write an independent research essay on a literary topic of their choice, comparing three texts written in English by three different authors.
+
+●&nbsp;&nbsp;Guidelines: SEAB approval for research topic required; tutors provide some guidance in line with SEAB restrictions.
+
+#### **Frequently Asked Questions**
+
+**1\. Is Literature at O-Level required to take Literature at A-Level?**
+
+Experience of Literature at O-Level gives students some advantage but is not a pre-requisite for A-Level Literature. In both H1 and H2 Literature, we provide students a foundation in literary study, from the use of literary methods to the shaping of an interpretation.
+
+**2\. What is the difference between H1 and H2 Literature?**
+
+H1 students read only Paper 1, while H2 students read both Paper 1 and Paper 3. Literature students are expected to perform close reading of unseen and set texts, regardless of whether they are H1 or H2 students. This involves analysis of literary methods and effects. Mere paraphrasing or narration of the text does not count as analysis.
+
+In Paper 1, H1 students study the same two texts as H2 students, attend the same Paper 1 lectures and take a similar examination. H1 students however are not required to demonstrate comparison skills in Section A (unseen poetry)
+
+#### **Other Contact Details**
+
+Do you have a question that has not been addressed on this site? If so, feel free to write to one of us:
+
+  
+
+*   HOD / Ms Pauline Chua: <br>[chua\_sook\_lan\_pauline@moe.edu.sg](mailto:chua_sook_lan_pauline@moe.edu.sg)
+
+*   Coordinator / Ms Mackenzie Rae Schoon: <br>
+    [mackenzie\_rae\_schoon@moe.edu.sg](mailto:mackenzie\_rae\_schoon@moe.edu.sg)
