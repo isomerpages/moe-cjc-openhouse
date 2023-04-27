@@ -72,8 +72,7 @@ The contemporary philosopher, Anthony Grayling, believes that philosophy should 
 
 Every year, CJC will partner CPDD and external agencies to invite representatives for dialogue sessions with our students. This programme aims to equip students with a breadth of views and a deeper insight into Singapore issues from the perspective of public service agencies. It also aims to develop in students an appreciation of the interrelationship of ideas across disciplines.
 
-Frequently Asked Questions
---------------------------
+#### **Frequently Asked Questions**
 
 **Q:**&nbsp;What is the difference between O-Level English Language and A-Level General Paper?
 
@@ -83,15 +82,12 @@ Frequently Asked Questions
 
   
 
-Contact Information
--------------------
+#### **Contact Information**
 
 Do you have a question that has not been addressed on this site? If so, feel free to write to one of us:
 
   
 
-**HOD / Ms Pauline Chua**:&nbsp;[chua\_sook\_lan\_pauline@moe.edu.sg](mailto:chua_sook_lan_pauline@moe.edu.sg)
-
-**LH (JC1 2023)/ Ms Serene Thong**:&nbsp;[thong\_wan\_ling\_serene@moe.edu.sg](mailto:thong_wan_ling_serene@moe.edu.sg)  
-
+**HOD / Ms Pauline Chua**:&nbsp;[chua\_sook\_lan\_pauline@moe.edu.sg](mailto:chua_sook_lan_pauline@moe.edu.sg) <br>
+**LH (JC1 2023)/ Ms Serene Thong**:&nbsp;[thong\_wan\_ling\_serene@moe.edu.sg](mailto:thong_wan_ling_serene@moe.edu.sg)  <br>
 **LH (JC2 2023)/ Ms Cara Chew-Lommen**:&nbsp;[chew\_heng\_suan\_cara@moe.edu.sg](mailto:chew_heng_suan_cara@moe.edu.sg)
