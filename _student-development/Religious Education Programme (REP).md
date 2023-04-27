@@ -64,6 +64,4 @@ img {
 }  
 </style>  
 <img style="width:70%;" src="![](/images/labyrinth%201.jpg)"> <br>
-	<img style="width:70%;" src="LMAOOO">
-  
-  
+	<img style="width:70%;" src="![](/images/quote%20bropaul.png)">
