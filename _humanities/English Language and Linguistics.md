@@ -44,3 +44,40 @@ Before applying, students should consider their interest in the English language
 #### **Microlesson**
 
 ***video to be embedded here***
+
+#### **Student Testimonials**
+
+“I think the beautiful thing about studying ELL is that it’s something that you don’t just leave behind once you graduate. You don’t just learn about English in ELL; you learn to think in an entirely new way … these lessons continue to apply in my life” -Vinessa Martin, 2019 Science student and current SMU Law Undergraduate&nbsp;
+
+  
+
+“Ever since I took ELL, I find myself unknowingly analysing bus stop advertisements, news papers and many more! It proves that ELL is connected to our everyday life, making it more satisfactory when you understand the meaning behind it.” -Carolyn Ong, 2021 Arts Student
+
+#### **Enrichment**
+
+**1\. Partnership with the University of Birmingham**
+
+Our ELL and Ignite programmes are fortunate to have benefitted from the generosity and expertise of the Department of English Language and Linguistics, at the University of Birmingham. In 2019, we invited Dr Ruth Page and Dr Jason Grafmiller to deliver a series of lectures and seminars as part of our Ignite Residential Programme. Dr Page engaged our students in a lively and critical inquiry into various Wikipedia pages, by way of discussing the topic of Language, Gender and Power.&nbsp;
+
+In 2022, our students interacted with undergraduate students from the University as part of a focus group discussion on linguistic discrimination and prestige. Such programmes have exposed our students to the wider linguistic landscape and challenged them to apply the subject-specific skills to a spectrum of texts and contexts.
+
+<img style="width:90%" src="/images/copy%20of%20p5280053.jpeg">
+
+**2\. Guest Lectures by Linguists**
+
+  
+
+The English Language is very much a living language, susceptible to growing factors of change over time. Our students are frequently exposed to the work of esteemed linguists – both local and foreign – who keep them abreast with current linguistic issues and specialist knowledge. In 2022, Assistant Professor Geraldine Kwek from the National Institute of Education shared her expertise on accent variation and the factors that affect how one speaks. Students gained a new lens to view our own Singaporean accent, while forging a greater appreciation of the wider linguistic community. This made them empowered and enthusiastic about finding ways to apply and synthesise theories they had learnt.
+
+  
+
+**3\. Good English Week**
+
+  
+
+Good English Week is an MOE initiative to promote the appropriate and effective use of English. In CJC, this is an opportunity for our ELL students to delve deeper into a specific topic or issue in our curriculum and to share their learning with the wider school community.&nbsp;
+
+  
+
+In 2022, we explored “English Around the World”, considering regional variation in the use of English (i.e. different accents, dialects and so on). In one of the activities, the school community was engaged in an English dialect guessing game, where the correct answer was revealed on @goodenglish.cjc at the end of each day. Our ELL students were excited to share their knowledge of dialects such as Uganda English (or “Uglish”) and African American Vernacular English (AAVE), through attractive infographics they designed. It was scintillating to see just how differently English can be used across the world!
+
