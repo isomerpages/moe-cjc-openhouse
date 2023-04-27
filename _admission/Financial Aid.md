@@ -5,8 +5,7 @@ description: ""
 ---
 The college is committed to ensuring that all students have a fair opportunity to realise their potential. The MOE Financial Assistance Scheme, CJC Needy Student Fund and the Internationalisation Fund provide students with the necessary resources as well as the opportunity to take up enrichment activities beyond local shores.
 
-MOE Financial Assistance Scheme (MOE FAS)
------------------------------------------
+#### **MOE Financial Assistance Scheme (MOE FAS)**
 
 We offer the Ministry of Education Financial Assistance Scheme (MOE FAS) to needy Singapore Citizen students in Government or Government-aided schools so that all Singaporeans, regardless of their financial background, can benefit from the best opportunities in education.  
 
@@ -33,7 +32,7 @@ The benefits of the scheme for junior college students are:
 
   
 
-Students who satisfy the eligibility criteria for the MOE FAS Scheme may submit the application form to the General Office. [2021 MOE FAS Application Form.pdf](https://cjc.moe.edu.sg/qql/slot/u495/EOH%202021/Admission/Financial%20Aid/2021%20MOE%20FAS%20Application%20Form.pdf)  
+Students who satisfy the eligibility criteria for the MOE FAS Scheme may submit the application form to the General Office. [2021 MOE FAS Application Form.pdf](/files/2021%20moe%20fas%20application%20form.pdf)
 
   
 
