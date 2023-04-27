@@ -16,5 +16,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:85%;" src="/images/aboutprog.png">  
-  
+<img style="width:85%;" src="/images/aboutprog.png">
