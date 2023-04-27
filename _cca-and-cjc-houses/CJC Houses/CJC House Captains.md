@@ -20,8 +20,12 @@ Secretaries: Chee Yun Huai (1T10), Yong Kay Bin, Eliaz (1T11)
 
 #### **Albert House Captain**
 
+***video to be embedded here***
 
 #### **Albert House Captain**
 
+***video to be embedded here***
 
 #### **Albert House Captain**
+
+***video to be embedded here***
