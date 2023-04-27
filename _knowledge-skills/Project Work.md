@@ -42,3 +42,13 @@ Click the following link for an overview of the Project Work syllabus as well as
 [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8808\_y22\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8808_y22_sy.pdf)
 
 #### **Student Testimonials**
+
+<img style="width:100%" src="000">
+
+<img style="width:100%" src="000">
+
+#### **Enrichment**
+
+<img style="width:100%" src="000">
+
+<img style="width:100%" src="000">
