@@ -78,10 +78,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="LMAOOO" src="LMAOOO">  
+<img style="width:70%;" alt="Figure 2: Tiered Approach in Student Leadership Development" src="![](/images/tiered%20approach%20in%20student%20leadership%20development.png)">  
   
   
-<p style="text-align:center;"><u>LMAOOOO</u></p>
+<p style="text-align:center;"><u>Figure 2: Tiered Approach in Student Leadership Development</u></p>
 
 <style>  
 img {  
