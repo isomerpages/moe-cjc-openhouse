@@ -17,5 +17,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="CJC badminton" src="![](/images/cjc%20badminton.JPG)">  
-  
+<img style="width:70%;" alt="CJC badminton" src="/images/cjc%20badminton.JPG">
