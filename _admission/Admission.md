@@ -3,9 +3,9 @@ title: Admission
 permalink: /eopenhouse/admission/
 description: ""
 ---
-![Quote-Dreams.png](https://cjc.moe.edu.sg/qql/slot/u495/EOH%202021/Admission/Quote-Dreams.png)  
-![ASEAN Day 2019 reception wt DS Peter Tan.jpg](https://cjc.moe.edu.sg/qql/slot/u495/EOH%202021/Admission/ASEAN%20Day%202019%20reception%20wt%20DS%20Peter%20Tan.jpg)  
+![Quote-Dream](/images/quote-dreams.png)
 
+![ASEAN Day 2019 reception wt DS Peter Tan](/images/asean%20day%202019%20reception%20wt%20ds%20peter%20tan.jpg)
 (CJCians attending an ASEAN reception in 2019. Deputy Secretary Mr Peter Tan (centre) is from the Class of 1984. Teacher-in-charge, Mr Lucas D’Cruz, is on the extreme right of the photo.)
 
   
