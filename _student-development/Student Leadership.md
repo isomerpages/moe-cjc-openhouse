@@ -128,19 +128,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="LMAOOO" src="LMAOOO">  
+<img style="width:70%;" alt="Figure 4: 70-20-10 Model for Learning and Development" src="![](/images/70-20-10%20model%20for%20learning%20and%20development.png)">  
   
   
-<p style="text-align:center;"><u>LMAOOOO</u></p>
+<p style="text-align:center;"><u>Figure 4: 70-20-10 Model for Learning and Development</u></p>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img style="width:70%;" alt="LMAOOO" src="LMAOOO">  
-  
-  
-<p style="text-align:center;"><u>LMAOOOO</u></p>
