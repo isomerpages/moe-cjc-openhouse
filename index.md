@@ -41,4 +41,18 @@ sections:
       url: /eopenhouse/about-us/our-catholic-identity
       image: /images/our catholic identity.jpg
       alt: Our Catholic Identity
+  - infopic:
+      title: Scholarships
+      subtitle: Our Programmes
+      button: Click here to read more
+      url: /eopenhouse/academic-information/scholarships
+      image: /images/scholarships.jpg
+      alt: Scholarships
+  - infopic:
+      title: Ignite Programme
+      subtitle: Our Programmes
+      button: Click here to read more
+      url: /eopenhouse/academic-information/signature-programmes/ignite-programme
+      image: /images/ignite programme.jpg
+      alt: Ignite Programme
 ---
