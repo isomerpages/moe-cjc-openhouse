@@ -17,5 +17,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:90%;" alt="CJC floorball" src="images/cjc%20floorball.JPG">  
-  
+<img style="width:75%;" alt="CJC floorball" src="images/cjc%20floorball.JPG">
