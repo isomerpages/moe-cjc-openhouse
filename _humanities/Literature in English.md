@@ -41,8 +41,7 @@ First lesson sample: this video is part of an actual lecture delivered on George
 
 Second lesson sample: this audio file is part of a supplementary Podcast, an example of learning resources that augment core materials and lessons. In this short audio file, the lecturer meditates on one scene in William Shakespeare's&nbsp;_Hamlet_, using it as a springboard to consider the themes of corruption, misogyny, and the connection between the particular and the universal.
 
-#### Student Testimonies
--------------------
+#### **Student Testimonies**
 
 “To speak authentically, taking Literature in CJ has been an experience like no other. It is truly respectable and inspiring to see teachers love what they do and put their hearts into each tutorial and lecture they give. Their passion is indeed contagious. I count myself extremely blessed to be taught by a group of individuals who are so intelligent and driven, yet so humble. They taught me that Literature is not just a subject to be studied, but instead, Literature is a beautiful artform to be appreciated. CJ teachers: they do the world’s poets and authors justice.” --&nbsp;**Ashley Chia, 2T01**&nbsp;&nbsp;  
   
