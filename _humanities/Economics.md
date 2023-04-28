@@ -8,8 +8,8 @@ description: ""
 #### **About the Programme**
 
 Through the learning and application of economic concepts, theories and principles, students develop the capacity to assess the role of economic agents, consumers, producers and the government, in the allocation of scarce resources, and deepen their awareness and understanding of real-world economic issues at the individual, national and international levels. This will help them to adopt multiple perspectives in understanding real-world economic issues. Students will learn to recognize how rational decisions are made, considering the trade-offs and consequences that arise from decision-making to arrive at well-reasoned decisions. Students will hence develop a set of knowledge, skills and values that encourages them to take an active interest in the domestic and global economy.
-**
-#### A-Level Syllabus**
+
+#### **A-Level Syllabus**
 
 Click the following link for an overview of the H1 Economics syllabus as well as the assessment format: <br>
 [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/8843\_y23\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/8843_y23_sy.pdf)&nbsp;
