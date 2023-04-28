@@ -23,7 +23,7 @@ Father Justin Yip has been appointed Chaplain of CJC in 2021. Fr Justin was orda
 
 As the Chaplain of CJC, Fr Justin will preside over prayer services at our official college ceremonies, celebrate weekday masses, and work closely with student and teachers in the college to develop our religious education programme.
 
-<img style="width:70%" src="/images/college%20chaplain%20fr%20justin%20yip.jpeg">
+<img style="width:57%" src="/images/college%20chaplain%20fr%20justin%20yip.jpeg">
 
 #### **House of Prayer**
 
