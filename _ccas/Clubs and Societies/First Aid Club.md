@@ -23,5 +23,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:90%;" alt="First Aid Club" src="/images/first%20aid%20club.JPG">  
-  
+<img style="width:70%;" alt="First Aid Club" src="/images/first%20aid%20club.JPG">
