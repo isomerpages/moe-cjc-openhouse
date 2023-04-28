@@ -7,21 +7,19 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/cjcopenhouse.gif
-      button: Contact Us
-      url: /contact-us/
+      button: Tour Our Campus
+      url: /eopenhouse/about-us/tour-our-campus
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Principal's Address
+          description: ""
+          url: /eopenhouse/principals-address/
+        - title: Vice Principal's Address
+          description: ""
+          url: /eopenhouse/vice-principals-address/
+        - title: Year Head's Address
+          description: ""
+          url: /eopenhouse/year-heads-address/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
