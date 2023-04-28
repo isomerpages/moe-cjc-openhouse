@@ -13,6 +13,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:90%;" alt="CJC swimming" src="/images/cjc%20swimming.JPG">  
-  
- 
+<img style="width:75%;" alt="CJC swimming" src="/images/cjc%20swimming.JPG">
