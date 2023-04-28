@@ -14,5 +14,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="CJC cross country" src="/images/cross%20country.jpg">  
-  
+<img style="width:57%;" alt="CJC cross country" src="/images/cross%20country.jpg">
