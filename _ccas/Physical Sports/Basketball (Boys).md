@@ -13,4 +13,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="CJC basketball (boys)" src="/images/cjc%20basketball%20boys.JPG">
+<img style="width:50%;" alt="CJC basketball (boys)" src="/images/cjc%20basketball%20boys.JPG">
