@@ -20,10 +20,11 @@ sections:
         - title: Year Head's Address
           description: ""
           url: /eopenhouse/year-heads-address/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Academic Programmes
+      subtitle: Our Progammes
+      button: CLick here to read more
+      url: /eopenhouse/academic-information/department-information/humanities
+      image: /images/academic programmes.jpg
+      alt: Academic Programmes
 ---
