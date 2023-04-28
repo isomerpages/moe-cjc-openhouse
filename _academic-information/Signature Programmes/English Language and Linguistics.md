@@ -52,11 +52,11 @@ Before applying, students should consider their interest in the English language
 
 #### **Student Testimonials**
 
-“I think the beautiful thing about studying ELL is that it’s something that you don’t just leave behind once you graduate. You don’t just learn about English in ELL; you learn to think in an entirely new way … these lessons continue to apply in my life” -Vinessa Martin, 2019 Science student and current SMU Law Undergraduate&nbsp;
+*“I think the beautiful thing about studying ELL is that it’s something that you don’t just leave behind once you graduate. You don’t just learn about English in ELL; you learn to think in an entirely new way … these lessons continue to apply in my life”* -Vinessa Martin, 2019 Science student and current SMU Law Undergraduate&nbsp;
 
   
 
-“Ever since I took ELL, I find myself unknowingly analysing bus stop advertisements, news papers and many more! It proves that ELL is connected to our everyday life, making it more satisfactory when you understand the meaning behind it.” -Carolyn Ong, 2021 Arts Student
+*“Ever since I took ELL, I find myself unknowingly analysing bus stop advertisements, news papers and many more! It proves that ELL is connected to our everyday life, making it more satisfactory when you understand the meaning behind it.”* -Carolyn Ong, 2021 Arts Student
 
 #### **Enrichment**
 
