@@ -34,4 +34,11 @@ sections:
       url: /eopenhouse/student-development/character-and-citizenship-education
       image: /images/student development.jpg
       alt: Student Development
+  - infopic:
+      title: Our Catholic Identity
+      subtitle: Our Programmes
+      button: Click here to read more
+      url: /eopenhouse/about-us/our-catholic-identity
+      image: /images/our catholic identity.jpg
+      alt: Our Catholic Identity
 ---
