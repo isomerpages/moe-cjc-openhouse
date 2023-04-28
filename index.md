@@ -27,4 +27,11 @@ sections:
       url: /eopenhouse/academic-information/department-information/humanities
       image: /images/academic programmes.jpg
       alt: Academic Programmes
+  - infopic:
+      title: Student Development
+      subtitle: Our Programmes
+      button: Click here to read more
+      url: /eopenhouse/student-development/character-and-citizenship-education
+      image: /images/student development.jpg
+      alt: Student Development
 ---
