@@ -90,7 +90,7 @@ In 2022, we explored “English Around the World”, considering regional variat
 
 #### **Scholarships**
 
-Catholic Junior College is one of three English Language Elective Programme (ELEP) centres in Singapore. This means that students admitted to the programme may apply for the English Language Elective Scholarship (ELES) awarded by the Ministry of Education. More information about the ELES may be found [here](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u).
+Catholic Junior College is one of three English Language Elective Programme (ELEP) centres in Singapore. This means that students admitted to the programme may apply for the English Language Elective Scholarship (ELES) awarded by the Ministry of Education. More information about the ELES may be found <mark><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u">here</a></mark>.
 
 #### **Frequently Asked Questions**
 
