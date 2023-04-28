@@ -83,7 +83,7 @@ Broadly speaking, students will be assessed on three levels:
 
 #### **Curriculum**
 
-##### H1 Mathematics (8865) Revised Syllabus for 2016 onward
+##### **H1 Mathematics (8865) Revised Syllabus for 2016 onward**
 
   
 
@@ -92,7 +92,7 @@ Broadly speaking, students will be assessed on three levels:
 
   
 
-##### H2 Mathematics (9758) Revised Syllabus for 2016 onward
+##### **H2 Mathematics (9758) Revised Syllabus for 2016 onward**
 
   
 
@@ -102,7 +102,7 @@ Broadly speaking, students will be assessed on three levels:
 
 #### **Assessment**
 
-##### H1 Mathematics (8865) Revised Syllabus for 2016 onward
+##### **H1 Mathematics (8865) Revised Syllabus for 2016 onward**
 
   
 
@@ -117,7 +117,7 @@ Examination questions may integrate ideas from more than one topic, and topics m
 
   
 
-##### H2 Mathematics (9758) Revised Syllabus for 2016 onward
+##### **H2 Mathematics (9758) Revised Syllabus for 2016 onward**
 
   
 
@@ -137,7 +137,7 @@ Examination questions may integrate ideas from more than one topic, and topics m
 
   
 
-##### H3 Mathematics (9820) Revised Syllabus for 2016 onward
+##### **H3 Mathematics (9820) Revised Syllabus for 2016 onward**
 
   
 
