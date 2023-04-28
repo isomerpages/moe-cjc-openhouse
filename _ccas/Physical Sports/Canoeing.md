@@ -13,5 +13,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="CJC canoeing" src="/images/canoeing.png">  
-  
+<img style="width:55%;" alt="CJC canoeing" src="/images/canoeing.png">
