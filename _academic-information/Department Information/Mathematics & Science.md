@@ -32,7 +32,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:90%;" alt="Our Principal, Mrs Lim, launching STEM Fest during pre Covid-19 years" src="/images/principal%20mrs%20lim%20launching%20stem%20fest%202019.jpg">  
+<img style="width:70%;" alt="Our Principal, Mrs Lim, launching STEM Fest during pre Covid-19 years" src="/images/principal%20mrs%20lim%20launching%20stem%20fest%202019.jpg">  
   
   
 <p style="text-align:center;"><strong>Our Principal, Mrs Lim, launching STEM Fest during pre Covid-19 years</strong></p> 
@@ -52,7 +52,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years" src="/images/cjc%20stem%20picture%209.png">  
+<img style="width:60%;" alt="Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years" src="/images/cjc%20stem%20picture%209.png">  
   
   
 <p style="text-align:center;"><strong>Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years</strong></p> 
@@ -120,7 +120,7 @@ Students are encouraged to participate in various competitions to display their 
 
 The award is given to JC2 students who have outstanding academic&nbsp;achievement, show an interest in computing and excellent co-curricular&nbsp;achievement or leadership. The 2021 award goes to Nicholas Wee Kiat Ming&nbsp;of 2T15.
 
-<img style="width:100%" src="/images/cjc%20stem%20picture%2019.png">
+<img style="width:90%" src="/images/cjc%20stem%20picture%2019.png">
 
 **(ii)** **International Sci-Teens Challenge**
  
@@ -144,7 +144,7 @@ img {
 
 Rayan Wong of 2T08 took part in this event in 2021 and his group, which consisted of students from other schools, emerged as the champion.
 
-<img style="width:100%" src="/images/cjc%20stem%20picture%2021.jpg">
+<img style="width:90%" src="/images/cjc%20stem%20picture%2021.jpg">
 
 **(iv)** **Singapore International Science Challenge**
 
