@@ -47,6 +47,6 @@ CJCians are strongly encouraged to maintain regular attendance in their CCAs. Re
 
 <br>
 
-*   [**Virtual &amp; Performing Arts**](/eopenhouse/cca-n-cjc-houses/ccas/visual-n-performing-arts/choir)
-*   [**Clubs &amp; Societies**](/eopenhouse/cca-n-cjc-houses/ccas/clubs-n-societies/editorial-club)
-*   [**Physical Sports**](/eopenhouse/cca-n-cjc-houses/ccas/physical-sports/badminton)
+*   **[Virtual &amp; Performing Arts](/eopenhouse/cca-n-cjc-houses/ccas/visual-n-performing-arts/choir)**
+*   **[Clubs &amp; Societies](/eopenhouse/cca-n-cjc-houses/ccas/clubs-n-societies/editorial-club)**
+*   **[Physical Sports](/eopenhouse/cca-n-cjc-houses/ccas/physical-sports/badminton)**
