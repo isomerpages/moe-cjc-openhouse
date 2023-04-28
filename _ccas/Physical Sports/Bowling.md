@@ -15,5 +15,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="CJC bowling" src="/images/tenpin%20bowling.jpg">  
-  
+<img style="width:55%;" alt="CJC bowling" src="/images/tenpin%20bowling.jpg">
