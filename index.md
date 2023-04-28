@@ -2,7 +2,7 @@
 layout: homepage
 title: Catholic Junior College Open House
 description: Catholic Junior College Open House
-image: /images/isomer-logo.svg
+image: /images/cjclogo-btm.png
 permalink: /
 notification: ""
 sections:
