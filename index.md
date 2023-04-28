@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Catholic Junior College Open House
+description: Catholic Junior College Open House
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
