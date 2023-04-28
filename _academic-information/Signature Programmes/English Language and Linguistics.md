@@ -36,11 +36,15 @@ Click the following link for an overview of the English Language and Linguistics
 
 #### **Prerequisite/Suitability**
 
-Applicants will be selected based on their performance in a written selection test upon successful admission to CJC.
+Applicants will be considered based on their performance in a **written selection test** upon successful admission to CJC.
 
   
 
-Before applying, students should consider their interest in the English language and performance in the relevant subjects, especially O-Level English Language. Precision and flair in expression will stand applicants in good stead for a position on the programme.
+The Indicative Grade Cut-off is A2 grade for O-Level English Language.&nbsp;
+
+  
+
+Before applying, students should consider their interest in the English language and related issues; precision and flair in expression will stand applicants in good stead for a position on the programme.
 
 #### **Microlesson**
 
