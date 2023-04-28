@@ -21,7 +21,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Guzheng Ensemble" src="/images/guzheng%20ensemble.jpg">
+<img style="width:50%;" alt="Guzheng Ensemble" src="/images/guzheng%20ensemble.jpg">
 
 #### **eOpen House Performance**
 
