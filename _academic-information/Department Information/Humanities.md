@@ -10,8 +10,8 @@ The college offers the following Humanities subjects under the A-Level Programme
 
   
 
-*   [**H2 / H1 Economics**](/eopenhouse/academic-information/department-information/humanities/economics)
-*   [**H2 / H1 Geography**](/eopenhouse/academic-information/department-information/humanities/geography)
+*   **[H2 / H1 Economics](/eopenhouse/academic-information/department-information/humanities/economics)**
+*   **[H2 / H1 Geography](/eopenhouse/academic-information/department-information/humanities/geography)**
 *   **[H2 / H1 History](/eopenhouse/academic-information/department-information/humanities/history)**
 *   **[H2 / H1 Literature in English](/eopenhouse/academic-information/department-information/humanities/literature-in-english)**
-*   [**H2 English Language and Linguistics**](/eopenhouse/academic-information/signature-programmes/english-language-and-linguistics)
+*   **[H2 English Language and Linguistics](/eopenhouse/academic-information/signature-programmes/english-language-and-linguistics)**
