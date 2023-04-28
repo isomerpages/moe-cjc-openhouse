@@ -19,6 +19,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:50%;" alt="CJC track and field" src="/images/track%20and%20field.jpg">  
-  
- 
+<img style="width:40%;" alt="CJC track and field" src="/images/track%20and%20field.jpg">
