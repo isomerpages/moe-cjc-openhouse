@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       background: /images/cjcopenhouse.gif
@@ -55,4 +55,8 @@ sections:
       url: /eopenhouse/academic-information/signature-programmes/ignite-programme
       image: /images/ignite programme.jpg
       alt: Ignite Programme
+  - infobar:
+      title: Our CJC Story
+      button: Click here to watch
+      url: /eopenhouse/our-cjc-story/
 ---
