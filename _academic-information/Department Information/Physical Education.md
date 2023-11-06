@@ -41,13 +41,9 @@ Include learning outcomes which are aligned to the six goals of Physical Educati
 **Goal 4:** Display positive personal and social behaviour across different experiences <br>
 **Goal 5:** Acquire and maintain health-enhancing fitness through regular participation in physical activities. <br>
 **Goal 6:** Enjoy and value the benefits of living a physically active and healthy life.
-
   
-
-Click the following link for an overview of the Physical Education syllabus as well as the assessment format:
-
-[https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/pe/physical\_education\_syllabus\_2014.ashx?la=en&amp;hash=99815A270E547EFA314D9D11119590576BBADE53](https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/pe/physical_education_syllabus_2014.ashx?la=en&amp;hash=99815A270E547EFA314D9D11119590576BBADE53)
-
+Click the following link for an overview of the Physical Education syllabus as well as the assessment format:<br>
+[Physical Education Syllabus](https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/pe/physical_education_syllabus_2014.ashx?la=en&amp;hash=99815A270E547EFA314D9D11119590576BBADE53)
 #### **Further Contact Details**
 
 Do you have a question that has not been addressed on this site? If so, feel free to write to one of us:
