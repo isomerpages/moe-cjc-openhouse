@@ -36,9 +36,9 @@ Vice Captain: Katerina Shu-Lian Cascapera (1T28) <br>
 Secretaries: Ignatius Chia Ming Han (1T28), Nicole Tan Xuan Lin (1T06)
 
 **<u>Joseph House Executive Committee 2023/24</u>** <br>
-**Captain:**  <br>
-**Vice Captain:**  <br>
-**Secretaries:** ,
+**Captain:** Wong Xin Yi Shermaine (1T02) <br>
+**Vice Captain:** Er Guan Ting (1T09) <br>
+**Secretaries:** Yap Yu Hong Jonathan (1T25), Aw Bao Fang Chloe (1T04)
 
 #### **Michael House Captain**
 
