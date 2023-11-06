@@ -3,50 +3,29 @@ title: Physical Education
 permalink: /eopenhouse/academic-information/department-information/physical-education/
 description: ""
 third_nav_title: Department Information
+variant: markdown
 ---
-***video to be embedded here***
-
 #### **About the Programme**
 
-**Physical Literacy**
+**Discovery of self:**&nbsp;Fitness Management Program<br>
+**Awareness of the needs of others:**&nbsp;Games Skill Module<br>
+**Services to the Community**: House System, Intra and Inter House events and House Based Local Service-Learning Projects
 
-**“According to Whitehead (2013), physical literacy can be described as a disposition to capitalize on the human embodied capability wherein the individual has the motivation, confidence, physical competence, knowledge, and understanding to value and take responsibility for maintaining purposeful physical pursuits/activities throughout the life course.” (Whitehead &amp; Capel, 2013)**
+##### **Learning Objectives**
 
-**Vision: PHYSICAL EDUCATION IS FOR LIFE** <br>
-Physically fit students who have acquired the skills, knowledge and attitude to maintain a lifelong healthy lifestyle. - <br>
-Can you plan a personal fitness plan? <br>
-Do you know how to evaluate your fitness level? <br>
-Did you pick up skills in at least two games in CJC? <br>
-Are you able to appreciate games in general? <br>
-Do you influence others around you to lead an active and healthy lifestyle?
+1.  **Cognitive Domain**&nbsp;(intellectual capability, ie. Knowledge, Game Concepts, or “think”)
+2.  **Affective Domain**&nbsp;(feelings, emotions, and behavior, ie. Attitude, or “feel”)
+3.  **Psychomotor Domain**&nbsp;(manual and physical skills, ie., skills, or “do”)
 
-**Mission: CJC PE PROGRAMME:** <br>
-Ensure all the above and more! \*\* <br>
-To nurture in all a love for physical health and fitness and be advocates through a wide range of physical and non-physical activities.
+##### **Supporting pedagogies, SFed and frameworks**
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img style="width:85%;" src="/images/physical%20education_1.jpg">  
-  
- <br>
+1.  Teaching Games for Understanding
+2.  Games Concept Approach
+3.  Differentiated Instructions (DI)
+4.  Assessment of Learning
+5.  Whole College Approach to House system
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img style="width:85%;" src="/images/physical%20education_2.png">
-
-Click to find out more about the CJC PE Programme: [PE Microsite Materials (1).pptx - Google Slides](https://docs.google.com/presentation/d/1cwcHgTNZw5YtbVwPKuaOyArbt7D18k1i/edit#slide=id.p1)
-
-#### **MOE Syllabus**
+### **MOE Syllabus**
 
 **Expectations of MOE Pre-U Syllabus**
 
