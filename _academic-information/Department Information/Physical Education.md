@@ -25,6 +25,8 @@ variant: markdown
 4.  Assessment of Learning
 5.  Whole College Approach to House system
 
+More details about CJC PE Programme can be found here: [CJC PE Programme](/files/cjc%20pe%20programme%20(nov%202023).pdf)
+
 ### **MOE Syllabus**
 
 **Expectations of MOE Pre-U Syllabus**
