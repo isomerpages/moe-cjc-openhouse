@@ -31,7 +31,7 @@ The CJC Biology Department affords every student the opportunity to participate 
 
 Team of CJC Biology students participated in the Lee Kong Chian School of Medicine Anatomy Challenge 2023. Organised by the Lee Kong Chian School of Medicine (LKCMedicine), a partnership between Nanyang Technological University, Singapore and Imperial College London, the annual LKCMedicine Anatomy Challenge is an anatomy-themed quiz.&nbsp;&nbsp;
 
-Open to&nbsp;junior college students (Year 1 and 2), polytechnic students (all Grades), and international high school students (Grade 11-12 or equivalent), this anatomy competition puts students’ knowledge of the human body to the test through an individual quiz and inter-school team round.
+Open to&nbsp;junior college students (Year 1 and 2), polytechnic students (all Grades), and international high school students (Grade 11-12 or equivalent), this anatomy competition puts students’ knowledge of the human body to the test through an individual quiz and inter-school team round.<br><br>
 ![Medicine Anatomy Challenge](/images/Science/Medicine_Anatomy_Challenge.jpeg)
 
 #### **NUS STEP Brain Camp**
