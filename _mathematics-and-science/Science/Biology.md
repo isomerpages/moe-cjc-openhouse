@@ -17,7 +17,7 @@ Click the following links for an overview of the Biology syllabi as well as the 
 <br>
 [H2 Biology syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9744_y22_sy.pdf)  
 <style>
-.img {  border-radius: 8px; }
+.img {  border-radius: 15px; }
 </style>
 #### **Prerequisites/Suitability**
 
