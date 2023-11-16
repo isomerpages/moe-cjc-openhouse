@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Science
 variant: markdown
 ---
-***video to be embedded here***
-
 #### **About the Programme**
 
 The value of learning H2 Biology ultimately hinges on the development of a scientific mind and dispositions while addressing the broader questions of what life is and how life is sustained. The Science Curriculum Framework developed by the Ministry of Education elaborates on the development of the scientific mind and dispositions. Through the study of the H2 Biology course, students should be prepared for life science-related courses at university and, consequently, careers that are related to this field.
@@ -21,7 +19,6 @@ Click the following links for an overview of the Biology syllabi as well as the 
 <style>
 img {  border-radius: 8px; }
 </style>
-
 #### **Prerequisites/Suitability**
 
 The Biology syllabus is developed as a seamless continuum from O-levels to A-levels, without the need for topics to be revisited at A-level. The O-level syllabus is foundational and thus should provide the necessary background for study at A-level. Students who intend to offer H2 Biology will therefore be assumed to have the knowledge and understanding of O-level Biology.
@@ -39,12 +36,21 @@ Open to&nbsp;junior college students (Year 1 and 2), polytechnic students (all G
 ![Medicine Anatomy Challenge](/images/Anatomy_challenge_2.jpeg)
 ![Medicine Anatomy Challenge](/images/Anatomy_challenge_4.jpeg)
 
+#### **NUS STEP Brain Camp**
+Temasek Foundation NUS STEP Brain camp brings together students from Asian countries to discuss and share ideas on the latest innovation on AI and research on Brain sciences.&nbsp;
+
+After our 4 CJC representatives selected, they had to take up the daunting task of writing an academic research paper on a given aspect on Neuroscience within a very short duration, and they had to collaborate to pull it together.&nbsp;
+
+While attending the lectures, our CJC students also had to simultaneously prepare a joint presentation with the other members. on the particular areas of research and they had submitted in May 2022.&nbsp; The presentations went well, and Chin Syn Yi Cheri did us proud by winning the 3rd&nbsp;placing for Team presentations.&nbsp;
+
+Cheri and her team researched and worked on the topic of Machine Learning, incorporating artificial intelligence and programming and shared their ideas with the international students’ community.
+
 #### **H3 Biology**
 
-H3 Biology is only offered to JC2 students. The H3 Biology syllabus is designed around specific areas of specialization. Students offered H3 Biology will take the external H3 Biology course at the Nanyang Technological University.
+H3 Biology is only offered to JC2 students. The H3 Biology syllabus is designed around specific areas of specialization. Students offered H3 Biology will take the external H3 Biology course where available&nbsp;and offered by the Universities.
 
-Students intending to offer H3 Biology should simultaneously offer H2 Biology and possess a strong passion in the area of specialisation. In addition, the other selection criteria include: consistently good academic performance, good learning attitude and behaviour, and teachers' recommendations.
+Students intending to offer H3 Biology should simultaneously offer H2 Biology and possess a strong passion in the area of specialisation. In addition, the other selection criteria include: consistently good academic performance, good learning attitude and behaviour, and teachers’ recommendations.
 
-#### **Contact**
+#### **Other Contact Details**
 
 **Head of Department:** [Mr Eugene Yeow](mailto:yeow_eugene_pancratius@moe.edu.sg)
