@@ -3,6 +3,7 @@ title: Biology
 permalink: /eopenhouse/academic-information/department-information/mathematics-n-science/science/biology/
 description: ""
 third_nav_title: Science
+variant: markdown
 ---
 ***video to be embedded here***
 
@@ -13,46 +14,30 @@ The value of learning H2 Biology ultimately hinges on the development of a scien
 #### **A Level Syllabus**
 
 Click the following links for an overview of the Biology syllabi as well as the assessment formats:
-
-  
-
-H1 Biology: <br>
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8876\_y22\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8876_y22_sy.pdf)
-
-  
-
-H2 Biology: <br>
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9744\_y22\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9744_y22_sy.pdf)  
-
-  
+<br>
+[H1 Biology syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8876_y22_sy.pdf)
+<br>
+[H2 Biology syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9744_y22_sy.pdf)  
+<style>
+img {  border-radius: 8px; }
+</style>
 
 #### **Prerequisites/Suitability**
 
 The Biology syllabus is developed as a seamless continuum from O-levels to A-levels, without the need for topics to be revisited at A-level. The O-level syllabus is foundational and thus should provide the necessary background for study at A-level. Students who intend to offer H2 Biology will therefore be assumed to have the knowledge and understanding of O-level Biology.
 
-  
-
-#### **Student Testimonials**
-
-***video to be embedded here***
-
 #### **Enrichment Opportunities**
 
 The CJC Biology Department affords every student the opportunity to participate in external enrichment activities and competitions yearly. These competitions expose students to the wider, more practical applications of Biology and in some instances even give them a chance to interact with professionals in the research industry. CJC students that represent the school in these competitions are given ample resources and rigorous training in preparation. Competitions we participate in regularly include the Singapore Biology Olympiad, the International Biomedical Quiz, the Lee Kong Chian Anatomy Challenge, and the STEP NUS Brain &amp; Environment Camps. We also conduct a yearly learning journey to the Lee Kong Chian Natural History Museum with our JC2 cohort to learn how fossils aid us in the understanding of evolution.
 
-<img style="width:100%" src="/images/cjcs%20team%20at%20the%202019%20anatomy%20challenge%20by%20the%20lee%20kong%20chian%20school%20of%20medicine.jpg">
+#### **2023 Lee Kong Chian School of Medicine Anatomy Challenge**
 
-**CJC's team at the 2019 Anatomy Challenge by the Lee Kong Chian School of Medicine**
+Team of CJC Biology students participated in the Lee Kong Chian School of Medicine Anatomy Challenge 2023. Organised by the Lee Kong Chian School of Medicine (LKCMedicine), a partnership between Nanyang Technological University, Singapore and Imperial College London, the annual LKCMedicine Anatomy Challenge is an anatomy-themed quiz.&nbsp;&nbsp;
 
-<img style="width:100%" src="/images/cjcs%20team%20at%20the%202019%20international%20biomedical%20quiz.jpg">
+Open to&nbsp;junior college students (Year 1 and 2), polytechnic students (all Grades), and international high school students (Grade 11-12 or equivalent), this anatomy competition puts students’ knowledge of the human body to the test through an individual quiz and inter-school team round.
 
-**CJC's team at the 2019 International Biomedical Quiz**
-
-<img style="width:100%" src="/images/jc2s%20visit%20the%20lee%20kong%20chian%20natural%20history%20museum%20in%202019.jpg">
-
-**JC2s visit the Lee Kong Chian Natural History Museum in 2019**
-
-One other key STEM initiative in 2021 was a workshop providing an introduction to vaccines. Mr Cipto Hu from the CJC Biology Department engaged participants on hot button issues such as the development of new vaccines and the importance of STEM in vaccine development. The workshop was conducted using a variety of tools, including online videos, white boarding, and computer animation. Many questions concerning the development of Covid-19 vaccines were posed at the end of the workshop and students enjoyed the discussions.
+![Medicine Anatomy Challenge](/images/Anatomy_challenge_2.jpeg)
+![Medicine Anatomy Challenge](/images/Anatomy_challenge_4.jpeg)
 
 #### **H3 Biology**
 
