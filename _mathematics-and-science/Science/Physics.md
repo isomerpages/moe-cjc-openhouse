@@ -3,22 +3,15 @@ title: Physics
 permalink: /eopenhouse/academic-information/department-information/mathematics-n-science/science/physics/
 description: ""
 third_nav_title: Science
+variant: markdown
 ---
-***video to be embedded here***
-
 #### **A Level Syllabus**
 
 Click the following links for an overview of the Physics syllabi as well as the assessment formats:
-
-  
-
-H1 Physics: <br>
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8867\_y22\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8867_y22_sy.pdf)
-
-  
-
-H2 Physics: <br>
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9749\_y22\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9749_y22_sy.pdf)
+<br>
+[H1 Physics syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8867_y22_sy.pdf)
+<br>
+[H2 Physics syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9749_y22_sy.pdf)
 
 #### **Microlessons**
 
@@ -38,6 +31,5 @@ H3 Physics will be offered only to JC2 students. The H3 Physics syllabus is desi
 Students intending to offer H3 Physics should simultaneously offer H2 Physics and possess a strong passion in the area of specialisation. In addition, other factors for consideration include: consistently good academic performance, good learning attitude and behaviour, and teachers' recommendations.
 
 #### **Contact**
-
 **Head of Department**:&nbsp;[Mr Eugene Yeow](mailto:yeow_eugene_pancratius@moe.edu.sg) <br>
 **Lead Teacher**:&nbsp;[Ms Tay Su Lynn](mailto:tay_su_lynn@moe.edu.sg)
