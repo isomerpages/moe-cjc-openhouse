@@ -1,0 +1,10 @@
+collections:
+  mathematics-and-science:
+    output: true
+    order:
+      - Mathematics.md
+      - Science/.keep
+      - Science/Science.md
+      - Science/Biology.md
+      - Science/Chemistry.md
+      - Science/Physics.md

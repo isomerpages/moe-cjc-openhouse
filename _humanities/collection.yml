@@ -1,0 +1,9 @@
+collections:
+  humanities:
+    output: true
+    order:
+      - Economics.md
+      - Geography.md
+      - History.md
+      - Literature in English.md
+      - English Language and Linguistics.md

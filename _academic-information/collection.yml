@@ -1,0 +1,15 @@
+collections:
+  academic-information:
+    output: true
+    order:
+      - Subject Combinations.md
+      - Signature Programmes/Ignite Programme.md
+      - Signature Programmes/English Language and Linguistics.md
+      - Signature Programmes/.keep
+      - Department Information/Humanities.md
+      - Department Information/Knowledge Skills.md
+      - Department Information/Mathematics & Science.md
+      - Department Information/Mother Tongue Languages (MTL).md
+      - Department Information/Physical Education.md
+      - Department Information/.keep
+      - Scholarships.md

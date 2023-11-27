@@ -1,0 +1,37 @@
+collections:
+  ccas:
+    output: true
+    order:
+      - Virtual and Performing Arts/Choir.md
+      - Virtual and Performing Arts/Concert Band.md
+      - Virtual and Performing Arts/Dance Club.md
+      - Virtual and Performing Arts/Drama Society.md
+      - Virtual and Performing Arts/Guitar Ensemble.md
+      - Virtual and Performing Arts/Guzheng Ensemble.md
+      - Virtual and Performing Arts/.keep
+      - Clubs and Societies/Editorial Club.md
+      - Clubs and Societies/STEM Club.md
+      - Clubs and Societies/Film, Sound & Video Society.md
+      - Clubs and Societies/First Aid Club.md
+      - Clubs and Societies/Genesis.md
+      - Clubs and Societies/Interact Club.md
+      - Clubs and Societies/Nexus Society.md
+      - Clubs and Societies/Oratorical Society.md
+      - Clubs and Societies/Strategy Games Club.md
+      - Clubs and Societies/Student Council.md
+      - Clubs and Societies/.keep
+      - Physical Sports/Badminton.md
+      - Physical Sports/Basketball (Boys).md
+      - Physical Sports/Bowling.md
+      - Physical Sports/Canoeing.md
+      - Physical Sports/Cross Country.md
+      - Physical Sports/Fencing.md
+      - Physical Sports/Floorball.md
+      - Physical Sports/Football.md
+      - Physical Sports/Netball.md
+      - Physical Sports/Swimming.md
+      - Physical Sports/Tennis.md
+      - Physical Sports/Track and Field.md
+      - Physical Sports/Ultimate Frisbee.md
+      - Physical Sports/Volleyball.md
+      - Physical Sports/.keep

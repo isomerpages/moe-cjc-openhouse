@@ -1,32 +1,62 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Catholic Junior College Open House
+description: Catholic Junior College Open House
+image: /images/cjclogo-btm.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/cjcopenhouse.gif
+      button: Tour Our Campus
+      url: /eopenhouse/about-us/tour-our-campus
+      key_highlights:
+        - title: Principal's Address
+          description: ""
+          url: /eopenhouse/principals-address/
+        - title: Vice Principal's Address
+          description: ""
+          url: /eopenhouse/vice-principals-address/
+        - title: Year Head's Address
+          description: ""
+          url: /eopenhouse/year-heads-address/
+  - infopic:
+      title: Academic Programmes
+      subtitle: Our Progammes
+      button: CLick here to read more
+      url: /eopenhouse/academic-information/department-information/humanities
+      image: /images/academic programmes.jpg
+      alt: Academic Programmes
+  - infopic:
+      title: Student Development
+      subtitle: Our Programmes
+      button: Click here to read more
+      url: /eopenhouse/student-development/character-and-citizenship-education
+      image: /images/student development.jpg
+      alt: Student Development
+  - infopic:
+      title: Our Catholic Identity
+      subtitle: Our Programmes
+      button: Click here to read more
+      url: /eopenhouse/about-us/our-catholic-identity
+      image: /images/our catholic identity.jpg
+      alt: Our Catholic Identity
+  - infopic:
+      title: Scholarships
+      subtitle: Our Programmes
+      button: Click here to read more
+      url: /eopenhouse/academic-information/scholarships
+      image: /images/scholarships.jpg
+      alt: Scholarships
+  - infopic:
+      title: Ignite Programme
+      subtitle: Our Programmes
+      button: Click here to read more
+      url: /eopenhouse/academic-information/signature-programmes/ignite-programme
+      image: /images/ignite programme.jpg
+      alt: Ignite Programme
+  - infobar:
+      title: Our CJC Story
+      button: Click here to watch
+      url: /eopenhouse/our-cjc-story/
 ---
-

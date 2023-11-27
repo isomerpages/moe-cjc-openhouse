@@ -1,0 +1,6 @@
+collections:
+  knowledge-skills:
+    output: true
+    order:
+      - General Paper.md
+      - Project Work.md
