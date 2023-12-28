@@ -114,7 +114,7 @@ The competition is open to JC2 students who are shortlisted based on their JC1 p
 
 <center>2023 JC2 team which won a distinction award
 	
-![2023 JC2 team which won a distinction award](/images/Math___2023_International_Math_Modeling_Challenge.jpg)</center>
+![](/images/Mathematics/Math___2023_International_Math_Modeling_Challenge.jpg)</center>
 
 2. **Statistical Poster Competition**<br>
 This is a team-based competition open to students in their second year. Organized by the National University of Singapore Department of Statistics and Applied Probability, the annual competition encourages students to explore creative data displays. <br><br>
@@ -122,7 +122,7 @@ This is a team-based competition open to students in their second year. Organize
 
 <center>Past winners of the Statistics Poster Competition
 
-![Past winners of the Statistics Poster Competition](/images/Math___2023_Winners_Statistics_Poster_Competition.jpg)</center>
+![Past winners of the Statistics Poster Competition](/images/Mathematics/Math___2023_Winners_Statistics_Poster_Competition.jpg)</center>
 
 3. **Design using Graphing Calculator Competition**<br>
 The competition is open to all students studying in a Junior College / Centralised Institute or a Secondary School in Singapore or the equivalent in Malaysia. <br><br>
@@ -130,14 +130,14 @@ The competition is open to all students studying in a Junior College / Centralis
 
 <center>Past year entries by CJCians
 
-![Past year entries by CJCians](/images/Math___2023_Graphing_Calculator_Competition.jpg)</center>
+![Past year entries by CJCians](/images/Mathematics/Math___2023_Graphing_Calculator_Competition.jpg)</center>
 
 4. **Singapore Mathematical Olympiads (SMO) and Australian Maths competition (AMC)**<br>
 This is open to all students who are keen to challenge themselves in solving non-routine problems. For SMO, the college engages an external trainer to prepare for the competition. CJC has consistently been achieving the Commendation Award. AMC is open only to JC1 students.
 
 <center>Past winners of Maths competitions
 
-![Past winners of Maths competitions](/images/Math___2023_SMO_AMC_competition.jpg)</center>
+![Past winners of Maths competitions](/images/Mathematics/Math___2023_SMO_AMC_competition.jpg)</center>
 
 
 #### Student Testimonials
