@@ -2,6 +2,7 @@
 title: Potential Development
 permalink: /eopenhouse/student-development/potential-development/
 description: ""
+variant: markdown
 ---
 Catholic Junior College offers a structured Potential Development Programme as part of CCE. With the belief that every CJCian has the capacity to learn, to excel, and to leverage on their unique talents to achieve their goals, the Potential Development Programme seeks to guide students in making informed education and career choices, where they can make a positive impact on the wider community as Thinkers with a Mission, Leaders with a Heart.
 
@@ -13,7 +14,7 @@ The Education and Career Guidance Team provides our students with the required s
 
 #### **The ECG Journey at CJC**
 
-At JC1, students undergo the Clifton Strengthsfinder Workshop, where they are guided to reflect on their unique talent themes. At the class level, Home Tutors facilitate ECG conversations to raise awareness of students’ preferred education and career pathways, and to explore the various academic and co-curricular opportunities that prepare them for their future choices.  
+At JC1, students undergo the Clifton Strengthsfinder Workshop, where they are guided to reflect on their unique talent themes. At the class level, Home Tutors facilitate ECG conversations to raise awareness of students’ preferred education and career pathways, and to explore the various academic and co-curricular opportunities that prepare them for their future choices. Students will also get the opportunity to listen to the insights of various industry professionals sharing their work experiences and career journeys. 
 
   
 
@@ -21,7 +22,7 @@ At the end of JC1, students may choose to sign up for the Work Attachment and Sh
 
   
 
-In JC2, a key feature of the Education and Career Guidance programme is the annual Careers and Higher Education Fest, which sees more than 40 industry professionals and admission counsellors from local and overseas universities sharing their expertise and experience. At the class level, students are guided in specific skills and competencies relevant to education and career guidance, such as in personal statement writing and interview performance.
+In JC2, the focus of the Education and Career Guidance programme shifts towards Higher Education Pathways. Students will be invited to sign up for Learning Journeys to the Local Autonomous Universities, and engage representatives from Institutes of Higher Learning through ECG activities. At the class level, students are guided in specific skills and competencies relevant to education and career guidance, such as in personal statement writing and interview performance.
 
   
 
