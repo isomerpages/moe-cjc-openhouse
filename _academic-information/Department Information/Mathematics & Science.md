@@ -94,85 +94,80 @@ More information of the programme can be found via this link: [https://padlet.co
 
 #### **5\. STEM Competitions and Achievements**
 
-Students are encouraged to participate in various competitions to display their talents and skills in different STEM disciplines. This includes Cyberthon, Space Coding Boot Camp, Business Analytics Case competition and many more.
+Students are encouraged to participate in various competitions to display their talents and skills in different STEM disciplines. This includes Cyberthon, International Space Challenge, Robotics competition amongst others.
 
-**(i)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Computing@SMU Award**
+**(i)** **Computing@SMU Award**
+<br>The award is given to JC2 students who have outstanding academic&nbsp;achievement, show an interest in computing and excellent co-curricular&nbsp;achievement or leadership. The 2023 award goes to Javier Lim of 2T11.
 
-The award is given to JC2 students who have outstanding academic&nbsp;achievement, show an interest in computing and excellent co-curricular&nbsp;achievement or leadership. The 2021 award goes to Nicholas Wee Kiat Ming&nbsp;of 2T15.
+<img style="width:70%" src="/images/Science/2023_Computing_SMU_Award.jpg">
 
-<img style="width:90%" src="/images/cjc%20stem%20picture%2019.png">
+**(ii)** **Robotics Competitions**<br>
+<img style="width:49%; display:inline;" src="/images/Science/Robocup_2023.jpg"><img style="width:49%;display:inline;" src="/images/Science/RoboClash_2022.jpg">
 
-**(ii)** **International Sci-Teens Challenge**
- 
- International Sci-Teens Challenge 2021 was organised by ACJC. To participate in this competition, students had to develop videos that explain a phenomenon in the disciplines of Biology, Chemistry, Physics, Mathematics or Computing. CJC sent two teams for the senior category of the competition and one team’s video on Enzymes clinched the&nbsp;Bronze Award.
+**(iii)** **International Sci-Teens Challenge**
+ <br>International Sci-Teens Challenge 2021 was organised by ACJC. To participate in this competition, students had to develop videos that explain a phenomenon in the disciplines of Biology, Chemistry, Physics, Mathematics or Computing. CJC sent two teams for the senior category of the competition and one team’s video on Enzymes clinched the&nbsp;Bronze Award.
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img style="width:70%;" alt="Participants pictured with their teacher mentor, Mr Chua Chee Siang from the Biology Department" src="/images/cjc%20stem%20picture%2020.jpg">  
+<center><img style="width:70%;" alt="Participants pictured with their teacher mentor, Mr Chua Chee Siang from the Biology Department" src="/images/cjc%20stem%20picture%2020.jpg">
+	<div style="line-height:1.5;">Participants pictured with their teacher mentor, Mr Chua Chee Siang from the Biology Department
+</div></center>
   
 
 
-**(iii)** **SUTD Virtual Research Hackathon**
-
-&nbsp;In this two-day online virtual research hackathon, students were introduced to&nbsp;&nbsp;&nbsp; &nbsp;the Monte Carlo Simulation to model the probability of different outcomes in a&nbsp;&nbsp;&nbsp; &nbsp;process that cannot easily be predicted due to the intervention of random variables. They had to utilize the simulation to model traffic and work in groups&nbsp;&nbsp;&nbsp; &nbsp;to propose and test different solutions to improve traffic conditions.
+**(iv)** **SUTD Virtual Research Hackathon**<br>
+In this two-day online virtual research hackathon, students were introduced to&nbsp;the Monte Carlo Simulation to model the probability of different outcomes in a&nbsp;process that cannot easily be predicted due to the intervention of random variables. They had to utilize the simulation to model traffic and work in groups&nbsp;to propose and test different solutions to improve traffic conditions.
 
 Rayan Wong of 2T08 took part in this event in 2021 and his group, which consisted of students from other schools, emerged as the champion.
 
 <img style="width:90%" src="/images/cjc%20stem%20picture%2021.jpg">
 
-**(iv)** **Singapore International Science Challenge**
+**(v)** **Cyberthon**<br>
+CJC has been sending students who have strong interest in the field of cybersecurity to relevant competitions. This competition organized by MINDEF has been gaining interest amongst students and we have been steadily improving in our ranking over the years.**
+![](/images/Science/Cyberthon_203.jpg)
 
+**(vi)** **Singapore International Science Challenge**<br>
 The Singapore International Science Challenge (SISC) is a biennial international event that brings together students of ages 15 to 18 from around the world to compete, collaborate and innovate in the Sciences. The multi-disciplinary foci and integrated nature of the challenges provide an authentic backdrop for students to apply scientific and technical knowledge to solving problems and&nbsp;innovate impactful solutions. In previous SISC events, students across the globe came together for five days to stay onsite at NJC to communicate their research, collaborate in multi-national teams, and to innovate well-designed solutions to science challenges.
 
 In 2021, SISC became an online event and brought together students from around the world to collaborate and learn both asynchronously and synchronously. The theme for SISC 2021 is Altruistic Thinkers, Global Citizens (ATGC). CJC sent a team of 3 JC2 students for the challenge and one of our students, PL Raamanathan, clinched the Thinker Award in the Field Challenge while another student, Lokav Srikanth, clinched the Creative Award in the Design and Build Challenge.
 
 <img style="width:100%" src="/images/cjc%20stem%20picture%2022.png">
 
-**(v)**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Singapore Space Challenge**
-
+**(vii)** **Singapore International Space Challenge**<br>
 Organized by Singapore Space and Technology Ltd, the International Space Challenge (ISC) is open to youths around the world. Since 2020, we have CJC students with a keen interest in space technology representing the college in this competition. Our students receive mentoring from CJC alumni who are involved in the space industry. By taking part in this challenge, our students also receive global exposure by attending various seminars and workshops helmed by experts from around the world.
+![](/images/Science/Singapore_International_Space_Challenge_2023.jpg)
 
-The focus for 2021 is on SPACE WEATHER, a phenomenon that continues to baffle space scientists. Participants of the starter category (13 to 18 years old) are asked to design a space weather experiment to be conducted on board the International Space Station.
+**(viii)** **National Youth Advocacy Movement (NYUM)**
 
-**(vi)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**National Youth Advocacy Movement (NYUM)**
-
-NYUM is organized by Crescent Girls’ School, with the support of the Ministry of Education and S2 Cluster Schools. The movement is aligned with the national drive towards environmental education and focuses on preparing students to be responsible global citizens.&nbsp;
+NYUM is organized by Crescent Girls’ School, with the support of the Ministry of Education and S2 Cluster Schools. The movement is aligned with the national drive towards environmental education and focuses on preparing students to be responsible global citizens.
 
 NYUM aims to educate youths on the threats facing the natural environment and inspire youths to take action in promoting a culture of sustainability through upcycling and green consumerism.
 
-**<u>Advocacy Module</u>**&nbsp; <br>
+**Advocacy Module** <br>
 Two teams of three members represented CJC in NYUM Advocacy 2021.
 
 The theme for this year’s NYUM is ‘Food Packaging: Don’t Throw It, Upcycle It’. Through its ‘By Youths, For All’ approach, NYUM empowers each team to design and create upcycled household items using waste materials, with guidance from experts and consultants in the industry.
 
-From May to September this year, each team had to go through&nbsp;three&nbsp;phases, namely,&nbsp;‘Learn, Create and Advocate’,&nbsp;which culminated in a final written report to be submitted for judging by industry experts.&nbsp;
+From May to September this year, each team had to go through three phases, namely, ‘Learn, Create and Advocate’,&nbsp;which culminated in a final written report to be submitted for judging by industry experts.
 
 Team Traffic Light was awarded the Silver Award. The team conducted a webinar to raise awareness of upcycling on 5 September. They created a video to demonstrate how they made use of existing food packaging to make a personalized notebook.
 
 Access the video here:
-
-[www.instagram.com/tv/CTjagVinlgF/?utm\_medium=copy\_link](https://drive.google.com/file/d/1AH3eMTeqc2xO-MUwoQCrRd51vI9S4k7u/view?usp=sharing)
+<br>[www.instagram.com/tv/CTjagVinlgF/?utm\_medium=copy\_link](https://drive.google.com/file/d/1AH3eMTeqc2xO-MUwoQCrRd51vI9S4k7u/view?usp=sharing)
 
 <img style="width:100%" src="/images/cjc%20stem%20picture%2023.png">
 
-**<u>Enrichment Module</u>**&nbsp;
-
+**Enrichment Module**<br>
 21 members of the STEM\-based CCA Environmental Science Society also participated in the NYUM Enrichment module where they created an upcycled product using the Design Thinking Framework and reflected on the process.
 
 Their reflections can be found at&nbsp;[https://padlet.com/drwylim/cjcess\_nyum](https://padlet.com/drwylim/cjcess_nyum).
 
 <img style="width:100%" src="/images/cjc%20stem%20picture%2024.jpg">
 	
-**(vii)**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**STEP Environment Camp**
+**(ix)** **STEP Environment Camp (Renamed as NUS Youth Environment Camp)**<br>
+Selected JC1 students have been taking part in the STEP Environment Camp for youths from Singapore and Asia. Built around the overarching theme of Climate Change and Sustainability, the thematic-based programme nurtures young budding scientists in Asia, with an emphasis on environmental stewardship.&nbsp;
 
-Five JC1 students were selected to take part in the STEP Environment Camp 2021 which is a five-day virtual programme for youths from Singapore and Asia. Built around the overarching theme of Climate Change and Sustainability, the programme nurtures young budding scientists in Asia, with an emphasis on environmental stewardship. This year, the theme for the camp is Biodiversity Conservation.
+Participants have the opportunity to network with youth leaders across Asia through a series of immersive, experiential, and cooperative learning exercises.
 
-The programme helps to build a network of youth leaders across Asia through a series of immersive, experiential, and cooperative learning exercises.
+![](/images/Science/STEP_Environment_Camp.jpg)
 
 <img style="width:100%" src="/images/cjc%20stem%20picture%2025.png"><br><br>
 
