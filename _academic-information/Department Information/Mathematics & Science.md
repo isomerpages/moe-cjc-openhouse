@@ -3,6 +3,7 @@ title: Mathematics & Science
 permalink: /eopenhouse/academic-information/department-information/mathematics-n-science/
 description: ""
 third_nav_title: Department Information
+variant: markdown
 ---
 ![CJC STEM](/images/cjc%20stem%20picture%2021.jpg)
 
@@ -13,12 +14,18 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:100%;" src="/images/cjc%20stem%20top%20picture%201.jpg"><img style="width:100%;" src="/images/cjc%20stem%20top%20picture%202.jpg">
+
 
 #### **STEM Education Programme**
 
-In line with MOE’s strategic thrusts and college focus in providing differentiated support for students’ diverse interest and learning opportunities beyond the classroom, the college STEM Steering committee was set up to drive the STEM education programmes. In 2022, Dr Timothy Hu Xiao Ming&nbsp;–&nbsp;a data scientist from A\*STAR&nbsp;–&nbsp;will support the college in STEM education initiatives.&nbsp;
+In line with MOE’s strategic thrusts and college focus in providing differentiated support for students’ diverse interest and learning opportunities beyond the classroom, the college STEM Steering committee was set up to drive the STEM education programmes. Since 2022, we are fortunate to have Dr Timothy Hu Xiao Ming&nbsp;–&nbsp;an Artificial Intelligence expert from A\*STAR&nbsp;–&nbsp;to be supporting the college in STEM education initiatives.
+![2024 STEM framework](/images/Science/2024_STEM_framework.jpg)
 
+![STEM Education overview 1](/images/cjc%20stem%20top%20picture%201.jpg)
+
+![STEM education overview 2](/images/cjc%20stem%20top%20picture%202.jpg)
+
+##### 1\. Enginlarshopsering Technology Programme Schoo
 #### **1\. STEM Fest**
 
 <img style="width:100%" src="/images/cjc%20stem%20picture%203.png">
