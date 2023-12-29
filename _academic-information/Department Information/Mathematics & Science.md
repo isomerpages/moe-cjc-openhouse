@@ -25,12 +25,25 @@ In line with MOE’s strategic thrusts and college focus in providing differenti
 
 ![STEM education overview 2](/images/cjc%20stem%20top%20picture%202.jpg)
 
-##### 1\. Enginlarshopsering Technology Programme Schoo
-#### **1\. STEM Fest**
+#### **1\. Engineering Technology Programme Scholarships**
+
+This committee oversees the selection, nomination and development of the STEM related scholarship applicants. There are 7 recipients of the award in 2023.
+
+![2023 ETPS Investiture](/images/Science/2023_STEM_ETPS.jpg)
+
+#### **2\. STEM Fest**
 
 <img style="width:100%" src="/images/cjc%20stem%20picture%203.png">
 
+
 STEM Fest is an annual collaboration between the Mathematics and the Science Departments to help all students recognize the importance of STEM (Science, Technology, Engineering &amp; Mathematics) and appreciate its use in addressing real-world problems. The week-long event serves as an important platform to provide learning experiences for science students to acquire and apply their knowledge and skills from H2 subjects on STEM. It also allows Mathematics and Science student leaders to hone their organisation and leadership skills.
+
+![A group of people standing in front of a white box
+Description automatically generated with low confidence](https://lh7-us.googleusercontent.com/NqSziv-Pjvis8ihWreBDFWBGd6tPyYtv2BqLCD5iRGWlr64rOlPPFjNDY66B6AjyHxqtdvg3U1YWmUbR41QeQhjApl4_HymnZ3QllyLF2RUjpfcgmJKEhAPLXhpLWtFNZY7G4RKYqrrTlkFkdLzMTsxaY4IOKRSU)
+
+![Our Principal, Mrs Lim, launching STEM Fest during pre Covid-19 years](https://lh7-us.googleusercontent.com/Q5HS2GujSrFhHL4ZVHAUlHhKk49VxZsWpGfBTFBD-Zz7iW2_BQdMeoTz4WwNLliD-7ECLZLZlTWe_2VVSKmYswmno5QfI4LkJbFom-f5dfn7mhecFOzhzhC8Ktmo8g_8iZZtxgDWWk0_tIXZMQW04-L3a5w5KTvu)
+
+**
 
 <style>  
 img {  
