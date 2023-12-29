@@ -5,13 +5,14 @@ description: ""
 third_nav_title: Department Information
 variant: markdown
 ---
-![CJC STEM](/images/cjc%20stem%20picture%2021.jpg)
+[CJC STEM](/images/cjc%20stem%20picture%2021.jpg)
 
 <style>  
 img {  
   display: block;  
   margin-left: auto;  
   margin-right: auto;  
+	border-radius: 15px;
 }  
 </style>  
 
@@ -38,101 +39,60 @@ This committee oversees the selection, nomination and development of the STEM re
 
 STEM Fest is an annual collaboration between the Mathematics and the Science Departments to help all students recognize the importance of STEM (Science, Technology, Engineering &amp; Mathematics) and appreciate its use in addressing real-world problems. The week-long event serves as an important platform to provide learning experiences for science students to acquire and apply their knowledge and skills from H2 subjects on STEM. It also allows Mathematics and Science student leaders to hone their organisation and leadership skills.
 
-![A group of people standing in front of a white box
-Description automatically generated with low confidence](https://lh7-us.googleusercontent.com/NqSziv-Pjvis8ihWreBDFWBGd6tPyYtv2BqLCD5iRGWlr64rOlPPFjNDY66B6AjyHxqtdvg3U1YWmUbR41QeQhjApl4_HymnZ3QllyLF2RUjpfcgmJKEhAPLXhpLWtFNZY7G4RKYqrrTlkFkdLzMTsxaY4IOKRSU)
-
-![Our Principal, Mrs Lim, launching STEM Fest during pre Covid-19 years](https://lh7-us.googleusercontent.com/Q5HS2GujSrFhHL4ZVHAUlHhKk49VxZsWpGfBTFBD-Zz7iW2_BQdMeoTz4WwNLliD-7ECLZLZlTWe_2VVSKmYswmno5QfI4LkJbFom-f5dfn7mhecFOzhzhC8Ktmo8g_8iZZtxgDWWk0_tIXZMQW04-L3a5w5KTvu)
-
-**
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img style="width:70%;" alt="Our Principal, Mrs Lim, launching STEM Fest during pre Covid-19 years" src="/images/principal%20mrs%20lim%20launching%20stem%20fest%202019.jpg">  
+<center>Our Principal, Mrs Lim, launching STEM Fest during pre Covid-19 years<br>
+<img src="/images/Science/STEM_Fest_2023.jpg">
+</center>
   
-  
-<p style="text-align:center;"><strong>Our Principal, Mrs Lim, launching STEM Fest during pre Covid-19 years</strong></p> 
-
 From STEMazing Race and Escape Room to Pi Day commemoration and interest-based workshops conducted by various STEM partners, several activities are held to cater to students’ different interest in Mathematics and Science.&nbsp; House points are also awarded to inject an element of fun and competition.
 
-<img style="width:100%" src="/images/cjc%20stem%20picture%207.png">
-<p style="text-align:center;"><strong>STEM Fest Publicity Boards 2018 and 2019 encouraging students' participation</strong></p>
+<center><img style="width:100%" src="/images/cjc%20stem%20picture%207.png">
+STEM Fest Publicity Boards 2018 and 2019 encouraging students' participation</center>
 
-<img style="width:100%" src="/images/cjc%20stem%20picture%208.png">
-<p style="text-align:center;"><strong>3D-printed student works on display at STEM Fest 2021 as post-workshop artefacts</strong></p><br>
+<center><img style="width:100%" src="/images/Science/2023_STEM_Fest_3D_prints.jpg">
+3D-printed student works on display at STEM Fest after attending workshops</center>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img style="width:60%;" alt="Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years" src="/images/cjc%20stem%20picture%209.png">  
-  
-  
-<p style="text-align:center;"><strong>Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years</strong></p> 
 
-<img style="width:100%" src="/images/students%20solve%20puzzles%20in%20escape%20room%20during%20pre%20covid-19%20years.JPG">
-<p style="text-align:center;"><strong>Students solve puzzles in Escape Room during pre Covid-19 years</strong></p>
+<center><img style="width:60%;" alt="Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years" src="/images/cjc%20stem%20picture%209.png">
+Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years</center> 
 
-<img style="width:100%" src="/images/python%20programming%20workshops%20in%20pre%20covid-19%20years.JPG">
-<p style="text-align:center;"><strong>Python Programming Workshops in pre Covid-19 years</strong></p>
+<center><img src="/images/Science/STEM_Fest_2023_Escape_Room.png"><img style="width:100%" src="/images/students%20solve%20puzzles%20in%20escape%20room%20during%20pre%20covid-19%20years.JPG">
+Students solve puzzles in Escape Room during pre Covid-19 years</center>
 
-<img style="width:100%" src="/images/cjc%20stem%20picture%2010.png">
-<p style="text-align:center;"><strong>
-External Trainers conducting STEM Workshops over Zoom on Space Technology and Biotechnology</strong></p>
+<center><img style="width:100%" src="/images/python%20programming%20workshops%20in%20pre%20covid-19%20years.JPG">
+Python Programming Workshops in pre Covid-19 years</center>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img style="width:70%;" alt="Pi Day Recitation Challenge during pre Covid-19 years" src="/images/pi%20day%20recitation%20challenge.jpg">  
-  
-  
-<p style="text-align:center;"><strong>Pi Day Recitation Challenge during pre Covid-19 years</strong></p> 
+<center><img style="width:70%;" src="/images/Science/STEM_Fest_2023_Pi_Day_Recitation.jpg">
+	Pi Day Recitation Challenge</center>
 
-<img style="width:100%" src="/images/cjc%20stem%20picture%2012.png">
-<p style="text-align:center;"><strong>Students taking part in Escape Room on board Labs on Wheels digital literacy programme by IMDA on Cybersecurity and Artificial Intelligence</strong></p>
+<center><img style="width:100%" src="/images/cjc%20stem%20picture%2012.png">
+<div style="line-height: 1.5;">Students taking part in Escape Room on board Labs on Wheels digital literacy programme by IMDA on Cybersecurity and Artificial Intelligence</div></center>
 
-<img style="width:100%" src="/images/cjc%20stem%20picture%2013.png">
-<p style="text-align:center;"><strong>Students engaging in problem solving during STEMazing Race</strong></p>
+<center><img style="width:100%" src="/images/cjc%20stem%20picture%2013.png">
+Students engaging in problem solving during STEMazing Race</center>
 
-#### **2\. CJC-Nara High School Global Exchange Programme**
+#### **3\. CJC-Nara High School Global Exchange Programme**
 
-This month-long stretch programme is an annual exchange programme with Nara High School which is a Super Science School from Japan. Based on the theme of the UN Sustainable Development Goals, students representing the two schools collaborated on a joint research and identified how STEM helps the two countries achieve these sustainable development goals. In the process, students also get to interact and learn about each other’s culture as well as the respective countries’ journey to enhance sustainability. This programme culminated in a joint virtual presentation on the final day where students shared their findings.
+This month-long stretch programme is an annual exchange programme with Nara High School which is a Super Science School from Japan. Based on the theme of the UN Sustainable Development Goals, students representing the two schools collaborated on a joint research and identified how STEM helps the two countries achieve these sustainable development goals. In the process, students also get to interact and learn about each other’s culture as well as the respective countries’ journey to enhance sustainability. This programme culminated in a joint presentation on the final day where students shared their findings.
 
-<img style="width:100%" src="/images/cjc%20stem%20picture%2014.png">
+![](/images/Science/Nara_High_School.jpg)
 
-#### **3\. STEM Local Leadership Stretch Programme**
+#### **4\. STEM Local Leadership Stretch Programme**
 
-The college organized the inaugural Local Leadership Programme known as CJC.STEM.SG to replace overseas academic trips for selected JC1 students. The 5-day programme with a hybrid format is based on the theme “A More Secure and Sustainable Singapore through STEM”.&nbsp;Conceptualised based on the Practices of Science,&nbsp;the programme&nbsp;provided a rich and rigorous learning experience ranging from keynote lecture by STEM experts in the fields of sustainability to workshops on topics such as Cryptography, Mathematical Modelling, Vaccine Development, and Arduino Masterclass by Spacecraft engineers. There are also virtual tours of the NTU Satellite Research Centre and local High Tech Farm and laboratory experiences investigating the science of alternate meat by local start-up&nbsp;firm&nbsp;Ants Innovate as well as&nbsp;Genetic Engineering by Amgen Science Centre Singapore.
+The college has been organizing a Local Leadership Programme known as CJC.STEM.SG to replace overseas academic trips for selected JC1 students since 2021. The 5-day programme is based on the theme “A More Secure and Sustainable Singapore through STEM”.&nbsp;Conceptualised based on the Practices of Science,&nbsp;the programme&nbsp;provided a rich and rigorous learning experience ranging from keynote lectures by STEM experts in the fields of sustainability to workshops on topics such as Cryptography, Mathematical Modelling, Vaccine Development, and Balloon Satellite course by Spacecraft engineers. There are also tours of the NTU Satellite Research Centre and local High Tech Farm and ASTAR laboratory experiences. The programme caters to both the Physics and Biology students.
 
-<img style="width:100%" src="/images/cjc%20stem%20picture%2015.jpg">
-<p style="text-align:center;"><strong>Keynote lecture by Dr Shawn Lum, Senior Lecturer of NTU Asian School of the Environment and President of Nature Society Singapore</strong></p>
+<center><img style="width:100%" src="/images/Science/STEM_2023_Learning_Journeys.jpg">
 
-<img style="width:100%" src="/images/cjc%20stem%20picture%2016.png">
-<p style="text-align:center;"><strong>Biological Sciences Lab experience by local start up firm Ants Innovate</strong></p>
+<div style="line-height:normal;">Learning Journeys to NTU Schools of Material Science and Engineering, Institute of Microelectronics and Alternate Meat startup company.</div></center>
 
-<img style="width:100%" src="/images/cjc%20stem%20picture%2017.png">
-<p style="text-align:center;"><strong>Physical Sciences experience by Spacecraft engineers</strong></p>
-
-Participants also had opportunities to do research, presented on five important challenges facing Singapore, and&nbsp;proposed&nbsp;innovative STEM-based solutions to a panel of judges which included an A\*star scientist.&nbsp;
+Participants also had opportunities to do research, presented on challenges facing Singapore, and&nbsp;proposed&nbsp;innovative STEM-based solutions to a panel of judges which included an A\*star scientist.&nbsp;
 
 Participants were also challenged to assume various leadership roles, including designing their own ZOOM virtual background as part of the programme.
 
-<img style="width:100%" src="/images/cjc%20stem%20picture%2018.png">
+![](/images/Science/STEM_2023_Zoom.jpg)
 
-More information of the programme can be found via this link:&nbsp;[https://padlet.com/drwylim/CJC\_STEM\_SG](https://padlet.com/drwylim/CJC_STEM_SG)
+More information of the programme can be found via this link: [https://padlet.com/drwylim/CJC\_STEM\_SG](https://padlet.com/drwylim/CJC_STEM_SG)
 
-#### **4\. STEM Competitions and Achievements**
+#### **5\. STEM Competitions and Achievements**
 
 Students are encouraged to participate in various competitions to display their talents and skills in different STEM disciplines. This includes Cyberthon, Space Coding Boot Camp, Business Analytics Case competition and many more.
 
@@ -155,8 +115,7 @@ img {
 </style>  
 <img style="width:70%;" alt="Participants pictured with their teacher mentor, Mr Chua Chee Siang from the Biology Department" src="/images/cjc%20stem%20picture%2020.jpg">  
   
-  
-<figcaption style="text-align:center;"><strong>Participants pictured with their teacher mentor, Mr Chua Chee Siang from the Biology Department</strong></figcaption> 
+
 
 **(iii)** **SUTD Virtual Research Hackathon**
 
