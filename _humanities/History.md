@@ -2,9 +2,8 @@
 title: History
 permalink: /eopenhouse/academic-information/department-information/humanities/history/
 description: ""
+variant: markdown
 ---
-***video to be embedded here***
-
 #### **About the Programme**
 
 History in CJ aims to develop their students into 21st Century Competent History Learners. Students will engage in sense making – making sense of the past in different contexts and periods and also making sense of and drawing connections to current and future global issues.&nbsp;
