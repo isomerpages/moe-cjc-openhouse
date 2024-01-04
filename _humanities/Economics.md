@@ -2,9 +2,8 @@
 title: Economics
 permalink: /eopenhouse/academic-information/department-information/humanities/economics/
 description: ""
+variant: markdown
 ---
-***video to be embedded here***
-
 #### **About the Programme**
 
 Through the learning and application of economic concepts, theories and principles, students develop the capacity to assess the role of economic agents, consumers, producers and the government, in the allocation of scarce resources, and deepen their awareness and understanding of real-world economic issues at the individual, national and international levels. This will help them to adopt multiple perspectives in understanding real-world economic issues. Students will learn to recognize how rational decisions are made, considering the trade-offs and consequences that arise from decision-making to arrive at well-reasoned decisions. Students will hence develop a set of knowledge, skills and values that encourages them to take an active interest in the domestic and global economy.

@@ -2,9 +2,8 @@
 title: Project Work
 permalink: /eopenhouse/academic-information/department-information/knowledge-skills/project-work/
 description: ""
+variant: markdown
 ---
-***video to be embedded here***
-
 #### **About the Programme**
 
 H1 Project Work (PW) is a subject that embodies MOE’s Framework for 21st Century Competencies and Student Outcomes. Competencies such as Critical and Inventive Thinking as well as Communication, Collaboration and Information Skills are taught through PW. The subject aims to provide students with the opportunity to synthesize knowledge from various disciplines and areas of learning, and critically and creatively apply it to authentic situations.

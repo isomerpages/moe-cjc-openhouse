@@ -2,9 +2,8 @@
 title: Geography
 permalink: /eopenhouse/academic-information/department-information/humanities/geography/
 description: ""
+variant: markdown
 ---
-***video to be embedded here***
-
 #### **About the Programme**
 
 Geography seeks to understand Earth’s landscapes, people, places and environments by asking the right questions.&nbsp;

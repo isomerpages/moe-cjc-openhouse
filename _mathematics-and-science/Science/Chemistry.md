@@ -3,9 +3,8 @@ title: Chemistry
 permalink: /eopenhouse/academic-information/department-information/mathematics-n-science/science/chemistry/
 description: ""
 third_nav_title: Science
+variant: markdown
 ---
-***video to be embedded here***
-
 #### **About the Programme**
 
 A-Level Chemistry covers a much wider range of topics compared to what is taught at O-Level, and involves a deeper exploration of the content.&nbsp;
