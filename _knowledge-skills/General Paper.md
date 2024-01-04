@@ -2,6 +2,7 @@
 title: General Paper
 permalink: /eopenhouse/academic-information/department-information/knowledge-skills/general-paper/
 description: ""
+variant: markdown
 ---
 ***video to be embedded here***
 
@@ -21,8 +22,7 @@ img {
 #### **A Level Syllabus**
 
 Click the following link for an overview of the General Paper syllabus as well as the assessment format:
-
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8807\_y22\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8807_y22_sy.pdf)
+[General Paper (Syllabus 8881) - First examination in 2024](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_sy.pdf)
 
   
 #### **Prerequisites/Suitability**
@@ -57,7 +57,7 @@ Each year, an average of four-five CJC students are accepted into the programme.
 
 **2\. World Philosophy Day Essay Writing Competition**  
 
-An annual philosophy essay writing competition organised in celebration of World Philosophy Day (18 November).  
+An annual philosophy essay writing competition organised in celebration of World Philosophy Day (21 November 2024).  
 
 The contemporary philosopher, Anthony Grayling, believes that philosophy should play a useful role in society and public policy (not just in academia). This essay writing competition challenges students to use critical thinking, logical reasoning and rational argumentation – characteristic methods of philosophical inquiry and analysis.&nbsp;  
 
@@ -88,6 +88,6 @@ Do you have a question that has not been addressed on this site? If so, feel fre
 
   
 
-**HOD / Ms Pauline Chua**:&nbsp;[chua\_sook\_lan\_pauline@moe.edu.sg](mailto:chua_sook_lan_pauline@moe.edu.sg) <br>
-**LH (JC1 2023)/ Ms Serene Thong**:&nbsp;[thong\_wan\_ling\_serene@moe.edu.sg](mailto:thong_wan_ling_serene@moe.edu.sg)  <br>
-**LH (JC2 2023)/ Ms Cara Chew-Lommen**:&nbsp;[chew\_heng\_suan\_cara@moe.edu.sg](mailto:chew_heng_suan_cara@moe.edu.sg)
+**HOD / Ms Pauline Chua** [chua\_sook\_lan\_pauline@moe.edu.sg](mailto:chua_sook_lan_pauline@moe.edu.sg) <br>
+**LH (JC1 2024)/ Ms Cara Chew-Lommen** [chew\_heng\_suan\_cara@moe.edu.sg](mailto:chew_heng_suan_cara@moe.edu.sg)\
+**LH (JC2 2024)/ Ms Serene Thong** [thong\_wan\_ling\_serene@moe.edu.sg](mailto:thong_wan_ling_serene@moe.edu.sg)  <br>
