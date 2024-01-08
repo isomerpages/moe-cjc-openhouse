@@ -24,12 +24,9 @@ With all the knowledge, skills and values that CJ History has to offer, it is no
 
 Click the following links for an overview of the History syllabi as well as the assessment formats:  
 
-H1 History: <br>
-[https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/humanities/2023-h1-history.ashx?la=en&amp;hash=417567BCE91E5F4FAFF182FBEE89EFAD5C4B7CD6](https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/humanities/2023-h1-history.ashx?la=en&amp;hash=417567BCE91E5F4FAFF182FBEE89EFAD5C4B7CD6)  
-  
+[H1 History 8838](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8838_y24_sy.pdf)  
 
-H2 History: <br>
-[https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/humanities/2023-h2-history.ashx?la=en&amp;hash=D79A7671BDDA08DB8963AE0CAFE7D31418A493AC](https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/humanities/2023-h2-history.ashx?la=en&amp;hash=D79A7671BDDA08DB8963AE0CAFE7D31418A493AC)  
+[H2 History 9174](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9174_y24_sy.pdf)  
 
 #### **Prerequisites/Suitability**
 
