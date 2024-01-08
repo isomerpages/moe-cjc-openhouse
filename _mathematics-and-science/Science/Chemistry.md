@@ -21,14 +21,9 @@ At CJC, great emphasis is placed on the understanding and application of scienti
 
 Click the following links for an overview of the Chemistry syllabi as well as the assessment formats:
 
-  
+[H1 Chemistry](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8873_y24_sy.pdf)  
 
-H1 Chemistry: <br>
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/8873\_y23\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/8873_y23_sy.pdf)  
-  
-
-H2 Chemistry: <br>
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9729\_y23\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9729_y23_sy.pdf)  
+[H2 Chemistry](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9729_y24_sy.pdf)  
 
 #### **Prerequisites/Suitability**
 
