@@ -23,9 +23,6 @@ H1 Geography: <br>
 H2 Geography: <br>
 [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9751\_y22\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9751_y22_sy.pdf)  
 
-#### **Microlesson**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/uXlLqxWwekE?si=xSCFpnZfaQwegNJN" height="315" width="560"></iframe>
 
 #### **Student Testimonials**
 
