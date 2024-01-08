@@ -2,12 +2,13 @@
 title: Our Catholic Identity
 permalink: /eopenhouse/about-us/our-catholic-identity/
 description: ""
+variant: markdown
 ---
 Symbols of Our Faith
 
 #### **Catholic Ethos and approach in CJC**
 
-***video to be embedded here***
+<iframe allowfullscreen="" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GuHA1riPank?si=-L_88EW3DyOraL1w" height="315" width="560" style="border-radius:15px;"></iframe>
 
 #### **The Dove**
 
