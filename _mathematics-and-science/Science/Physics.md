@@ -15,10 +15,12 @@ Click the following links for an overview of the Physics syllabi as well as the 
 
 #### **Microlessons**
 
-
-***video to be embedded here***
-
-***video to be embedded here***
+<center>
+<figure>
+<video src="https://github.com/km-printing/km-printing.github.io/raw/main/Chemistry%20Microlesson.mp4" id="video1" style="border-radius:15px; width=80%;">  
+</video>
+	</figure>
+</center>
 
 #### **Student Testimonials**
 
