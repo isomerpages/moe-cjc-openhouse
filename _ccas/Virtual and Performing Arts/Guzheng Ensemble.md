@@ -26,4 +26,6 @@ img {
 
 #### **eOpen House Performance**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nyJIKGbK7y0?si=oZW1--aEYXjLwf4u" height="315" width="560"></iframe>
+<center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nyJIKGbK7y0?si=oZW1--aEYXjLwf4u" height="315" width="560" style="border-radius:15px;"></iframe>
+	</center>
