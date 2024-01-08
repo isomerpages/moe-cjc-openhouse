@@ -26,8 +26,8 @@ A graphic calculator (GC) is a key learning tool that is designed to help studen
 
 Click the following links for an overview of the Mathematics syllabi as well as the assessment formats:<br>
 [H1 Mathematics syllabus (Examination in 2024)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8865_y24_sy.pdf)
-<br>[H2 Mathematics (examination in 2024)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9758_y24_sy.pdf)
-<br>[H3 Mathematics (examination in 2024)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9820_y24_sy.pdf)
+<br>[H2 Mathematics (Examination in 2024)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9758_y24_sy.pdf)
+<br>[H3 Mathematics (Examination in 2024)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9820_y24_sy.pdf)
 
 #### Prerequisites/Suitability
 
