@@ -21,7 +21,7 @@ Click the following link for an overview of the H2 Economics syllabus as well as
 
 #### **Microlesson**
 
-***video to be embedded here***
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/4bqo_NFboy4?si=HZy4e_9RDAJTuXPA" height="315" width="560"></iframe>
 
 #### **H3 Economics**
 
