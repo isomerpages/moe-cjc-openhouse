@@ -40,7 +40,12 @@ Students must also be disciplined and self-directed to manage the workload well 
 
 #### **Microlesson**
 
-***video to be embedded here***
+<center>
+<figure>
+<video src="https://github.com/km-printing/km-printing.github.io/raw/main/Chemistry%20Microlesson.mp4" id="video1">  
+</video>
+	</figure>
+</center>
 
 #### **Student Testimonials**
 
