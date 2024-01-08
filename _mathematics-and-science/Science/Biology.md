@@ -13,9 +13,9 @@ The value of learning H2 Biology ultimately hinges on the development of a scien
 
 Click the following links for an overview of the Biology syllabi as well as the assessment formats:
 <br>
-[H1 Biology syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8876_y22_sy.pdf)
+[H1 Biology syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8876_y24_sy.pdf)
 <br>
-[H2 Biology syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9744_y22_sy.pdf)  
+[H2 Biology syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9744_y24_sy.pdf)  
 <style>
 .img {  border-radius: 15px; }
 </style>
