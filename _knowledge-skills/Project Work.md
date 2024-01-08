@@ -38,7 +38,7 @@ It is the College’s mission for Every CJCian to be a ‘Thinker With A Mission
 
 Click the following link for an overview of the Project Work syllabus as well as the assessment format:
 
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8808\_y22\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8808_y22_sy.pdf)
+[H1 Project Work (1st Examination in 2024)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8882_y24_sy.pdf)
 
 #### **Student Testimonials**
 
