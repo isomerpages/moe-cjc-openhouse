@@ -13,6 +13,8 @@ img {
 	border-radius: 15px;
 }  
 </style>  
+*   **[Mathematics Department](/eopenhouse/academic-information/department-information/mathematics-n-science/mathematics)**
+*   **[Science Department](/eopenhouse/academic-information/department-information/mathematics-n-science/science)**
 #### **STEM Education Programme**
 
 In line with MOE’s strategic thrusts and college focus in providing differentiated support for students’ diverse interest and learning opportunities beyond the classroom, the college STEM Steering committee was set up to drive the STEM education programmes. Since 2022, we are fortunate to have Dr Timothy Hu Xiao Ming&nbsp;–&nbsp;an Artificial Intelligence expert from A\*STAR&nbsp;–&nbsp;to be supporting the college in STEM education initiatives.
@@ -166,6 +168,3 @@ Participants have the opportunity to network with youth leaders across Asia thro
 ![](/images/Science/STEP_Environment_Camp.jpg)
 
 <img style="width:100%" src="/images/cjc%20stem%20picture%2025.png"><br><br>
-
-*   **[Mathematics](/eopenhouse/academic-information/department-information/mathematics-n-science/mathematics)**
-*   **[Science](/eopenhouse/academic-information/department-information/mathematics-n-science/science)**
