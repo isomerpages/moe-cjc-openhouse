@@ -14,7 +14,7 @@ Beyond the syllabus, we aim to nurture in students an enduring love for literatu
 
 Watch this video for a fuller introduction to the programme:
 
-***video to be embedded here***
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Xd3lk1ZLlQg?si=ESfJuLZydWPLsHxd" height="315" width="560"></iframe>
 
 #### **A-Level Syllabus**
 
