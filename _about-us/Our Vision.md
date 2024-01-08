@@ -2,6 +2,7 @@
 title: Our Vision
 permalink: /eopenhouse/about-us/our-vision/
 description: ""
+variant: markdown
 ---
 #### **Vision**
 
@@ -69,8 +70,8 @@ Thus, the Thinker with a Mission, Leader with a Heart is a servant leader who, a
 
 #### **CJ45 Mural**
 
-<div align="center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vntO07k4o-E" height="315" width="560"></iframe></div>
+<div align="center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vntO07k4o-E" height="315" width="560" style="border-radius:15px;"></iframe></div>
 
 #### **CJC Corporate Video**
 
-<div align="center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/i3ExcRVrQqc" height="315" width="560"></iframe></div>
+<div align="center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/i3ExcRVrQqc" height="315" width="560" style="border-radius:15px;"></iframe></div>
