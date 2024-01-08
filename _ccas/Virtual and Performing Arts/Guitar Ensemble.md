@@ -11,4 +11,6 @@ The CJ Guitar Ensemble provides opportunities for interested students to learn a
 
 #### **eOpen House Performance**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/h4pH7RS67AY?si=wdiiRsN27zFm0_RU" height="315" width="560"></iframe>
+<center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/h4pH7RS67AY?si=wdiiRsN27zFm0_RU" height="315" width="560" style="border-radius:15px;"></iframe>
+	</center>
