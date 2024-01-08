@@ -20,10 +20,13 @@ img {
   display: block;  
   margin-left: auto;  
   margin-right: auto;  
+	border-radius:15px;
 }  
 </style>  
 <img style="width:70%;" alt="Concert Band" src="/images/symphonic%20band.png">
 
 #### **eOpen House Performance**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8ZufYwVrXmQ?si=LiX4jGdVREN4rMEv" height="315" width="560"></iframe>
+<center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8ZufYwVrXmQ?si=LiX4jGdVREN4rMEv" height="315" width="560" style="border-radius:15px;"></iframe>
+	</center>
