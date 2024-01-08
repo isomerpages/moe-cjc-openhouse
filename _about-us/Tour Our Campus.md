@@ -2,15 +2,18 @@
 title: Tour Our Campus
 permalink: /eopenhouse/about-us/tour-our-campus/
 description: ""
+variant: markdown
 ---
-
-***video to be embedded here***
-
+<center>
+<iframe allowfullscreen="" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lbA5NQHZm_I?si=6UzV_Expi-ERVu1t" height="315" width="560" style="border-radius:15px;"></iframe>
+</center>
+	
 <style>  
 img {  
   display: block;  
   margin-left: auto;  
   margin-right: auto;  
+	border-radius:15px;
 }  
 </style>  
 <img style="width:70%;" alt="Panaroma" src="/images/panorama.jpg">  

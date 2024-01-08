@@ -9,16 +9,18 @@ variant: markdown
 
 Click the following links for an overview of the Physics syllabi as well as the assessment formats:
 <br>
-[H1 Physics syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8867_y22_sy.pdf)
+[H1 Physics syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8867_y24_sy.pdf)
 <br>
-[H2 Physics syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9749_y22_sy.pdf)
+[H2 Physics syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9749_y24_sy.pdf)
 
 #### **Microlessons**
 
-
-***video to be embedded here***
-
-***video to be embedded here***
+<center>
+<figure>
+<video controls="" src="https://github.com/km-printing/km-printing.github.io/raw/main/Physics%20Microlesson.mp4" id="video1" style="border-radius:15px; width=80%;">  
+</video>
+	</figure>
+</center>
 
 #### **Student Testimonials**
 

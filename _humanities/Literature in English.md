@@ -12,23 +12,24 @@ We hope that students acquire, through the programme, an open-minded disposition
 
 Beyond the syllabus, we aim to nurture in students an enduring love for literature that is grounded in critical thought and appreciation of the text.
 
-Watch this video for a fuller introduction to the programme:
-
-***video to be embedded here***
-
 #### **A-Level Syllabus**
 
 Click the following link for an overview of the Literature in English syllabi as well as the assessment format:
 
-  
-
 H1 Literature: <br>
 [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8832\_y22\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8832_y22_sy.pdf)
 
-  
-
 H2 Literature: <br>
 [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9509\_y22\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9509_y22_sy.pdf)
+
+#### **Microlesson**
+
+<center>
+<figure>
+<video controls="" src="https://github.com/km-printing/km-printing.github.io/raw/main/Literature%20Microlesson.mp4" id="video1" style="border-radius:15px; width=80%;">  
+</video>
+	</figure>
+</center>
 
 #### **Texts offered at CJC**
 
@@ -37,18 +38,6 @@ H2 Literature: <br>
 | *Jane Eyre*<br> by Charlotte Brontë | *Wide Sargasso Sea*<br> by Jean Rhys    | *Heart of Darkness*<br> by Joseph Conrad |
 | *The Changeling*<br> by Thomas Middleton and William Rowley | *Remembering Babylon*<br> by David Malouf |   |
 
-
-#### **Microlessons**
-
-First lesson sample: this video is part of an actual lecture delivered on George Bernard Shaw's&nbsp;_Saint Joan_. Lectures complement tutorials by modelling intellectual engagement and inquiry.
-
-***video to be embedded here***
-
-First lesson sample: this video is part of an actual lecture delivered on George Bernard Shaw's&nbsp;_Saint Joan_. Lectures complement tutorials by modelling intellectual engagement and inquiry.
-
-***audio file here***
-
-Second lesson sample: this audio file is part of a supplementary Podcast, an example of learning resources that augment core materials and lessons. In this short audio file, the lecturer meditates on one scene in William Shakespeare's&nbsp;_Hamlet_, using it as a springboard to consider the themes of corruption, misogyny, and the connection between the particular and the universal.
 
 #### **Student Testimonies**
 
