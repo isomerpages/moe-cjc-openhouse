@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /eopenhouse/cca-n-cjc-houses/ccas/visual-n-performing-arts/concert-band/
 description: ""
 third_nav_title: Virtual and Performing Arts
+variant: markdown
 ---
 The Catholic Junior College Concert Band started 22 years ago in 1998 as a group of dedicated bandsmen who love to make music and strive for musical excellence.
 
@@ -25,4 +26,4 @@ img {
 
 #### **eOpen House Performance**
 
-***video to be embedded here***
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8ZufYwVrXmQ?si=LiX4jGdVREN4rMEv" height="315" width="560"></iframe>
