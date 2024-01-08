@@ -13,6 +13,7 @@ img {
   display: block;  
   margin-left: auto;  
   margin-right: auto;  
+	border-radius:15px;
 }  
 </style>  
 <img style="width:70%;" alt="Panaroma" src="/images/panorama.jpg">  
