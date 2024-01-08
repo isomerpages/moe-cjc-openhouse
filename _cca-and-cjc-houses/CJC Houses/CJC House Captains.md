@@ -7,7 +7,9 @@ variant: markdown
 ---
 #### **Albert House Captain**
 
-***video to be embedded here***
+<center>
+	<iframe allowfullscreen="" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dVnl-eyfHkY?si=V1qd_mAvFs4C1oh-" height="315" width="560" style="border-radius:15px;"></iframe>
+	</center>
 
 **Nurul Iman Syed Masood (1T17)** <br>
 For me there were two defining features of CJ that set it apart and after coming here, it was made all the more apparent. First, I have made some of my best friends here. The people here are kind hearted, funny and sweet. Especially during celebrations, the bond between classmates becomes so strong. Next, it will have to be the teachers. The teachers here are extremely caring. They will go above and beyond to ensure your well-being.  
@@ -25,8 +27,10 @@ Secretaries: Chee Yun Huai (1T10), Yong Kay Bin, Eliaz (1T11)
 
 #### **Joseph House Captain**
 
-***video to be embedded here***
-
+<center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/oIkN4HIzJuY?si=L5VfKkmfe9fSmUOZ" height="315" width="560" style="border-radius:15px;"></iframe>
+</center>
+	
 **Claudia Ng Hui Lin (1T05)**  <br>
 Since coming to a new&nbsp;environment is so daunting, the Student Development Programme sessions really helped me get to know everyone on a real and intimate level which ultimately helped me form more meaningful friendships in CJ! Good support is always appreciated, especially since JC is so rigorous and fast-paced. My teachers are always gracious with their time for consultations and my friends are always there when I need help in our homework. I'm thankful I have both my teachers and my friends to support and ground me since JC is so academically demanding.
 
@@ -42,7 +46,9 @@ Secretaries: Ignatius Chia Ming Han (1T28), Nicole Tan Xuan Lin (1T06)
 
 #### **Michael House Captain**
 
-***video to be embedded here***
+<center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_Lhu73wRn9U?si=z5MX0ulqbAPz6WVI" height="315" width="560" style="border-radius:15px;"></iframe>
+</center>
 
 **Nicole Lyn Chan Xin Ru (1T03)**&nbsp;  <br>
 In&nbsp;secondary school, I always had my mind set on CJ. My brother told me about his time spent in CJ. He always talked about CJ's culture, mentioning that the teachers have always been nurturing. Moreover, the house culture had always been very strong during his time and now that a year has gone by, I can safely say that nothing fell short of my expectations. Since the start of the year, my teachers have always put all their effort into us — from staying back after class to answer our queries to extra consults.  
@@ -60,7 +66,9 @@ Secretaries: Lim Enxi (1T07), Beverley Wu Yue Tong (1T01)
 
 #### **Patrick House Captain**
 
-***video to be embedded here***
+<center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qF3-88-cXeU?si=brHfaVASOVOlbS6q" height="315" width="560" style="border-radius:15px;"></iframe>
+</center>
 
 **Carina Tay Wen Xi (1T02)**  
 
