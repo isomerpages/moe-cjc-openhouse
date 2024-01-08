@@ -8,7 +8,8 @@ Symbols of Our Faith
 
 #### **Catholic Ethos and approach in CJC**
 
-<iframe allowfullscreen="" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GuHA1riPank?si=-L_88EW3DyOraL1w" height="315" width="560" style="border-radius:15px;"></iframe>
+<center><iframe allowfullscreen="" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GuHA1riPank?si=-L_88EW3DyOraL1w" height="315" width="560" style="border-radius:15px;"></iframe>
+</center>
 
 #### **The Dove**
 
@@ -68,4 +69,4 @@ The Flame symbolizes all that we hold dear in this College and all that we hope 
 
 #### **The Mission of our Catholic Schools**
 
-<div align="center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/sVo1REmWdZ8" height="315" width="560"></iframe></div>
+<div align="center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/sVo1REmWdZ8" height="315" width="560" style="border-radius:15px;"></iframe></div>
