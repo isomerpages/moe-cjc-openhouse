@@ -24,12 +24,9 @@ With all the knowledge, skills and values that CJ History has to offer, it is no
 
 Click the following links for an overview of the History syllabi as well as the assessment formats:  
 
-H1 History: <br>
-[https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/humanities/2023-h1-history.ashx?la=en&amp;hash=417567BCE91E5F4FAFF182FBEE89EFAD5C4B7CD6](https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/humanities/2023-h1-history.ashx?la=en&amp;hash=417567BCE91E5F4FAFF182FBEE89EFAD5C4B7CD6)  
-  
+[H1 History 8838](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8838_y24_sy.pdf)  
 
-H2 History: <br>
-[https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/humanities/2023-h2-history.ashx?la=en&amp;hash=D79A7671BDDA08DB8963AE0CAFE7D31418A493AC](https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/humanities/2023-h2-history.ashx?la=en&amp;hash=D79A7671BDDA08DB8963AE0CAFE7D31418A493AC)  
+[H2 History 9174](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9174_y24_sy.pdf)  
 
 #### **Prerequisites/Suitability**
 
@@ -61,20 +58,25 @@ Microlesson 2: [Delving Deeper into the Historical Concept of Causation](https:/
 
 #### **Enrichment**
 
-Students who have displayed a good learning attitude and aptitude by the end of JC1 will be invited to join various programmes as part of the History Stretch programme, which aims to broaden their horizons beyond the curriculum.
+1.	External History-related competitions and workshops
+
+ - Students will get the opportunity to represent the college in various History-related competitions and workshops. Students can look forward to attending the inaugural historiography workshop held by the National University of Singapore (NUS), and will also get opportunities to attend events such as Model Parliament or Model United Nations (MUN)
+
+![](/images/hist_Picture1.jpg)
+<br>
+
+2.	History Evening for showcasing student work and engagement with professor(s)
+
+![](/images/hist_Picture2.jpg)
+<br>
+
+3. Cultural immersion Trip to Vietnam
+ 
+ - One of these key opportunities would be our Internationalisation Programme&nbsp;–&nbsp;an overseas exchange programme with Tran Phu High School&nbsp;–&nbsp;enabled by a partnership that has existed since 2018, where selected students will get a chance to travel to Vietnam in alternate years to meet their Vietnamese counterparts, and learn about history from alternative perspectives. 
 
 ![Posing in front of one of the many US Air Force Helicopters active during the War.jpeg](/images/posing%20in%20front%20of%20one%20of%20the%20many%20us%20air%20force%20helicopters%20active%20during%20the%20war.jpeg)
 
 ![One of the many traps that were created by the Viet Cong during the Vietnam War.jpeg](/images/one%20of%20the%20many%20traps%20that%20were%20created%20by%20the%20viet%20cong%20during%20the%20vietnam%20war.jpeg)
-
-One of these key opportunities would be our Internationalisation Programme&nbsp;–&nbsp;an overseas exchange programme with Tran Phu High School&nbsp;–&nbsp;enabled by a partnership that has existed since 2018.
-
-  
-
-Though the Covid-19 pandemic placed a halt to the overseas trips, it did not prove a sufficient obstacle to the continuing partnership between the two schools. In 2020 and 2021, our school exchange programme was held via Zoom amidst travel restrictions. For 2023, with the loosening of travel restrictions, we were privileged to host 31 students and staff from TPHS. The 3-day exchange programme was packed with engaging and meaningful activities, ranging from Amazing Race Adventure Trails, Sustainability Workshops and a campus tour of our world-renowned local university, the National University of Singapore.&nbsp;&nbsp;
-
-![Whole Group Photo - Zoom Exchange Programme 2021.jpeg](/images/whole%20group%20photo%20-%20zoom%20exchange%20programme%202021.jpeg)
-We hope that in 2023, we will be able to reciprocate the visit with a fieldtrip to Vietnam! Keeping our fingers (and toes) crossed!&nbsp;
 
 #### **H3 History**
 
@@ -90,5 +92,5 @@ Do you have a question that has not been addressed on this site? If so, feel fre
 
   
 
-*   SH / Nur Adhana Binte Mohamed Anwar <br>
-    [nur\_adhana\_mohamed\_anwar@moe.edu.sg](mailto:nur_adhana_mohamed_anwar@moe.edu.sg)
+*   HOD / Ms Celestine Hang
+    [hang_shu_min_celestine@schools.gov.sg](mailto:hang_shu_min_celestine@schools.gov.sg)

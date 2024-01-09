@@ -2,6 +2,7 @@
 title: English Language and Linguistics
 permalink: /eopenhouse/academic-information/department-information/humanities/english-language-and-linguistics/
 description: ""
+variant: markdown
 ---
 #### **About the Programme**
 
@@ -29,9 +30,7 @@ The study of ELL would involve thinking about these core questions:
 
 Click the following link for an overview of the English Language and Linguistics syllabus as well as the assessment format:
 
-  
-
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9508\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9508_y21_sy.pdf)
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9508\_y24\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9508_y24_sy.pdf)
 
 #### **Prerequisite/Suitability**
 

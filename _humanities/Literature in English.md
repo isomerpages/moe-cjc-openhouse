@@ -16,11 +16,9 @@ Beyond the syllabus, we aim to nurture in students an enduring love for literatu
 
 Click the following link for an overview of the Literature in English syllabi as well as the assessment format:
 
-H1 Literature: <br>
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8832\_y22\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8832_y22_sy.pdf)
+[H1 Literature 8832](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8832_y24_sy.pdf)
 
-H2 Literature: <br>
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9509\_y22\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9509_y22_sy.pdf)
+[H2 Literature 9509](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9509_y24_sy.pdf)
 
 #### **Microlesson**
 
