@@ -126,10 +126,10 @@ For more information, please visit the&nbsp;[Ministry of Education DSA-JC](https
   
 For further enquiries on the CJC DSA-JC exercise, please email us at [catholic_jc@moe.edu.sg](mailto:catholic_jc@moe.edu.sg)
 
-***video to be embedded here***
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JgWsmn6LRvY?si=wJ0tLLs5CrQJNvvK" height="315" width="560"></iframe>
 
 Our CJ Story - Guzheng President
 
-***video to be embedded here***
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/EO2AkjT3kDw?si=lg2ZboIodfmoCdPT" height="315" width="560"></iframe>
 
 Our CJ Story - Tennis Captain
