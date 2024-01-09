@@ -57,6 +57,6 @@ sections:
       alt: Ignite Programme
   - infobar:
       title: Our CJC Story
-      button: Click here to read more
+      button: Click here to see more
       url: /eopenhouse/our-cjc-story/
 ---
