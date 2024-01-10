@@ -3,12 +3,13 @@ title: English Language and Linguistics
 permalink: /eopenhouse/academic-information/signature-programmes/english-language-and-linguistics/
 description: ""
 third_nav_title: Signature Programmes
+variant: markdown
 ---
 #### **About the Programme**
 
 English Language and Linguistics (ELL) is an H2 subject that aims to develop students’ understanding, use and appreciation of the English language through the discipline of Linguistics as well as investigation into the nature of the English language and contemporary linguistics issues.
 
-  
+ <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Fq3XZ4kgzRc?si=Hh-oVHNdaubKkjTJ" height="315" width="560"></iframe>
 
 The study of ELL would involve thinking about these core questions:
 
@@ -45,10 +46,6 @@ The Indicative Grade Cut-off is A2 grade for O-Level English Language.&nbsp;
   
 
 Before applying, students should consider their interest in the English language and related issues; precision and flair in expression will stand applicants in good stead for a position on the programme.
-
-#### **Microlesson**
-
-***video to be embedded here***
 
 #### **Student Testimonials**
 
@@ -130,5 +127,5 @@ Do you have a question that has not been addressed on this site? If so, feel fre
 
 *   HOD / Ms Pauline Chua: <br>[chua\_sook\_lan\_pauline@moe.edu.sg](mailto:chua_sook_lan_pauline@moe.edu.sg)
 
-*   Coordinator / Ms Alexandra Hofbauer: <br>
+*   Covering SH / Ms Alexandra Hofbauer: <br>
     [hofbauer\_alexandra\_leanne@moe.edu.sg](mailto:hofbauer\_alexandra\_leanne@moe.edu.sg)

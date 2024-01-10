@@ -2,10 +2,11 @@
 title: DSA
 permalink: /eopenhouse/admission/dsa/
 description: ""
+variant: markdown
 ---
 #### **2022 Direct School Admission - Junior Colleges (DSA-JC) For Admission To JC1 In 2023**
 
-<p style="text-align:center;"><em><strong>video to be embedded here</strong></em><br><br>DSA 2022 Introduction Video by Principal Mrs Phyllis Lim<br>Alternative link&nbsp;<a href="https://www.youtube.com/watch?v=kTJnl17dxUU">here</a>.</p>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/hPhv9dR81L4?si=42fk6ZUNvAvmw3dJ" height="315" width="560"></iframe>
 
 CJC invites applications for direct admission to JC1 in 2023 from students who are outstanding in at least one&nbsp;area of talents / skills&nbsp;listed in the table below.&nbsp;&nbsp;**Eligible applicants must sit for the GCE O-Level in 2022**. Successful applicants may be considered for one of the 10&nbsp;[FLAME scholarships](https://cjc.moe.edu.sg/admission/scholarships)&nbsp;available to JC1 students with exceptional strengths and/or abilities in leadership and CCA.
 
@@ -125,10 +126,10 @@ For more information, please visit the&nbsp;[Ministry of Education DSA-JC](https
   
 For further enquiries on the CJC DSA-JC exercise, please email us at [catholic_jc@moe.edu.sg](mailto:catholic_jc@moe.edu.sg)
 
-***video to be embedded here***
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JgWsmn6LRvY?si=wJ0tLLs5CrQJNvvK" height="315" width="560"></iframe>
 
 Our CJ Story - Guzheng President
 
-***video to be embedded here***
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/EO2AkjT3kDw?si=lg2ZboIodfmoCdPT" height="315" width="560"></iframe>
 
 Our CJ Story - Tennis Captain

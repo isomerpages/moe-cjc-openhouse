@@ -2,118 +2,17 @@
 title: Zoom Q&A
 permalink: /eopenhouse/chat-with-us/zoom-qna/
 description: ""
+variant: markdown
 ---
-Below are the links for the various departments' academic Zoom consultations, where you can find out more about each department's programmes.  
+Want to find out more about some aspect of college life? Have a more specific question about CJC that you'd like addressed? Click the link below to enter our General Enquiries Zoom Room.
   
-Consultations will take place from&nbsp;**10am to 11am**&nbsp;on&nbsp;**13th January 2023**, and will be provided on a&nbsp;**first-come, first-served basis**.  
+Consultations will take place from&nbsp;**10am to 11am**&nbsp;on&nbsp;**12 January 2024**, and will be provided on a&nbsp;**first-come, first-served basis**.  
   
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-171d{background-color:#EAEAEA;color:#1B42AA;text-align:center;vertical-align:top}
-</style>
-<table style="border: 1px solid white" class="tg">
-<thead>
-  <tr>
-    <th style="border: 1px solid white" class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Department</span></th>
-    <th style="border: 1px solid white" class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Zoom Link</span></th>
-    <th style="border: 1px solid white" class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Zoom Meeting ID</span></th>
-    <th style="border: 1px solid white" class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Password </span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="border: 1px solid white" class="tg-ii8k">General Enquiries</td>
-    <td class="tg-171d"><a href="https://moe-singapore.zoom.us/j/82226328715"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/82226328715</span></a></td>
-    <td style="border: 1px solid white" class="tg-ii8k">822 2632 8715</td>
-    <td style="border: 1px solid white" class="tg-ii8k">2023.OHgen </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white" class="tg-ii8k">English (General Paper &amp; Literature)</td>
-    <td style="border: 1px solid white" class="tg-171d"><a href="https://moe-singapore.zoom.us/j/84533215641"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/84533215641</span></a></td>
-    <td style="border: 1px solid white" class="tg-ii8k">845 3321 5641</td>
-    <td style="border: 1px solid white" class="tg-ii8k">889150 </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white" class="tg-ii8k"> Mathematics</td>
-    <td style="border: 1px solid white" class="tg-171d"><a href="https://moe-singapore.zoom.us/j/81672255727"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/81672255727</span></a> </td>
-    <td style="border: 1px solid white" class="tg-ii8k"> 816 7225 5727</td>
-    <td style="border: 1px solid white" class="tg-ii8k"> 2023.OHMth</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white" class="tg-ii8k"> Economics</td>
-    <td style="border: 1px solid white" class="tg-171d"><a href="https://moe-singapore.zoom.us/j/8460474277"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/8460474277</span></a></td>
-    <td style="border: 1px solid white" class="tg-ii8k">846 047 4277 </td>
-    <td style="border: 1px solid white" class="tg-ii8k"> 2023.OHEco</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white" class="tg-ii8k"> Chemistry</td>
-    <td style="border: 1px solid white" class="tg-ii8k"> <a href="https://moe-singapore.zoom.us/j/3414716171"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/3414716171</span></a></td>
-    <td style="border: 1px solid white" class="tg-ii8k">3414716171 </td>
-    <td style="border: 1px solid white" class="tg-ii8k"> 2023OHChem</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white" class="tg-ii8k"> Project Work</td>
-    <td style="border: 1px solid white" class="tg-ii8k"> <a href="https://moe-singapore.zoom.us/j/88543367263"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/88543367263</span></a></td>
-    <td style="border: 1px solid white" class="tg-ii8k"> 885 4336 7263</td>
-    <td style="border: 1px solid white" class="tg-ii8k">2023.OHPW </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white" class="tg-ii8k">Geography </td>
-    <td style="border: 1px solid white" class="tg-ii8k"> <a href="https://moe-singapore.zoom.us/j/84385528118"><span style="text-decoration:underline;color:#2258E9">https://moe-singapore.zoom.us/j/84385528118</span></a></td>
-    <td style="border: 1px solid white" class="tg-ii8k"> 843 8552 8118</td>
-    <td style="border: 1px solid white" class="tg-ii8k">2023.OHgeo </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white" class="tg-ii8k"> History</td>
-    <td style="border: 1px solid white" class="tg-171d"><a href="https://moe-singapore.zoom.us/j/84643286484"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/84643286484</span></a> </td>
-    <td style="border: 1px solid white" class="tg-ii8k">846 4328 6484 </td>
-    <td style="border: 1px solid white" class="tg-ii8k">2023.OHhis </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white" class="tg-ii8k"> English Language and Linguistics</td>
-    <td style="border: 1px solid white" class="tg-ii8k"> <a href="https://moe-singapore.zoom.us/j/84533215641"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/84533215641</span></a></td>
-    <td style="border: 1px solid white" class="tg-ii8k"> 845 3321 5641</td>
-    <td style="border: 1px solid white" class="tg-ii8k"> 889150</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white" class="tg-ii8k"> Biology</td>
-    <td style="border: 1px solid white" class="tg-ii8k"> <a href="https://moe-singapore.zoom.us/j/85729928293"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/85729928293</span></a></td>
-    <td style="border: 1px solid white" class="tg-ii8k"> 857 2992 8293</td>
-    <td style="border: 1px solid white" class="tg-ii8k">2023.OHbio </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white" class="tg-ii8k"> Physics</td>
-    <td style="border: 1px solid white" class="tg-171d"><a href="https://moe-singapore.zoom.us/j/88074031177"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/88074031177</span></a> </td>
-    <td style="border: 1px solid white" class="tg-ii8k">880 7403 1177 </td>
-    <td style="border: 1px solid white" class="tg-ii8k"> 2023.OHphy</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white" class="tg-ii8k"> Mother Tongue Language</td>
-    <td style="border: 1px solid white" class="tg-171d"><a href="https://moe-singapore.zoom.us/j/89410544411"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/89410544411</span></a></td>
-    <td style="border: 1px solid white" class="tg-ii8k"> 894 1054 4411</td>
-    <td style="border: 1px solid white" class="tg-ii8k"> 2023.OHMTL</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white" class="tg-ii8k">Talent Development Programme</td>
-    <td style="border: 1px solid white" class="tg-171d"><a href="https://moe-singapore.zoom.us/j/83816886133"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/83816886133</span></a> </td>
-    <td style="border: 1px solid white" class="tg-ii8k">838 1688 6133 </td>
-    <td style="border: 1px solid white" class="tg-ii8k"> OHTD</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white" class="tg-ii8k"> Education &amp; Career Guidance</td>
-    <td style="border: 1px solid white" class="tg-171d"><a href="https://moe-singapore.zoom.us/j/82321045852"><span style="text-decoration:none;color:#1B42AA">https://moe-singapore.zoom.us/j/82321045852</span></a> </td>
-    <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#000">823 2104 5852</span> </td>
-    <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#000">OHECG</span> </td>
-  </tr>
-</tbody>
-</table>
+Join Zoom Meeting  
+[https://moe-singapore.zoom.us/j/84781309730](https://moe-singapore.zoom.us/j/84781309730)  
+  
+Meeting ID: 847 8130 9730  
+Passcode: 864217
 
 #### **Frequently Asked Questions**
 
