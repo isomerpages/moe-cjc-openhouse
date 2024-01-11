@@ -10,7 +10,5 @@ The CJ Guitar Ensemble provides opportunities for interested students to learn a
 ![Guitar Ensemble](/images/guitar%20ensemble.JPG)
 
 #### **eOpen House Performance**
-
-<center>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/h4pH7RS67AY?si=wdiiRsN27zFm0_RU" height="315" width="560" style="border-radius:15px;"></iframe>
-	</center>
+	
+[Watch our performance here!](https://www.youtube.com/watch?v=h4pH7RS67AY)
