@@ -14,9 +14,3 @@ The COVID-19 pandemic left us caged within the four walls of our rooms with litt
 <center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jWUhnz33xlA?si=V-q6uXcmov0JywyB" height="315" width="560"></iframe>
 </center>
-	
-#### **eOpen House Performance**
-
-<center>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/kscAiETuMr4?si=2IVb3oWSPNQe1bOP" height="315" width="560" style="border-radius:15px;"></iframe>
-	</center>
