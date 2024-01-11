@@ -5,12 +5,11 @@ description: ""
 third_nav_title: Virtual and Performing Arts
 variant: markdown
 ---
+## CJC Guitar Ensemble
 The CJ Guitar Ensemble provides opportunities for interested students to learn and master the skills of playing the guitar through many performance opportunities at SYF and guitar concerts. As we are a Niibori Guitar Ensemble, you can choose to join the Alto, Prime, or Bass (including contrabass and guitarron) section, where you will be taught the basics of musicianship, reading notes and guitar techniques. We also provide training for students who are interested in becoming student conductors. Everyone is welcome to join - you do not need to have any guitar or music background to be part of our ensemble. Come and enjoy the experience of growing as a musician. Be a guitarist, six strings attached.
 
 ![Guitar Ensemble](/images/guitar%20ensemble.JPG)
 
 #### **eOpen House Performance**
-
-<center>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/h4pH7RS67AY?si=wdiiRsN27zFm0_RU" height="315" width="560" style="border-radius:15px;"></iframe>
-	</center>
+	
+[Watch our performance here!](https://www.youtube.com/watch?v=h4pH7RS67AY)

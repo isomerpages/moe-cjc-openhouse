@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Virtual and Performing Arts
 variant: markdown
 ---
+## CJC Concert Band
 The Catholic Junior College Concert Band started 22 years ago in 1998 as a group of dedicated bandsmen who love to make music and strive for musical excellence.
 
   

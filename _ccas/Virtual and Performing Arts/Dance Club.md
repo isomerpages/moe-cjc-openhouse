@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Virtual and Performing Arts
 variant: markdown
 ---
+## CJ Dance
+
 CJDC offers those passionate about dance to explore their creative side. We give our dancers the opportunity to expand their contemporary and hip-hop dance techniques. While experience is preferred, we welcome anyone who can groove!
 
 #### **eOpen House Performance**
 
-<center>
-<iframe allowfullscreen="" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/u-Dg22DcUh8?si=qDaAirB2iikZVJnG" height="315" width="560" style="border-radius:15px;"></iframe>
-	</center>
+[Watch our performance here!](https://youtu.be/u-Dg22DcUh8)

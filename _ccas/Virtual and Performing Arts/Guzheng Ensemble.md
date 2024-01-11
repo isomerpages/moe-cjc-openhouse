@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Virtual and Performing Arts
 variant: markdown
 ---
+## CJC Guzheng Ensemble
+
 The CJ Guzheng Ensemble provides opportunities for interested students to learn and master the skills of playing the Guzheng through various performance opportunities at SYF and CJ Celebrates.
 
   
@@ -26,6 +28,4 @@ img {
 
 #### **eOpen House Performance**
 
-<center>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nyJIKGbK7y0?si=oZW1--aEYXjLwf4u" height="315" width="560" style="border-radius:15px;"></iframe>
-	</center>
+[Watch our performance here!](https://youtu.be/nyJIKGbK7y0)
