@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Virtual and Performing Arts
 variant: markdown
 ---
+## CJC Guzheng Ensemble
+
 The CJ Guzheng Ensemble provides opportunities for interested students to learn and master the skills of playing the Guzheng through various performance opportunities at SYF and CJ Celebrates.
 
   
