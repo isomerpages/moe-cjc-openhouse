@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Virtual and Performing Arts
 variant: markdown
 ---
+## CJC Drama Society
+
 CJC Drama Society endeavours to convey stories of real people through minimalistic theatre. We hope to explore human nature through insightful productions, allowing us to grow in our understanding of ourselves and the world, and in our bond as one Drama family.
 
   
