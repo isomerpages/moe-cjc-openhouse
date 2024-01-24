@@ -1,0 +1,6 @@
+collections:
+  archive:
+    output: true
+    order:
+      - Mathematics.md
+      - Shooting.md

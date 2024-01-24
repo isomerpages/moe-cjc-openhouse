@@ -1,0 +1,7 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Our Vision.md
+      - Our Catholic Identity.md
+      - Tour Our Campus.md

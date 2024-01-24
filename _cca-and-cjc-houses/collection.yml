@@ -1,0 +1,8 @@
+collections:
+  cca-and-cjc-houses:
+    output: true
+    order:
+      - CCAs.md
+      - CJC Houses/.keep
+      - CJC Houses/CJC Houses.md
+      - CJC Houses/CJC House Captains.md

@@ -1,0 +1,14 @@
+logo: /images/cjclogo-btm.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Academic Information
+    collection: academic-information
+  - title: Student Development
+    collection: student-development
+  - title: CCA and Houses
+    collection: cca-and-cjc-houses
+  - title: Admission
+    collection: admission
+  - title: Chat with us!
+    collection: chat-with-us
