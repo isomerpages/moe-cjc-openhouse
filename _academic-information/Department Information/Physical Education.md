@@ -52,8 +52,8 @@ Do you have a question that has not been addressed on this site? If so, feel fre
 
   
 
-*   HOD (Covering) / Mr Sandanam: 
-[marimuthu\_sandanam@moe.edu.sg](mailto:marimuthu_sandanam@moe.edu.sg)
+*   *   HOD / Mr Viknesvaran s/o Veeramuthu:  
+    [viknesvaran\_veeramuthu@moe.edu.sg](mailto:viknesvaran_veeramuthu@moe.edu.sg)
 
 *   SH PE/CCA / Mr Chen Yuliang: <br>
 [chen\_yuliang@moe.edu.sg](mailto:chen_yuliang@moe.edu.sg)
