@@ -2,6 +2,7 @@
 title: Financial Aid
 permalink: /eopenhouse/admission/financial-aid/
 description: ""
+variant: markdown
 ---
 The college is committed to ensuring that all students have a fair opportunity to realise their potential. The MOE Financial Assistance Scheme, CJC Needy Student Fund and the Internationalisation Fund provide students with the necessary resources as well as the opportunity to take up enrichment activities beyond local shores.
 
@@ -15,8 +16,8 @@ Under the ministry's guidelines, a student is eligible for MOE FAS if he or she 
 
   
 
-*   Gross Household Income (GHI) not exceeding $2,750 per month **OR**
-*   Per Capita Income (PCI) not exceeding $690 per month
+*   Gross Household Income (GHI) not exceeding $3,000 per month **OR**
+*   Per Capita Income (PCI) not exceeding $750 per month
 
   
 
@@ -26,13 +27,13 @@ The benefits of the scheme for junior college students are:
 
 *   Full waiver of school fees ($6 per month)
 *   Full waiver of standard miscellaneous fees ($13.50 per month)
-*   Bursary ($1000)
-*   Transport Subsidy ($15 per month, up to $180 per annum for students taking public transport)
+*   Bursary ($1200)
+*   Transport Subsidy ($17 per month, up to $204 per annum for students taking public transport)
 *   100% waiver of National Examination Fees
 
   
 
-Students who satisfy the eligibility criteria for the MOE FAS Scheme may submit the application form to the General Office. [2021 MOE FAS Application Form.pdf](/files/2021%20moe%20fas%20application%20form.pdf)
+Students who satisfy the eligibility criteria for the MOE FAS Scheme may submit the application online via this website [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
 
   
 
