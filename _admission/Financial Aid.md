@@ -16,8 +16,8 @@ Under the ministry's guidelines, a student is eligible for MOE FAS if he or she 
 
   
 
-*   Gross Household Income (GHI) not exceeding $2,750 per month **OR**
-*   Per Capita Income (PCI) not exceeding $690 per month
+*   Gross Household Income (GHI) not exceeding $3,000 per month **OR**
+*   Per Capita Income (PCI) not exceeding $750 per month
 
   
 
@@ -27,8 +27,8 @@ The benefits of the scheme for junior college students are:
 
 *   Full waiver of school fees ($6 per month)
 *   Full waiver of standard miscellaneous fees ($13.50 per month)
-*   Bursary ($1000)
-*   Transport Subsidy ($15 per month, up to $180 per annum for students taking public transport)
+*   Bursary ($1200)
+*   Transport Subsidy ($17 per month, up to $204 per annum for students taking public transport)
 *   100% waiver of National Examination Fees
 
   
