@@ -2,6 +2,7 @@
 title: Financial Aid
 permalink: /eopenhouse/admission/financial-aid/
 description: ""
+variant: markdown
 ---
 The college is committed to ensuring that all students have a fair opportunity to realise their potential. The MOE Financial Assistance Scheme, CJC Needy Student Fund and the Internationalisation Fund provide students with the necessary resources as well as the opportunity to take up enrichment activities beyond local shores.
 
@@ -32,7 +33,7 @@ The benefits of the scheme for junior college students are:
 
   
 
-Students who satisfy the eligibility criteria for the MOE FAS Scheme may submit the application form to the General Office. [2021 MOE FAS Application Form.pdf](/files/2021%20moe%20fas%20application%20form.pdf)
+Students who satisfy the eligibility criteria for the MOE FAS Scheme may submit the application online via this website [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
 
   
 
