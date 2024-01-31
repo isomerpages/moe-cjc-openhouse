@@ -52,7 +52,7 @@ Do you have a question that has not been addressed on this site? If so, feel fre
 
   
 
-*   *   HOD / Mr Viknesvaran s/o Veeramuthu:  
+*   HOD / Mr Viknesvaran s/o Veeramuthu:  
     [viknesvaran\_veeramuthu@moe.edu.sg](mailto:viknesvaran_veeramuthu@moe.edu.sg)
 
 *   SH PE/CCA / Mr Chen Yuliang: <br>
