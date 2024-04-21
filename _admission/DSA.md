@@ -45,7 +45,7 @@ We are looking for students who are outstanding in the following areas:
 
   
 
-**Application Procedures**  
+**Application Procedures** (will be updated in May 2024) 
 
 1.&nbsp;To apply, please register using&nbsp;[**http://dsa.catholicjc.edu.sg**](http://dsa.catholicjc.edu.sg/).  
   
