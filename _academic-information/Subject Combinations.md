@@ -4,7 +4,7 @@ permalink: /eopenhouse/academic-information/subject-combinations/
 description: ""
 variant: markdown
 ---
-# Subject Combinations 2024
+# Subject Combinations 2025
 
 **A-LEVEL COURSE REQUIREMENTS**
 
@@ -27,7 +27,7 @@ variant: markdown
 
 **CONTENT-BASED SUBJECTS OFFERED**
 
-*   Table A shows the content-based subjects to be offered in 2024:
+*   Table A shows the content-based subjects to be offered in 2025:
     
 
 **Table A:**
@@ -38,7 +38,7 @@ variant: markdown
 
 **SUBJECT COMBINATIONS**
 
-*   Table B shows the 3 H2 and 1 H1 subject combinations to be offered in 2024:
+*   Table B shows the 3 H2 and 1 H1 subject combinations to be offered in 2025:
     
 
 **Table B:**
