@@ -4,7 +4,7 @@ permalink: /eopenhouse/academic-information/subject-combinations/
 description: ""
 variant: markdown
 ---
-# Subject Combinations 2024
+# Subject Combinations 2025
 
 **A-LEVEL COURSE REQUIREMENTS**
 
@@ -27,7 +27,7 @@ variant: markdown
 
 **CONTENT-BASED SUBJECTS OFFERED**
 
-*   Table A shows the content-based subjects to be offered in 2024:
+*   Table A shows the content-based subjects to be offered in 2025:
     
 
 **Table A:**
@@ -38,7 +38,7 @@ variant: markdown
 
 **SUBJECT COMBINATIONS**
 
-*   Table B shows the 3 H2 and 1 H1 subject combinations to be offered in 2024:
+*   Table B shows the 3 H2 and 1 H1 subject combinations to be offered in 2025:
     
 
 **Table B:**
@@ -48,7 +48,7 @@ variant: markdown
 \*The _italicized subject_ is the contrasting subject within the subject combination.  
 \*If offered, H2 ELL may be used to replace one H2 subject (except H2 Math) from the Arts Combinations (A1 - A5).
 
-*   Table C shows the 4 H2 subject combinations to be offered in 2024:
+*   Table C shows the 4 H2 subject combinations to be offered in 2025:
     
     **Table C:**
     
@@ -77,7 +77,7 @@ variant: markdown
 
 <table><tbody><tr><td rowspan="1" colspan="1"><p><strong><em>Subject / Combination</em></strong></p></td><td rowspan="1" colspan="1"><p><strong><em>* Indicative Grade Cut-off for the relevant subject(s) at O-Level Examination</em></strong></p></td><td rowspan="1" colspan="1"><p><strong><em>Remarks</em></strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>H2 ELL</strong></p></td><td rowspan="1" colspan="1"><ul><li><p>A2 for English Language</p></li></ul></td><td rowspan="1" colspan="1"><p>Students who wish to take H2 ELL are required to sit for and pass a selection test before a place can be confirmed.</p><p>If offered, H2 ELL may be used to replace one H2 subject (except H2 Math) from the Arts Combinations (A1 - A5) in Table B.&nbsp;</p><p>H2 ELL can also be offered as the 4th H2 subject as shown in Table C.</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><em>Subject / Combination</em></strong></p></td><td rowspan="1" colspan="1"><p><strong><em>* Indicative Grade Cut-off for the relevant subject(s) at O-Level Examination</em></strong></p></td><td rowspan="1" colspan="1"><p><strong><em>Remarks</em></strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>H2 Bio</strong></p></td><td rowspan="1" colspan="1"><ul><li><p>B4 for Biology, or&nbsp;</p></li><li><p>B3 for Combined Science (with Biology)</p></li></ul></td><td rowspan="2" colspan="1"><p>Students who intend to offer H2 or H1 Bio are assumed to have knowledge and understanding of Biology at O-level, either as a single subject or as part of a Combined Science course.</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>H1 Bio</strong></p></td><td rowspan="1" colspan="1"><ul><li><p>C5 for Biology, or</p></li><li><p>A2 for Combined Science (with Biology)&nbsp;</p></li></ul></td></tr><tr><td rowspan="1" colspan="1"><p><strong>H2 Chem</strong></p></td><td rowspan="1" colspan="1"><ul><li><p>B3 for Chemistry, or</p></li><li><p>B3 for Combined Science (with Chemistry)&nbsp;</p></li></ul></td><td rowspan="2" colspan="1"><p>Students who intend to offer H2 or H1 Chem are assumed to have knowledge and understanding of Chemistry at O-level, either as a single subject or as part of a Combined Science course.</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>H1 Chem</strong></p></td><td rowspan="1" colspan="1"><ul><li><p>C5 for Chemistry, or</p></li><li><p>B3 for Combined Science (with Chemistry)</p></li></ul></td></tr><tr><td rowspan="1" colspan="1"><p><strong>H2 Phy</strong></p></td><td rowspan="1" colspan="1"><ul><li><p>B3 for Physics, or</p></li><li><p>A2 for Combined Science (with Physics)</p></li></ul></td><td rowspan="2" colspan="1"><p>Students who intend to offer H2 or H1 Phy are assumed to have knowledge and understanding of Physics at O-level, either as a single subject or as part of a Combined Science course.</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>H1 Phy</strong></p></td><td rowspan="1" colspan="1"><ul><li><p>B3 for Physics, or</p></li><li><p>A2 for Combined Science (with Physics)&nbsp;</p></li></ul></td></tr><tr><td rowspan="1" colspan="1"><p><strong>H2 Math</strong></p></td><td rowspan="1" colspan="1"><ul><li><p>B3 for Additional Mathematics</p></li></ul></td><td rowspan="1" colspan="1"><p>Students who intend to offer H2 Math are assumed to have knowledge of Additional Mathematics at O-level.</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Double&nbsp;</strong></p><p><strong>H2 Sciences:</strong></p><p><strong>H2 Chem &amp;&nbsp;</strong></p><p><strong>H2 Phy</strong></p></td><td rowspan="1" colspan="1"><ul><li><p>B3 for both Chemistry and Physics, or</p></li><li><p>B3 for Chemistry and A1 for Combined Science (with Physics), or</p></li><li><p>B3 for Physics and A1 for Combined Science (with Chemistry), or</p></li><li><p>A1 for Combined Science (Chemistry / Physics)</p></li></ul></td><td rowspan="1" colspan="1"><p>Students who intend to offer the H2 Chem &amp; H2 Phy combination are assumed to have knowledge and understanding of both Chemistry and Physics, at O-level, either as a single subject or as part of a Combined Science course.</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Double&nbsp;</strong></p><p><strong>H2 Sciences:</strong></p><p><strong>H2 Bio &amp;&nbsp;</strong></p><p><strong>H2 Chem</strong></p></td><td rowspan="1" colspan="1"><ul><li><p>B4 for Biology and B3 for Chemistry, or</p></li><li><p>B4 for Biology and A1 for Combined Science (with Chemistry), or</p></li><li><p>B3 for Chemistry and B3 for Combined Science (with Biology), or</p></li><li><p>A1 for Combined Science (Biology / Chemistry)</p></li></ul></td><td rowspan="1" colspan="1"><p>Students who intend to offer the H2 Bio &amp; H2 Chem combination are assumed to have knowledge and understanding of both Biology and Chemistry, at O-level, either as a single subject or as part of a Combined Science course.</p></td></tr></tbody></table>
 
-\*The Indicative Grade Cut-off provides an indication of the lowest grade scored in the relevant O-Level subject by the majority of students who were offered the A-Level subject / combination in 2022/2023.
+\*The Indicative Grade Cut-off provides an indication of the lowest grade scored in the relevant O-Level subject by the majority of students who were offered the A-Level subject / combination in 2023/2024.
 
 **H3 SUBJECTS**
 
