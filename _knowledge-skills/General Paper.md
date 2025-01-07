@@ -71,7 +71,7 @@ programme.</p>
 <p>Economics-General Paper Stretch Programme</p>
 </li>
 <li>
-<p>Nara High School-CJC STEAM Exchange Programme</p>
+<p>CJC-Nara High School STEAM Exchange Programme</p>
 </li>
 </ul>
 <p>To develop the necessary skills and knowledge to take on challenges of
