@@ -25,9 +25,9 @@ A graphic calculator (GC) is a key learning tool that is designed to help studen
 #### A-Level Syllabus
 
 Click the following links for an overview of the Mathematics syllabi as well as the assessment formats:<br>
-[H1 Mathematics syllabus (Examination in 2024)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8865_y24_sy.pdf)
-<br>[H2 Mathematics (Examination in 2024)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9758_y24_sy.pdf)
-<br>[H3 Mathematics (Examination in 2024)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9820_y24_sy.pdf)
+* [H1 Mathematics syllabus (first year of examination in 2025)](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/8865_y25_sy.pdf)
+<br>[H2 Mathematics (first year of examination in 2025)](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9758_y25_sy.pdf)
+<br>[H3 Mathematics (first year of examination in 2025)](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9820_y25_sy.pdf)
 
 #### Prerequisites/Suitability
 
@@ -39,12 +39,12 @@ To cater to the diverse needs, interests and abilities of students, the A-Level 
 * H3 Mathematics (in collaboration with SAJC and NUS and NTU-NIE)
 
 H1 Mathematics is designed to provide students with a foundation in mathematics and statistics that will support their business or social sciences studies at the university. It is particularly appropriate for students without an Additional Mathematics background because it offers an opportunity for them to learn important mathematical concepts and skills in algebra and calculus that are covered in Additional Mathematics. Students will also learn basic statistical methods that are necessary for studies in business and social sciences. 
-<br>Assumed knowledge: **G3 Mathematics**
+<br>Assumed knowledge: **Mathematics**
 
 H2 Mathematics is designed to prepare students for a range of university courses, including mathematics, sciences and related courses, where a good foundation in mathematics is required. It develops mathematical thinking and reasoning skills that are essential for further learning of mathematics. Through the applications of mathematics, students also develop an appreciation of mathematics and its connections to other disciplines and to the real world. 
-<br>Assumed knowledge: **G3 Additional Mathematics**
+<br>Assumed knowledge: **Additional Mathematics**
 
-Students without G3 Additional Mathematics (e.g. those who offered G2 Additional Mathematics or just G3 Mathematics) may offer H2 Mathematics but will be required to bridge the knowledge gap during the course of study. In CJC, they will be identified through a Readiness Assessment and attend a compulsory bridging programme if needed. 
+Students without Additional Mathematics may offer H2 Mathematics but will be required to bridge the knowledge gap during the course of study. In CJC, they have to sit for a Readiness Assessment before classes are confirmed. 
 
 H3 Mathematics is designed for students with the passion and ability in mathematics. It aims to engage students who are keen to specialise in mathematics in solving more challenging problems in mathematics and proving mathematical results. Students will learn useful techniques and results, related to the content in H2 Mathematics, to solve mathematical problems and prove mathematical statements. In the course of learning, students will develop an understanding of the rigour of mathematics and mathematical proof and a deeper insight into the practice, value and beauty of mathematics. 
 <br> Pre-requisite: H2 Mathematics
@@ -63,10 +63,7 @@ Assessment provides feedback for both students and teachers.
 ##### School-based Assessments 
 We will carry out our own school-based assessments (SBA), which could be formative or summative, at different stages of students’ learning and at different points in time. 
 
-**Changes to SBA (from 2024 JC1 Intake)**<br>
-Mid-year Examination will be removed in phases: JC1/Pre-U1 in 2024, JC2/Pre-U2 in 2025, and Pre-U3 in 2026. 
-
-As with the primary and secondary schools, changes to SBA for the JCs/MI are intended to support schools in reducing the excessive focus on examinations, and provide more time and space for the development of 21CC. This will also provide JC/MI students with a more coherent education experience as they transit from secondary education to the A-Level. 
+As with the primary and secondary schools, Mid-year Examination will be removed, with the intention  to support schools in reducing the excessive focus on examinations, and provide more time and space for the development of 21CC. This will also provide JC/MI students with a more coherent education experience as they transit from secondary education to the A-Level. 
 
 When planning SBA, the department will adopt the three guiding principles from MOE: <br>
 * Guiding Principle 1: Schools should use assessment information to provide feedback to students, improve teaching and learning practices, and make sound school-based decisions on assessment-related issues. 
