@@ -17,62 +17,44 @@ img {
 *   **[Science Department](/eopenhouse/academic-information/department-information/mathematics-n-science/science)**
 #### **STEM Education Programme**
 
-In line with MOE’s strategic thrusts and college focus in providing differentiated support for students’ diverse interest and learning opportunities beyond the classroom, the college STEM Steering committee was set up to drive the STEM education programmes. Since 2022, we are fortunate to have Dr Timothy Hu Xiao Ming&nbsp;–&nbsp;an Artificial Intelligence expert from A\*STAR&nbsp;–&nbsp;to be supporting the college in STEM education initiatives.
+In line with MOE’s strategic thrusts and college focus in providing differentiated support for students’ diverse interest and learning opportunities beyond the classroom, the college STEM Steering committee was set up to drive the STEM education programmes. Since 2022, we are fortunate to have Dr Timothy Hu Xiao Ming&nbsp;–&nbsp;an Artificial Intelligence expert from A\*STAR&nbsp;–&nbsp;to be supporting the college in STEM education initiatives. Sr Deidre O’ Loan Centre for Creativity houses a shared maker space that supports STEM programmes.
+
+![](/images/Science/1.jpg)
+
+![](/images/Science/2.jpg)
+
+The CJC STEM Programme is based on the following framework:
 ![2024 STEM framework](/images/Science/2024_STEM_framework.jpg)
 
-![STEM Education overview 1](/images/cjc%20stem%20top%20picture%201.jpg)
+The programme is tiered according to the ability and interest of students.
+![](/images/Science/4.jpg)
 
-![STEM education overview 2](/images/cjc%20stem%20top%20picture%202.jpg)
+![](/images/Science/5.jpg)
+
+
+#### **1\. STEM Fest**
+
+<img style="width:100%" src="/images/cjc%20stem%20picture%203.png">
+
+An annual collaboration between the Mathematics and the Science Departments to help all students recognize the importance of STEM (Science, Technology, Engineering &amp; Mathematics) and appreciate its use in addressing real-world problems. The week-long event allows students to acquire and apply their knowledge and skills from H2 subjects and allows Mathematics and Science student leaders to hone their organisation and leadership skills..
+
+![](/images/Science/7.jpg)
+
+![](/images/Science/8.jpg)
+
+#### **2\. CJC-Nara High School Global Exchange Programme**
+
+This stretch programme is an annual twinning programme with the Super Science School from Japan. Based on the theme on UN Sustainability Development Goals, the students representing the two schools did research, learnt about each other’s culture, hone communication and critical thinking skills, the respective countries journey of sustainability and culminated in a joint presentation on the final day to share their findings. Nara High School visited CJC in 2023 while CJC visited Nara Senior High School in 2024.
+
+![](/images/Science/9.jpg)
+
+![](/images/Science/10.jpg)
 
 #### **1\. Engineering Technology Programme Scholarships**
 
 This committee oversees the selection, nomination and development of the STEM related scholarship applicants. There are 7 recipients of the award in 2023.
 
 ![2023 ETPS Investiture](/images/Science/2023_STEM_ETPS.jpg)
-
-#### **2\. STEM Fest**
-
-<img style="width:100%" src="/images/cjc%20stem%20picture%203.png">
-
-
-STEM Fest is an annual collaboration between the Mathematics and the Science Departments to help all students recognize the importance of STEM (Science, Technology, Engineering &amp; Mathematics) and appreciate its use in addressing real-world problems. The week-long event serves as an important platform to provide learning experiences for science students to acquire and apply their knowledge and skills from H2 subjects on STEM. It also allows Mathematics and Science student leaders to hone their organisation and leadership skills.
-
-<center>Our Principal, Mrs Lim, launching STEM Fest during pre Covid-19 years<br>
-<img src="/images/Science/STEM_Fest_2023.jpg">
-</center>
-  
-From STEMazing Race and Escape Room to Pi Day commemoration and interest-based workshops conducted by various STEM partners, several activities are held to cater to students’ different interest in Mathematics and Science.&nbsp; House points are also awarded to inject an element of fun and competition.
-
-<center><img style="width:100%" src="/images/cjc%20stem%20picture%207.png">
-STEM Fest Publicity Boards 2018 and 2019 encouraging students' participation</center>
-
-<center><img style="width:100%" src="/images/Science/2023_STEM_Fest_3D_prints.jpg">
-3D-printed student works on display at STEM Fest after attending workshops</center>
-
-
-<center><img style="width:60%;" alt="Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years" src="/images/cjc%20stem%20picture%209.png">
-Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years</center> 
-
-<center><img src="/images/Science/STEM_Fest_2023_Escape_Room.png"><img style="width:100%" src="/images/students%20solve%20puzzles%20in%20escape%20room%20during%20pre%20covid-19%20years.JPG">
-Students solve puzzles in Escape Room during pre Covid-19 years</center>
-
-<center><img style="width:100%" src="/images/python%20programming%20workshops%20in%20pre%20covid-19%20years.JPG">
-Python Programming Workshops in pre Covid-19 years</center>
-
-<center><img style="width:70%;" src="/images/Science/STEM_Fest_2023_Pi_Day_Recitation.jpg">
-	Pi Day Recitation Challenge</center>
-
-<center><img style="width:100%" src="/images/cjc%20stem%20picture%2012.png">
-<div style="line-height: 1.5;">Students taking part in Escape Room on board Labs on Wheels digital literacy programme by IMDA on Cybersecurity and Artificial Intelligence</div></center>
-
-<center><img style="width:100%" src="/images/cjc%20stem%20picture%2013.png">
-Students engaging in problem solving during STEMazing Race</center>
-
-#### **3\. CJC-Nara High School Global Exchange Programme**
-
-This month-long stretch programme is an annual exchange programme with Nara High School which is a Super Science School from Japan. Based on the theme of the UN Sustainable Development Goals, students representing the two schools collaborated on a joint research and identified how STEM helps the two countries achieve these sustainable development goals. In the process, students also get to interact and learn about each other’s culture as well as the respective countries’ journey to enhance sustainability. This programme culminated in a joint presentation on the final day where students shared their findings.
-
-![](/images/Science/Nara_High_School.jpg)
 
 #### **4\. STEM Local Leadership Stretch Programme**
 
