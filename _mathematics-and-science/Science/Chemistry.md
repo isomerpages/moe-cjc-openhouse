@@ -99,7 +99,7 @@ Comparison of Subject Content in H1 and H2 Chemistry
 
   
 
-**I took Combined Science at ‘O’ Level. Will I be able to cope with H1/H2 Chemistry?** <br>
+<br>**I took Combined Science at ‘O’ Level. Will I be able to cope with H1/H2 Chemistry?** <br>
 A-Level Chemistry does build upon your knowledge of O-Level Chemistry. However, performance is largely dependent on your consistency and effort as you study the subject.
 
   
