@@ -20,9 +20,9 @@ At CJC, great emphasis is placed on the understanding and application of scienti
 #### **A-Level Syllabus**
 
 Click the following links for an overview of the Chemistry syllabi as well as the assessment formats:
-<br>
-[H1 Chemistry] https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8873_y26_sy.pdf  <br>
-[H2 Chemistry] https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sy.pdf 
+<br>[H1 Chemistry (Syllabus 8873)](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8873_y26_sy.pdf)
+<br>[H2 Chemistry (Syllabus 9476)](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sy.pdf)
+
 
 #### **Prerequisites/Suitability**
 
@@ -69,7 +69,7 @@ _"My Chemistry Tutor has overall been very helpful in the tutorial as well as pr
 
 #### **Enrichment**
 
-**<u>Singapore Chemistry Olympiad</u>** participation is offered to students who have performed exceedingly well in JC1 assessments, and who have shown themselves to be responsible and self-directed in their learning. They will be exposed to interesting and challenging content related to their syllabus in intensive training sessions and will have the opportunity to represent the college in the Singapore Chemistry Olympiad.
+**<u>Singapore Chemistry Olympiad</u>** participation is offered to students who have performed exceedingly well in JC1 assessments, and who have shown themselves to be responsible and self-directed in their learning. They will be exposed to interesting and challenging content related to their syllabus in intensive training sessions and will have the opportunity to represent the college in the Singapore Chemistry Olympiad. Our 2024 JC1 students have achieved exceptionally excellent results by attaining 1 Silver and 5 Bronze medals.
 
   
 
@@ -80,10 +80,8 @@ More information can be found at https://cjc.moe.edu.sg/eopenhouse/academic-info
 
 #### **H3 Chemistry**
 
-The syllabus and assessment criteria for H3 Chemistry can be found here:
-https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_sy.pdf
-
-  
+The syllabus and assessment criteria for H3 Chemistry can be found here: 
+<br>[H3 Chemistry (Syllabus 9813)](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_sy.pdf)
 
 H3 Chemistry is only offered to students who have done very well at the end of the first year of academic studies. It allows students to explore the Chemistry subject in greater depth, with more focus on specific applications related to interesting Chemistry concepts.
 
