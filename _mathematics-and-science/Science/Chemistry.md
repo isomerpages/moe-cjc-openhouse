@@ -21,8 +21,8 @@ At CJC, great emphasis is placed on the understanding and application of scienti
 
 Click the following links for an overview of the Chemistry syllabi as well as the assessment formats:
 <br>
-[H1 Chemistry]*not available on SEAB website as of 7 January 2025, 8am  <br>
-[H2 Chemistry](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sy.pdf)  
+[H1 Chemistry] https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8873_y26_sy.pdf  <br>
+[H2 Chemistry] https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sy.pdf 
 
 #### **Prerequisites/Suitability**
 
@@ -76,14 +76,12 @@ _"My Chemistry Tutor has overall been very helpful in the tutorial as well as pr
 **<u>STEM Fest</u>** is an annual collaboration between the Mathematics and the Science Departments to help students recognize the importance of STEM (Science, Technology, Engineering &amp; Mathematics) and appreciate its use in addressing real-world problems. The week-long event serves as an important platform to provide learning experiences for students to acquire and apply their knowledge and skills from H2-related subjects in the areas related to STEM. It also allows Mathematics and Science student leaders to hone their organisation and leadership skills in the preparation of activities during the event.
 
   
-More information can be found at  
-[https://cjc.moe.edu.sg/eopenhouse/academic-information/department-information/mathematics-n-science](https://cjc.moe.edu.sg/eopenhouse/academic-information/department-information/mathematics-n-science)
+More information can be found at https://cjc.moe.edu.sg/eopenhouse/academic-information/department-information/mathematics-n-science
 
 #### **H3 Chemistry**
 
 The syllabus and assessment criteria for H3 Chemistry can be found here:
-
-[https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_sy.pdf](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_sy.pdf)
+https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_sy.pdf
 
   
 
