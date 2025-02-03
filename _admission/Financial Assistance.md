@@ -1,8 +1,8 @@
 ---
-title: Financial Aid
-permalink: /eopenhouse/admission/financial-aid/
+title: Financial Assistance
+permalink: /eopenhouse/admission/financial-assistance/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 The college is committed to ensuring that all students have a fair opportunity to realise their potential. The MOE Financial Assistance Scheme, CJC Needy Student Fund and the Internationalisation Fund provide students with the necessary resources as well as the opportunity to take up enrichment activities beyond local shores.
 
