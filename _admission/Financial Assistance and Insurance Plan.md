@@ -37,8 +37,7 @@ school attire and other fees which are not covered by MOE FAS.</p>
 <p>Click here for the <a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphlet</a>.</p>
 <p>Application for FAS is through the year, in order to qualify for FAS with
 effect from April 2025, please submit the completed application form with
-all required supporting documents to the General Office by 28 February
-2025.</p>
+all required supporting documents by 28 February 2025.</p>
 <p><strong>Income Family Micro-Insurance and Savings Scheme (IFMISS)</strong>
 </p>
 <p>For pupils attending a local Government or Government-aided primary school
@@ -49,8 +48,7 @@ or guardian.&nbsp;As such, they have developed the Income Family Micro-Insurance
 and Savings Scheme (IFMISS) to help students from pre-school to pre-university
 institutions with disadvantaged backgrounds cope financially in such times
 of need.</p>
-<p>For more information about Income, please visit their&nbsp;[website](
-<a href="http://www.income.com.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.income.com.sg/</a>).</p>
+<p>For more information about Income, please visit their&nbsp;website <a href="http://www.income.com.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.income.com.sg/</a>.</p>
 <p>Click <a href="/files/Income IFMISS Brochure 2020.pdf" rel="noopener noreferrer nofollow" target="_blank">here for the IFMISS</a>.</p>
 <p><strong><u>MOE Group Personal Accident (GPA) Insurance Plan</u></strong>
 </p>
