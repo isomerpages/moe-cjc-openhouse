@@ -29,7 +29,7 @@ he or she meets either of the following criteria:</p>
 students taking public transport)</p>
 <p>* 100% waiver of National Examination Fees</p>
 <p>Students who satisfy the eligibility criteria for the MOE FAS Scheme may
-submit the application online via this website&nbsp;[<a href="https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)</a>
+submit the application online via this website&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 </p>
 <p>Students eligible for the Financial Assistance Scheme may apply for the
 CJC Needy Student Fund for subsidies on textbooks, curriculum material,
