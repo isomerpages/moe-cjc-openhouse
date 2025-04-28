@@ -53,12 +53,4 @@ before self and that you be kind to others. By that and only by that criterion
 shall our college be truly Catholic Junior College." -Ee Peng Liang, Chairman,
 CJC Management Committee (1975).</p>
 </blockquote>
-<h4><strong>Discover More</strong></h4>
-<p>Read our student prospectus online to find out more about our college's
-programmes and student life.</p>
-<p><a href="https://go.gov.sg/prospectus-2021" rel="noopener noreferrer nofollow" target="_blank">CJC Prospectus 2021</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/cover%20for%20prospectus%202020.jpg">
-</div>
 <p></p>
