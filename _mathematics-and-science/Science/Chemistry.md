@@ -81,338 +81,212 @@ related to interesting Chemistry concepts.</p>
 covered in H2. There is NO lab work for H1. Please refer to&nbsp;<a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a>&nbsp;for
 more information.</p>
 <p>Comparison of Subject Content in H1 and H2 Chemistry</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Core Ideas
-<br>
+<td rowspan="1" colspan="1">
+<p><strong>Core Ideas</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p>H2
-<br>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>H2</strong>
 </p>
-</th>
-<th rowspan="1" colspan="2">
-<p>H1
-<br>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>H1</strong>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Matter
-<br>
+<p><strong>Matter</strong>
 </p>
 </td>
-<td rowspan="1" colspan="3">
-<p>Atomic Structure
-<br>
-</p>
+<td rowspan="1" colspan="2">
+<p>Atomic Structure</p>
 </td>
 </tr>
 <tr>
 <td rowspan="6" colspan="1">
-<p>Structure and Properties
-<br>
+<p><strong>Structure and Properties</strong>
 </p>
 </td>
-<td rowspan="1" colspan="3">
-<p>Chemical Bonding
-<br>
-</p>
+<td rowspan="1" colspan="2">
+<p>Chemical Bonding</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Gaseous State
-<br>
-</p>
+<p>The Gaseous State</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
-<p>-
-<br>
-</p>
+<p>Theories of Acids and Bases</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>The Periodic Table/Period 3</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Theories of Acids and Bases
-<br>
-</p>
+<p>Group 2</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Theories of Acids and Bases
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>The Periodic Table
-<br>
-</p>
+<td rowspan="1" colspan="1">
+<p>Group 1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 2
-<br>
-</p>
+<p>Group 17</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Group 1
-<br>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Group 17
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Group 17 (less)
-<br>
-</p>
+<p>Group 17 (less)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Trans-formation
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Mole Concept and Stoichiometry (including Redox reactions)
-<br>
+<p><strong>Trans-formation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>The Mole Concept and Stoichiometry
-<br>(including Redox reactions)
-<br>
+<p>The Mole Concept and Stoichiometry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chemical Energetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Chemical Energetics</p>
+<p><em>(less content compared to H2)</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chemical Energetics
-<br>
-</p>
+<p>Reaction Kinetics</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Chemical Energetics
-<br>(less content compared to H2)
-<br>
+<td rowspan="1" colspan="1">
+<p>Reaction Kinetics <em>(less)</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Reaction Kinetics
-<br>
-</p>
+<p>Chemical Equilibria</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Reaction Kinetics (less)
-<br>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Chemical Equilibria
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Chemical Equilibria (less)
-<br>
+<p>Chemical Equilibria <em>(less)</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Chemistry of Aqueous Solutions
-<br>
+<p><strong>Chemistry of Aqueous Solutions</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acid-Base Equilibria
-<br>
-</p>
+<p>Acid-Base Equilibria</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Theories of Acids and Bases (continued) (less)
-<br>
+<td rowspan="1" colspan="1">
+<p>Theories of Acids and Bases<em> (continued) (less)</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Solubility Equilibria</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>-</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="10" colspan="1">
-<p>Organic Chemistry
-<br>
+<p><strong>Organic Chemistry</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Introduction
-<br>
-</p>
+<p>Introduction</p>
 </td>
-<td rowspan="1" colspan="2">
-<p><strong>Polymers and Organic Chemistry</strong>
+<td rowspan="10" colspan="1">
+<p><strong>Polymers &amp; Organic Chemistry</strong>
+</p>
+<p><strong>&nbsp;</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Isomerism
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Isomerism</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Organic Reactions and Mechanisms
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Organic Reactions and Mechanisms</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hydrocarbons
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Hydrocarbons</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Halogen Derivatives
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Halogen Derivatives</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hydroxy Compounds
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Hydroxy Compounds</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Carbonyl Compounds
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Carbonyl Compounds</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Carboxylic Acids and Derivatives
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Carboxylic Acids and Derivatives</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nitrogen Compounds
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Nitrogen Compounds</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Polymers
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Polymers</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Electrochemistry
-<br>
-</p>
-</td>
 <td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Electrochemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>An Introduction to The Chemistry of Transition Elements
-<br>
-</p>
-</td>
 <td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>An Introduction to The Chemistry of Transition Elements</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -421,13 +295,10 @@ more information.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Frequent practical sessions
-<br>
-</p>
+<p>Frequent practical sessions</p>
 </td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 </tbody>
@@ -436,11 +307,12 @@ more information.</p>
 <br><strong>I took Combined Science at ‘O’ Level. Will I be able to cope with H1/H2 Chemistry?</strong> 
 <br>A-Level Chemistry does build upon your knowledge of O-Level Chemistry.
 However, performance is largely dependent on your consistency and effort
-as you study the subject.</p>
-<p>Combined Science would not have covered Electrolysis and Metallic Bonding,
-as well as major concepts in Energy from Chemicals, Kinetics (Chemical
-Reactions), and structures of covalent compounds, which have been covered
-in Pure Chemistry.</p>
+as you study the subject.&nbsp;</p>
+<p>Combined Science students would not have covered topics on Electrolysis,
+Metallic Bonding, as well as major concepts in Energy from Chemical Kinetics
+(Chemical Reactions), structures of covalent compounds, and selected sections
+in Organic Chemistry, These learning outcomes would have been covered by
+students who have taken Pure Chemistry at ‘O’ Levels.&nbsp;</p>
 <p>Many other topics are new and all students start on an equal footing.</p>
 <p><strong>What is the assessment format for H1 / H2 Chemistry</strong> 
 <br>In addition to the lack of Practical Exams for H1 Chemistry, the assessment
@@ -455,97 +327,72 @@ for H1 and H2 Chemistry also differs as shown below:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Paper</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>H2 (%)</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>H1 (%)</strong>
-<br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1
-<br>
-</p>
+<p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 MCQs (15%)
-<br>
-</p>
+<p>30 MCQs (15%)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 MCQs (33%)
-<br>
-</p>
+<p>30 MCQs (33%)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2
-<br>
-</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Structured Qns
-<br>[including Data-Based] (30%)
-<br>
-</p>
+<p>Structured Qns</p>
+<p>[including Data-Based] (30%)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Section A:</strong>&nbsp;Structured Qns
-<br>[including Data Response Qn(s)]
-<br><strong>Section B:</strong>&nbsp;Free Response Qns
-<br>(67%)
-<br>
+<p><strong><u>Section A:</u></strong>
 </p>
+<p>Structured Qns</p>
+<p>[including Data Response Qn(s)]</p>
+<p><strong><u>Section B:</u></strong>
+</p>
+<p>Free Response Qns</p>
+<p>(67%)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3
-<br>
-</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Structured Qns (35%)
-<br>
-</p>
+<p>Structured Qns (35%)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-
-<br>
-</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4
-<br>
-</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Practical Paper (20%)
-<br>
-</p>
+<p>Practical Paper (20%)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-
-<br>
-</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p>&nbsp;</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -557,84 +404,60 @@ for H1 and H2 Chemistry also differs as shown below:</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Assessment Objectives</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>H2</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>H1</strong>
-<br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>A</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Knowledge with understanding
-<br>
-</p>
+<p>Knowledge with understanding</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>36%
-<br>
-</p>
+<p>36%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>40%
-<br>
-</p>
+<p>45%</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>B</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Handling, applying and evaluating information
-<br>
-</p>
+<p>Handling, applying and evaluating information</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>44%
-<br>
-</p>
+<p>44%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>60%
-<br>
-</p>
+<p>55%</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>C</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Experimental skills and investigations
-<br>
-</p>
+<p>Experimental skills and investigations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20%
-<br>
-</p>
+<p>20%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-
-<br>
-</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
