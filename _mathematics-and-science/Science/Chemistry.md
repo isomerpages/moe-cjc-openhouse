@@ -21,13 +21,13 @@ and assessment platforms.</p>
 <h4><strong>A-Level Syllabus</strong></h4>
 <p>Click the following links for an overview of the Chemistry syllabi as
 well as the assessment formats:
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8873_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Chemistry (Syllabus 8873)</a>
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Chemistry (Syllabus 9476)</a>
+<br><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2026/8873_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Chemistry (Syllabus 8873)</a>
+<br><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2026/9476_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Chemistry (Syllabus 9476)</a>
 </p>
 <h4><strong>Prerequisites/Suitability</strong></h4>
 <p>Students most suited for A-level H2 Chemistry are those with a strong
-foundation in O-Level chemistry coupled with an inquisitive mind and desire
-to learn more.&nbsp;</p>
+foundation in O-Level Chemistry coupled with an inquisitive mind and desire
+to learn more.</p>
 <p>Students must also be disciplined and self-directed to manage the workload
 well with asynchronous SLS lessons for content acquisition.</p>
 <h4><strong>Microlesson</strong></h4>
