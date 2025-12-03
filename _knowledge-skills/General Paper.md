@@ -6,7 +6,6 @@ variant: tiptap
 ---
 <p><strong>About the Programme</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_GP_Programme_info_1.png">
 </div>
