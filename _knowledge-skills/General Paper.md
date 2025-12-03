@@ -53,7 +53,9 @@ well-reasoned arguments.</p>
 <p></p>
 <p><strong>Student Testimonials</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_GP_Programme_testimonials_1.png">
+</div>
 <p></p>
 <p><strong>Enrichment</strong>
 </p>
