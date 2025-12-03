@@ -7,7 +7,7 @@ variant: tiptap
 <p><strong>About the Programme</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_GP_Programme_info_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_GP_Programme_info_11.png">
 </div>
 <p>General Paper encourages students to actively explore a range of key issues
 of global, regional and local significance and be ready to meet the challenges
