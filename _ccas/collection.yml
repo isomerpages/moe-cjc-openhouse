@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Virtual and Performing Arts/Choir.md
-      - Virtual and Performing Arts/Concert Band.md
-      - Virtual and Performing Arts/Dance Club.md
-      - Virtual and Performing Arts/Drama Society.md
+      - Virtual and Performing Arts/Symphonic Band.md
+      - Virtual and Performing Arts/Modern Dance.md
+      - Virtual and Performing Arts/English Drama.md
       - Virtual and Performing Arts/Guitar Ensemble.md
       - Virtual and Performing Arts/Guzheng Ensemble.md
       - Virtual and Performing Arts/.keep
@@ -15,13 +15,13 @@ collections:
       - Clubs and Societies/First Aid Club.md
       - Clubs and Societies/Genesis.md
       - Clubs and Societies/Interact Club.md
-      - Clubs and Societies/Nexus Society.md
+      - Clubs and Societies/Nexus Investment & Entrepreneurship Society.md
       - Clubs and Societies/Oratorical Society.md
       - Clubs and Societies/Strategy Games Club.md
       - Clubs and Societies/Student Council.md
       - Clubs and Societies/.keep
       - Physical Sports/Badminton.md
-      - Physical Sports/Basketball (Boys).md
+      - Physical Sports/Basketball (Boys only).md
       - Physical Sports/Bowling.md
       - Physical Sports/Canoeing.md
       - Physical Sports/Cross Country.md
@@ -31,7 +31,6 @@ collections:
       - Physical Sports/Netball.md
       - Physical Sports/Swimming.md
       - Physical Sports/Tennis.md
-      - Physical Sports/Track and Field.md
       - Physical Sports/Ultimate Frisbee.md
       - Physical Sports/Volleyball.md
       - Physical Sports/.keep
