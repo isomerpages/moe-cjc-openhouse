@@ -53,51 +53,27 @@ healthier lifestyle through our fitness and gym module.</p>
 <p>Paralympics/Special Olympics</p>
 </li>
 </ul>
-<h5><strong>Supporting pedagogies, SFed and frameworks</strong></h5>
-<ol data-tight="true" class="tight">
-<li>
-<p>Teaching Games for Understanding</p>
-</li>
-<li>
-<p>Games Concept Approach</p>
-</li>
-<li>
-<p>Differentiated Instructions (DI)</p>
-</li>
-<li>
-<p>Assessment of Learning</p>
-</li>
-<li>
-<p>Whole College Approach to House system</p>
-</li>
-</ol>
-<p>More details about CJC PE Programme can be found here: <a href="/files/cjc%20pe%20programme%20(nov%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">CJC PE Programme</a>
+<h5><strong>MOE Syllabus for Pre-University</strong></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MOE_PE_Syllabus_Jan_2026.png">
+</div>
+<p><em>Overview of Physical Education Curriculum Framework</em>
 </p>
-<h3><strong>MOE Syllabus</strong></h3>
-<p><strong>Expectations of MOE Pre-U Syllabus</strong>
+<h5><strong>Purpose and Goals</strong></h5>
+<p><strong>The purpose of Physical Education is to develop physically competent and confident individuals who enjoy a lifetime of active and healthy living safely and responsibly.</strong>
 </p>
-<p>At least 16 hours of curriculum time per module that will develop the
-ability of the student to participate independently, safely and with enough
-competence to be a participant at a recreational level;</p>
-<p>Schools should offer at least three physical activities for every student.</p>
-<p>Include learning outcomes which are aligned to the six goals of Physical
-Education (through formative assessment);</p>
-<p><strong>Goal 1:</strong> Acquire a range of motor skills to participate
-in a variety of physical activities.
-<br><strong>Goal 2:</strong> Understand and apply movement concepts, principles
-and strategies in a range of physical activities.
-<br><strong>Goal 3:</strong> Demonstrate safe practices during physical and
-daily activities with respect to themselves, others and the environment.
-<br><strong>Goal 4:</strong> Display positive personal and social behaviour
-across different experiences
-<br><strong>Goal 5:</strong> Acquire and maintain health-enhancing fitness
-through regular participation in physical activities.
-<br><strong>Goal 6:</strong> Enjoy and value the benefits of living a physically
-active and healthy life.</p>
-<p>Click the following link for an overview of the Physical Education syllabus
-as well as the assessment format:
-<br><a href="https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/pe/physical_education_syllabus_2014.ashx?la=en&amp;hash=99815A270E547EFA314D9D11119590576BBADE53" rel="noopener noreferrer nofollow" target="_blank">Physical Education Syllabus</a>
-</p>
+<p>1. <strong>Movement Competence.</strong> Students are competent and confident
+to participate in a range of physical and outdoor activities.</p>
+<p>2. <strong>Healthy Lifestyle Practices.</strong> Students have a personal
+commitment to healthy lifestyle practices in physical activity, nutrition,
+sleep, outdoor time and hygiene.</p>
+<p>3. <strong>Safety Mindset.</strong> Students apply risk assessment to manage
+daily and physical activities with respect to self, others and the environment.</p>
+<p>4. <strong>Core Values.</strong> Students make informed and responsible
+decisions with regard to personal behaviour and social interactions based
+on sound values-based judgements.</p>
+<p>5. <strong>Enjoyment.</strong> Students enjoy and value physical activities
+and healthy living in a sustainable way.</p>
 <h4><strong>Further Contact Details</strong></h4>
 <p>Do you have a question that has not been addressed on this site? If so,
 feel free to write to one of us:</p>
