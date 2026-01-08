@@ -135,7 +135,7 @@ be produced to the CCA teacher-in-charge.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/eopenhouse/cca-n-cjc-houses/ccas/visual-n-performing-arts/choir" rel="noopener noreferrer nofollow" target="_blank">Virtual &amp; Performing Arts</a></strong>
+<p><strong><a href="/eopenhouse/cca-n-cjc-houses/ccas/visual-n-performing-arts/choir" rel="noopener noreferrer nofollow" target="_blank">Visual &amp; Performing Arts</a></strong>
 </p>
 </li>
 <li>
