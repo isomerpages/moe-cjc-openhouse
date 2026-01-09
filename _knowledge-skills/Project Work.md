@@ -2,66 +2,69 @@
 title: Project Work
 permalink: /eopenhouse/academic-information/department-information/knowledge-skills/project-work/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-#### **About the Programme**
-
-H1 Project Work (PW) is a subject that embodies MOE’s Framework for 21st Century Competencies and Student Outcomes. Competencies such as Critical and Inventive Thinking as well as Communication, Collaboration and Information Skills are taught through PW. The subject aims to provide students with the opportunity to synthesize knowledge from various disciplines and areas of learning, and critically and creatively apply it to authentic situations.
-
-  
-
-Project Work is a compulsory H1 subject taken only in the first year of JC. In a group of four or five, students are expected to select one task out of two and develop the task into a full project. Being a coursework subject, documents for Project Work are submitted at different stages throughout the academic year.
-
-  
-Students are expected to demonstrate the following skills while undertaking Project Work.  
-
-*   **Knowledge Application**
-
-Students are required to make links across different areas of knowledge and to generate, develop and evaluate ideas and information so as to apply these skills to their project task.  
-
-*   **Communication**
-
-Students are required to demonstrate their ability to communicate effectively and to present ideas clearly and coherently to a specific audience in both the written and oral form.  
-
-*   **Collaboration**
-
-In addition, students are also expected to demonstrate their collaborative skills through working in a team to achieve common goals.  
-
-*   **Independent Learning**
-
-Students are to demonstrate ownership of their own learning process through an ability to learn independently, reflect on their learning and take appropriate actions to improve it. Students will be given support and guidance by their Project Work Supervising Tutors (ST) in the research, thinking and writing skills necessary for meeting the curriculum objectives of Project Work. This will be done in stages, according to the different documents.  
-Project Work has the same curriculum hours as any other H1 subject. However, as a coursework and team-based subject, it is not uncommon for students to spend time outside of the school curriculum brainstorming, researching, discussing and reviewing their project both individually and in their group.
-
-It is the College’s mission for Every CJCian to be a ‘Thinker With A Mission and Leader With A Heart’. A core belief of the PW department at CJC is that students can improve under the right environment and approaches. Department teachers value students' insights and feedback and seek to guide and prepare them for life's challenges via the learning outcomes of Project Work. Students acquire skills in order to prepare them for lifelong learning and the complexities of future work life.
-
-#### **A-Level Syllabus**
-
-Click the following link for an overview of the Project Work syllabus as well as the assessment format:
-
-[H1 Project Work (1st Examination in 2024)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8882_y24_sy.pdf)
-
-#### **Student Testimonials**
-
-<img style="width:100%" src="/images/3%20testimonial%201.png">
-
-<img style="width:100%" src="/images/3%20testimonial%202.png">
-
-#### **Enrichment**
-
-<img style="width:100%" src="/images/2%20programme%201.jpeg">
-
-<img style="width:100%" src="/images/2%20programme%202.jpeg">
-
-#### **Other Contact Details**
-
-Do you have a question that has not been addressed on this site? If so, feel free to write to one of us:
-
-  
-
-*   HOD / Mr Mervyn Sek&nbsp;<br>
-[mervyn\_sek@moe.edu.sg](mailto:mervyn_sek@moe.edu.sg)
-
-  
-
-*   Subject Head / Ms Jillian Cheng: <br>
-[cheng\_shangrong\_jillian@moe.edu.sg](mailto:cheng\_shangrong\_jillian@moe.edu.sg)
+<h4>About the Programme</h4>
+<p>Project Work (PW) is a distinctive subject in the A-Level curriculum that
+equips students with future-ready competencies and essential life skills
+through authentic, real-world learning. Through an integrated and applied
+learning approach, students draw on interdisciplinary knowledge and emerging
+21st Century Competencies (E21CC) to explore real-world issues. They learn
+to consider multiple perspectives, work collaboratively, and develop meaningful
+and innovative solutions. Through this process, students also grow as responsible
+individuals, learning to manage relationships and work effectively with
+peers from diverse backgrounds.</p>
+<p>By the end of the PW cycle, students will be able to:</p>
+<ul>
+<li>
+<p>demonstrate <strong>critical and inventive thinking skills</strong> in gathering,
+analysing and evaluating information, and generating ideas that address
+real-world needs;</p>
+</li>
+<li>
+<p><strong>communicate clearly, coherently and persuasively</strong> in collaborative
+discussion and in presenting ideas to a specific audience in both written
+and oral forms; and</p>
+</li>
+<li>
+<p>apply<strong> collaborative skills</strong> in managing the project effectively
+to achieve the group’s goals.</p>
+</li>
+</ul>
+<p>Students work in <strong>groups of four to five</strong> within their class
+on a project that addresses a real-world problem or opportunity. PW is
+a <strong>coursework subject completed within the first year of Junior College</strong>,
+and students are expected to adhere strictly to assessment timelines and
+requirements for the following assessment components:</p>
+<ul>
+<li>
+<p><strong>Project Summary<br></strong>Each group submits a written Project
+Summary documenting the real-world problem or opportunity identified, and
+the proposed ideas to address the project aim.</p>
+</li>
+<li>
+<p><strong>Individual Reflection<br></strong>Each student submits a written
+reflection of his/her analysis and evaluation of group ideas or his/her
+learning about self in the process of completing the project.</p>
+</li>
+<li>
+<p><strong>Oral Presentation<br></strong>Each student presents a part of
+the project orally to the assessors. This is followed by the group responding
+collectively to questions posed by the assessors.</p>
+</li>
+</ul>
+<h4>A-Level Syllabus</h4>
+<p>Click <a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8882_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+an overview of the Project Work syllabus as well as the assessment format.</p>
+<p>From 2024, PW has been repositioned as a <strong>Pass/Fail subject</strong>.
+This shift redirects the focus from grades to <strong>deep learning</strong>,
+encouraging students to exercise greater <strong>agency, creativity and ownership</strong> in
+areas they care about. A <strong>Pass in PW is mandatory for admission to Autonomous Universities</strong>.</p>
+<h4>PW@CJC Social Impact Programme</h4>
+<p>At CJC, PW is more than an academic requirement. Grounded in meaningful
+learning and the joy of discovery, CJC nurtures students as <strong>creators, connectors and contributors</strong> by
+mentoring and facilitating the implementation of proposed PW ideas through
+service-learning experiences. Through authentic engagement with communities,
+students learn to uphold <strong>human dignity</strong>, work in <strong>solidarity</strong> with
+others, and contribute to the <strong>common good</strong> by addressing
+real-world needs in purposeful and responsible ways that create <strong>positive social impact</strong>.</p>

@@ -2,7 +2,7 @@
 title: English Drama
 permalink: /eopenhouse/cca-n-cjc-houses/ccas/visual-n-performing-arts/drama-society/
 description: ""
-third_nav_title: Virtual and Performing Arts
+third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
 <h2>English Drama</h2>

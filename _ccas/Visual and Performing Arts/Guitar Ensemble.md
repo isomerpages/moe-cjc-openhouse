@@ -2,7 +2,7 @@
 title: Guitar Ensemble
 permalink: /cca-n-cjc-houses/ccas/visual-n-performing-arts/guitar-ensemble/
 description: ""
-third_nav_title: Virtual and Performing Arts
+third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
 <h2>Guitar Ensemble</h2>
