@@ -9,8 +9,6 @@ variant: markdown
 
 English Language and Linguistics (ELL) is an H2 subject that aims to develop students’ understanding, use and appreciation of the English language through the discipline of Linguistics as well as investigation into the nature of the English language and contemporary linguistics issues.
 
- <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Fq3XZ4kgzRc?si=Hh-oVHNdaubKkjTJ" height="315" width="560"></iframe>
-
 The study of ELL would involve thinking about these core questions:
 
 *   What is the English language?
@@ -23,17 +21,11 @@ The study of ELL would involve thinking about these core questions:
     
 *   Why do we need to be aware of linguistic choices we make especially in the area of politics, institutions and news media?
 
-![English Language and Linguistics](/images/ellposter1.png)
-
-![English Language and Linguistics](/images/ellposter2.png)
-
 #### **A-Level Syllabus**
 
 Click the following link for an overview of the English Language and Linguistics syllabus as well as the assessment format:
 
-  
-
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9508\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9508_y21_sy.pdf)
+  [https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9508_y26_sy.pdf](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9508_y26_sy.pdf)
 
 #### **Prerequisite/Suitability**
 
@@ -125,7 +117,7 @@ Do you have a question that has not been addressed on this site? If so, feel fre
 
   
 
-*   HOD / Ms Pauline Chua: <br>[chua\_sook\_lan\_pauline@moe.edu.sg](mailto:chua_sook_lan_pauline@moe.edu.sg)
+*   HOD, English / Ms Pauline Chua: <br>[chua\_sook\_lan\_pauline@moe.edu.sg](mailto:chua_sook_lan_pauline@moe.edu.sg)
 
-*   Covering SH / Ms Alexandra Hofbauer: <br>
+*   Subject Head, ELL / Ms Alexandra Hofbauer: <br>
     [hofbauer\_alexandra\_leanne@moe.edu.sg](mailto:hofbauer\_alexandra\_leanne@moe.edu.sg)
