@@ -14,7 +14,6 @@ At Catholic Junior College, we nurture students to become thinkers, leaders and 
 Students may apply for selection into four Ignite classes, which provide priority access to academic stretch and growth opportunities. These classes are designed to challenge students intellectually, helping them deepen subject mastery, think critically and creatively, and develop confidence and expression.
 
 Beyond learning journeys, students gain exclusive access to top university seminars, national forums, industry attachments and academic competitions, broadening their horizons and testing their skills against high-performing peers. They are matched with intellectual peers in four Ignite classes, a signature component of CJC’s talent development programme, enabling collaboration and exchange of ideas.
-
 ![](/images/image4.jpg)
 
 #### Ignite+ Programme
