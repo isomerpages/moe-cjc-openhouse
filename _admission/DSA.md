@@ -29,8 +29,7 @@ in leadership and CCA.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -80,8 +79,7 @@ in leadership and CCA.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -148,12 +146,11 @@ in leadership and CCA.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Others areas of expertise / talent</strong>
+<p><strong>Other areas of expertise / talent</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -180,7 +177,7 @@ in leadership and CCA.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Entrepreneurship</p>
 </li>
@@ -207,17 +204,17 @@ in this area</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Records of consistently good English Language grades in Sec 3 and Sec
-4.</p>
+4</p>
 </li>
 <li>
 <p>Records of achievements and school contributions that show evidence of
 strong interest and ability in the English language</p>
 </li>
 <li>
-<p>Shortlisted applicants will be required to write an essay.</p>
+<p>Shortlisted applicants will be required to write an essay</p>
 </li>
 </ul>
 </td>
