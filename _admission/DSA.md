@@ -4,15 +4,16 @@ permalink: /eopenhouse/admission/dsa/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Direct School Admission 2025</strong></h3>
-<h4><strong>2025 Direct School Admission - Junior Colleges (DSA-JC) for Admission to JC1 in 2026</strong></h4>
+<h4><strong>2026 Direct School Admission - Junior Colleges (DSA-JC) Exercise for Admission to JC1 in 2027</strong></h4>
 <p></p>
-<p>CJC invites applications for direct admission to JC1 in 2026 from students
-who are outstanding in at least one area of talents / skills listed in
-the table below. Successful applicants may be considered for one of the
-10 <a href="https://cjc.moe.edu.sg/admission/scholarships" rel="noopener noreferrer nofollow" target="_blank">FLAME scholarships</a> available
-to JC1 students with exceptional strengths and/or abilities in leadership
-and CCA.</p>
+<p>CJC invites applications for direct admission to JC1 in 2027 from students
+who are outstanding in at least one area of talent/skill listed in the
+table below. Successful applicants may be considered for one of the 10
+<a href="https://cjc.moe.edu.sg/admission/scholarships" rel="noopener noreferrer nofollow" target="_blank">FLAME scholarships<u> </u>
+</a>available to JC1 students with exceptional strengths and/or abilities
+in leadership and CCA.</p>
+<h4><strong>DSA Talent Areas&nbsp;</strong></h4>
+<p>We are looking for students who are outstanding in the following areas:</p>
 <p><strong>DSA Talent Areas&nbsp;</strong>
 </p>
 <p>We are looking for students who are outstanding in the following areas:</p>
