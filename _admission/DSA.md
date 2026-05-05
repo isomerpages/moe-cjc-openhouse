@@ -274,9 +274,9 @@ online application:
 equivalent;</p>
 <p>- Sec 4/5 Term 1 &amp; 2 Continual Assessment results slip or equivalent.</p>
 <p>- Latest available NAPFA test results (Compulsory for talent areas in
-Sports)
-<br>- CCA &amp; VIA records (for 2025 and 2026);&nbsp;and
-<br>- Personal Statement.</p>
+Sports)</p>
+<p>- CCA &amp; VIA records (for 2025 and 2026);&nbsp;and</p>
+<p>- Personal Statement.</p>
 <p><strong><em>Incomplete submissions will&nbsp;not&nbsp;be considered</em></strong>.</p>
 <p>3. Application periods for the two phases are as follows:</p>
 <p><u>For DSA-JC (Phase 1)<br></u>To allow sufficient time for processing,
